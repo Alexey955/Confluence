@@ -1,0 +1,971 @@
+Date: Sun, 29 Jan 2023 18:23:14 +0000 (UTC)
+Message-ID: <1707059047.33.1675016594132@622992ce31b4>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_32_1503918203.1675016594132"
+
+------=_Part_32_1503918203.1675016594132
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>LocalDateTime (=D0=BA=D0=BB=D0=B0=D1=81=D1=81)</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>LocalDateTime (=D0=BA=D0=BB=D0=B0=D1=81=D1=81)</h1>
+    <div class=3D"Section1">
+        <div id=3D"expander-201545524" class=3D"expand-container">
+<div id=3D"expander-control-201545524" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A8=D0=
+=B0=D0=B1=D0=BB=D0=BE=D0=BD=D1=8B</span>
+</div>
+<div id=3D"expander-content-201545524" class=3D"expand-content">
+<div class=3D"table-wrap">
+<table data-layout=3D"default" data-local-id=3D"51fb41ab-927c-463b-afab-e9f=
+070c2d370" class=3D"confluenceTable">
+<colgroup>
+<col style=3D"width: 140.0px;">
+<col style=3D"width: 229.0px;">
+<col style=3D"width: 141.0px;">
+<col style=3D"width: 147.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p><strong>=D0=9D=D0=BE=D0=BC=D0=B5=D1=80</stron=
+g></p></th>
+<th class=3D"confluenceTh"><p><strong>=D0=9D=D0=B0=D0=B7=D0=BD=D0=B0=D1=87=
+=D0=B5=D0=BD=D0=B8=D0=B5</strong></p></th>
+<th class=3D"confluenceTh"><p><strong>=D0=A8=D0=B0=D0=B1=D0=BB=D0=BE=D0=BD<=
+/strong></p></th>
+<th class=3D"confluenceTh"><p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80<=
+/strong></p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>1</p></td>
+<td class=3D"confluenceTd"><p>=D0=92=D1=80=D0=B5=D0=BC=D1=8F =D0=B4=D0=BE =
+=D0=BF=D0=BE=D0=BB=D1=83=D0=B4=D0=BD=D1=8F (AM) =D0=B8=D0=BB=D0=B8 =D0=BF=
+=D0=BE=D1=81=D0=BB=D0=B5 =D0=BF=D0=BE=D0=BB=D1=83=D0=B4=D0=BD=D1=8F (PM)</p=
+></td>
+<td class=3D"confluenceTd"><p>a</p></td>
+<td class=3D"confluenceTd"><p>AM =D0=B8=D0=BB=D0=B8 PM</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>2</p></td>
+<td rowspan=3D"2" class=3D"confluenceTd"><p>=D0=A1=D0=B5=D0=BA=D1=83=D0=BD=
+=D0=B4=D1=8B</p></td>
+<td class=3D"confluenceTd"><p>s</p></td>
+<td class=3D"confluenceTd"><p>1</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>3</p></td>
+<td class=3D"confluenceTd"><p>ss </p></td>
+<td class=3D"confluenceTd"><p>01</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>4</p></td>
+<td rowspan=3D"2" class=3D"confluenceTd"><p>=D0=9C=D0=B8=D0=BD=D1=83=D1=82=
+=D1=8B</p></td>
+<td class=3D"confluenceTd"><p>m</p></td>
+<td class=3D"confluenceTd"><p>1</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>5</p></td>
+<td class=3D"confluenceTd"><p>mm</p></td>
+<td class=3D"confluenceTd"><p>01</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>6</p></td>
+<td rowspan=3D"2" class=3D"confluenceTd"><p>=D0=94=D0=B5=D0=BD=D1=8C =D0=BC=
+=D0=B5=D1=81=D1=8F=D1=86=D0=B0</p></td>
+<td class=3D"confluenceTd"><p>d</p></td>
+<td class=3D"confluenceTd"><p>1</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>7</p></td>
+<td class=3D"confluenceTd"><p>dd</p></td>
+<td class=3D"confluenceTd"><p>01</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>8</p></td>
+<td rowspan=3D"2" class=3D"confluenceTd"><p>=D0=94=D0=B5=D0=BD=D1=8C =D0=BD=
+=D0=B5=D0=B4=D0=B5=D0=BB=D0=B8</p></td>
+<td class=3D"confluenceTd"><p>E</p></td>
+<td class=3D"confluenceTd"><p>=D0=9F=D0=BD</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>9</p></td>
+<td class=3D"confluenceTd"><p>EEEE</p></td>
+<td class=3D"confluenceTd"><p>=D0=BF=D0=BE=D0=BD=D0=B5=D0=B4=D0=B5=D0=BB=D1=
+=8C=D0=BD=D0=B8=D0=BA</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>10</p></td>
+<td rowspan=3D"2" class=3D"confluenceTd"><p>=D0=A7=D0=B0=D1=81 =D0=B2 12-=
+=D1=87=D0=B0=D1=81=D0=BE=D0=B2=D0=BE=D0=BC =D1=84=D0=BE=D1=80=D0=BC=D0=B0=
+=D1=82=D0=B5</p></td>
+<td class=3D"confluenceTd"><p>h</p></td>
+<td class=3D"confluenceTd"><p>1</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>11</p></td>
+<td class=3D"confluenceTd"><p>hh</p></td>
+<td class=3D"confluenceTd"><p>01</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>12</p></td>
+<td rowspan=3D"2" class=3D"confluenceTd"><p>=D0=A7=D0=B0=D1=81 =D0=B2 24-=
+=D1=87=D0=B0=D1=81=D0=BE=D0=B2=D0=BE=D0=BC =D1=84=D0=BE=D1=80=D0=BC=D0=B0=
+=D1=82=D0=B5</p></td>
+<td class=3D"confluenceTd"><p>H</p></td>
+<td class=3D"confluenceTd"><p>1</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>13</p></td>
+<td class=3D"confluenceTd"><p>HH</p></td>
+<td class=3D"confluenceTd"><p>01</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>14</p></td>
+<td rowspan=3D"4" class=3D"confluenceTd"><p>=D0=9C=D0=B5=D1=81=D1=8F=D1=86<=
+/p></td>
+<td class=3D"confluenceTd"><p>M</p></td>
+<td class=3D"confluenceTd"><p>1</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>15</p></td>
+<td class=3D"confluenceTd"><p>MM</p></td>
+<td class=3D"confluenceTd"><p>01</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>16</p></td>
+<td class=3D"confluenceTd"><p>MMM</p></td>
+<td class=3D"confluenceTd"><p>=D1=8F=D0=BD=D0=B2</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>17</p></td>
+<td class=3D"confluenceTd"><p>MMMM</p></td>
+<td class=3D"confluenceTd"><p>=D1=8F=D0=BD=D0=B2=D0=B0=D1=80=D1=8F</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>18</p></td>
+<td rowspan=3D"2" class=3D"confluenceTd"><p>=D0=93=D0=BE=D0=B4</p></td>
+<td class=3D"confluenceTd"><p>yy</p></td>
+<td class=3D"confluenceTd"><p>23</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>19</p></td>
+<td class=3D"confluenceTd"><p>yyyy</p></td>
+<td class=3D"confluenceTd"><p>2023</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<p></p>
+<div id=3D"expander-1132297152" class=3D"expand-container">
+<div id=3D"expander-control-1132297152" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D0=
+=BE=D0=BB=D1=83=D1=87=D0=B8=D1=82=D1=8C =D0=BA=D0=BE=D0=BB=D0=B8=D1=87=D0=
+=B5=D1=81=D1=82=D0=B2=D0=BE =D0=BC=D0=B8=D0=BB=D0=BB=D0=B8=D1=81=D0=B5=D0=
+=BA=D1=83=D0=BD=D0=B4 =D1=81 1 =D1=8F=D0=BD=D0=B2=D0=B0=D1=80=D1=8F 1970=D0=
+=B3 =D0=B4=D0=BE =D1=82=D0=B5=D0=BA=D1=83=D1=89=D0=B5=D0=B3=D0=BE =D0=B2=D1=
+=80=D0=B5=D0=BC=D0=B5=D0=BD=D0=B8: System.currentTimeMillis()</span>
+</div>
+<div id=3D"expander-content-1132297152" class=3D"expand-content">
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82 long - 13 =
+=D1=81=D0=B8=D0=BC=D0=B2=D0=BE=D0=BB=D0=BE=D0=B2</p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">long mi=
+lls =3D System.currentTimeMillis();
+
+System.out.println(mills);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ 1674221261564</p>
+</div>
+</div>
+<div id=3D"expander-1227433702" class=3D"expand-container">
+<div id=3D"expander-control-1227433702" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D0=
+=BE=D0=BB=D1=83=D1=87=D0=B8=D1=82=D1=8C =D1=82=D0=B5=D0=BA=D1=83=D1=89=D1=
+=83=D1=8E =D0=B4=D0=B0=D1=82=D1=83 =D0=B8 =D0=B2=D1=80=D0=B5=D0=BC=D1=8F: L=
+ocalDateTime.now()</span>
+</div>
+<div id=3D"expander-content-1227433702" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">LocalDa=
+teTime one =3D LocalDateTime.now();
+
+System.out.println(one);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ 2023-01-20T18:15:24.174</p>
+</div>
+</div>
+<div id=3D"expander-796494914" class=3D"expand-container">
+<div id=3D"expander-control-796494914" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D0=
+=BE=D0=BB=D1=83=D1=87=D0=B8=D1=82=D1=8C =D0=BA=D0=BE=D0=BB=D0=B8=D1=87=D0=
+=B5=D1=81=D1=82=D0=B2=D0=BE =D0=BC=D0=B8=D0=BB=D0=BB=D0=B8=D1=81=D0=B5=D0=
+=BA=D1=83=D0=BD=D0=B4: =D0=BE=D0=B1=D1=8A=D0=B5=D0=BA=D1=82 ZonedDateTime</=
+span>
+</div>
+<div id=3D"expander-content-796494914" class=3D"expand-content">
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82 long - 13 =
+=D1=81=D0=B8=D0=BC=D0=B2=D0=BE=D0=BB=D0=BE=D0=B2</p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">LocalDa=
+teTime one =3D LocalDateTime.now();
+
+ZonedDateTime zdt =3D ZonedDateTime.of(one, ZoneId.systemDefault());
+long mills =3D zdt.toInstant().toEpochMilli();
+
+System.out.println(mills);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ 1674232459894</p>
+</div>
+</div>
+<div id=3D"expander-502479003" class=3D"expand-container">
+<div id=3D"expander-control-502479003" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D0=
+=BE=D0=BB=D1=83=D1=87=D0=B8=D1=82=D1=8C =D1=87=D0=B8=D1=81=D0=BB=D0=BE =D0=
+=BB=D0=B5=D1=82/=D0=BC=D0=B5=D1=81=D1=8F=D1=86=D0=B5=D0=B2/=D0=B4=D0=BD=D0=
+=B5=D0=B9/=D1=87=D0=B0=D1=81=D0=BE=D0=B2/=D0=BC=D0=B8=D0=BD=D1=83=D1=82/=D1=
+=81=D0=B5=D0=BA=D1=83=D0=BD=D0=B4: getYear(); getMonthValue() / getMonth();=
+ getDayOfMonth() / getDayOfWeek(); getHour(); getMinute(); getSecond(); get=
+Nano()</span>
+</div>
+<div id=3D"expander-content-502479003" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">LocalDa=
+teTime one =3D LocalDateTime.of(2000, 1, 2, 3, 4, 5, 6);
+
+System.out.println("=D0=93=D0=BE=D0=B4: " + one.getYear());
+System.out.println("=D0=9C=D0=B5=D1=81=D1=8F=D1=86: " + one.getMonthValue()=
+);
+System.out.println("=D0=9C=D0=B5=D1=81=D1=8F=D1=86 =D1=81=D0=BB=D0=BE=D0=B2=
+=D0=B0=D0=BC=D0=B8: " + one.getMonth());
+System.out.println("=D0=94=D0=B5=D0=BD=D1=8C: " + one.getDayOfMonth());
+System.out.println("=D0=94=D0=B5=D0=BD=D1=8C =D0=BD=D0=B5=D0=B4=D0=B5=D0=BB=
+=D0=B8: " + one.getDayOfWeek());
+System.out.println("=D0=A7=D0=B0=D1=81: " + one.getHour());
+System.out.println("=D0=9C=D0=B8=D0=BD=D1=83=D1=82=D0=B0: " + one.getMinute=
+());
+System.out.println("=D0=A1=D0=B5=D0=BA=D1=83=D0=BD=D0=B4=D0=B0: " + one.get=
+Second());
+System.out.println("=D0=9D=D0=B0=D0=BD=D0=BE=D1=81=D0=B5=D0=BA=D1=83=D0=BD=
+=D0=B4=D0=B0: " + one.getNano());</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>=D0=93=D0=BE=D0=B4: <span style=3D"color: rgb(255,153,31);">2000</span><=
+br>=D0=9C=D0=B5=D1=81=D1=8F=D1=86: <span style=3D"color: rgb(255,153,31);">=
+1</span><br>=D0=9C=D0=B5=D1=81=D1=8F=D1=86 =D1=81=D0=BB=D0=BE=D0=B2=D0=B0=
+=D0=BC=D0=B8: <span style=3D"color: rgb(255,153,31);">JANUARY</span><br>=D0=
+=94=D0=B5=D0=BD=D1=8C: <span style=3D"color: rgb(255,153,31);">2</span><br>=
+=D0=94=D0=B5=D0=BD=D1=8C =D0=BD=D0=B5=D0=B4=D0=B5=D0=BB=D0=B8: <span style=
+=3D"color: rgb(255,153,31);">SUNDAY</span><br>=D0=A7=D0=B0=D1=81: <span sty=
+le=3D"color: rgb(255,153,31);">3</span><br>=D0=9C=D0=B8=D0=BD=D1=83=D1=82=
+=D0=B0: <span style=3D"color: rgb(255,153,31);">4</span><br>=D0=A1=D0=B5=D0=
+=BA=D1=83=D0=BD=D0=B4=D0=B0: <span style=3D"color: rgb(255,153,31);">5</spa=
+n><br>=D0=9D=D0=B0=D0=BD=D0=BE=D1=81=D0=B5=D0=BA=D1=83=D0=BD=D0=B4=D0=B0: <=
+span style=3D"color: rgb(255,153,31);">6</span></p>
+</div>
+</div>
+<div id=3D"expander-1666102211" class=3D"expand-container">
+<div id=3D"expander-control-1666102211" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=98=D0=
+=B7=D0=BC=D0=B5=D0=BD=D0=B8=D1=82=D1=8C =D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=
+=82: format()</span>
+</div>
+<div id=3D"expander-content-1666102211" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">LocalDa=
+teTime one =3D LocalDateTime.now();
+
+String str =3D one.format(DateTimeFormatter.ofPattern("dd.MM.yyyy' UTC+3:00=
+'"));
+
+System.out.println(str);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ 20.01.2023 UTC+3:00</p>
+</div>
+</div>
+<div id=3D"expander-2055258614" class=3D"expand-container">
+<div id=3D"expander-control-2055258614" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=97=D0=
+=B0=D0=BC=D0=B5=D0=BD=D0=B8=D1=82=D1=8C =D0=B2=D1=81=D0=B5 =D0=B8=D0=BB=D0=
+=B8 =D0=BD=D0=B5=D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D0=B5 =D0=B7=D0=BD=D0=
+=B0=D1=87=D0=B5=D0=BD=D0=B8=D1=8F: withYear(); withMonth() ...; LocalDateTi=
+me.of()</span>
+</div>
+<div id=3D"expander-content-2055258614" class=3D"expand-content">
+<p><strong>=D0=9F=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=D1=82=D1=80=D1=8B</strong>:=
+</p>
+<ol start=3D"1">
+<li><p>=D0=93=D0=BE=D0=B4</p></li>
+<li><p>=D0=9C=D0=B5=D1=81=D1=8F=D1=86</p></li>
+<li><p>=D0=94=D0=B5=D0=BD=D1=8C</p></li>
+<li><p>=D0=A7=D0=B0=D1=81</p></li>
+<li><p>=D0=9C=D0=B8=D0=BD=D1=83=D1=82=D0=B0</p></li>
+<li><p><u>=D0=A1=D0=B5=D0=BA=D1=83=D0=BD=D0=B4=D0=B0</u></p></li>
+<li><p><u>=D0=9D=D0=B0=D0=BD=D0=BE=D1=81=D0=B5=D0=BA=D1=83=D0=BD=D0=B4=D0=
+=B0</u></p></li>
+</ol>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 1 </strong>(=D0=B7=D0=B0=D0=
+=BC=D0=B5=D0=BD=D1=8F=D0=B5=D0=BC =D0=B3=D0=BE=D0=B4):</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">LocalDa=
+teTime one =3D LocalDateTime.of(2000, 1, 2, 3, 4, 5, 6);
+
+one =3D one.withYear(3000);
+
+System.out.println(one);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ <span style=3D"color: rgb(255,153,31);">3000</span>-01-02T03:04:05.0000000=
+06</p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 2 </strong>(=D0=B7=D0=B0=D0=
+=BC=D0=B5=D0=BD=D1=8F=D0=B5=D0=BC =D0=B2=D1=81=D0=B5 =D0=B7=D0=BD=D0=B0=D1=
+=87=D0=B5=D0=BD=D0=B8=D1=8F):</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">LocalDa=
+teTime one =3D LocalDateTime.of(2000, 1, 2, 3, 4, 5, 6);
+
+one =3D LocalDateTime.of(3000, 10, 20, 30, 40, 50, 60);
+
+System.out.println(one);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ 3000-10-15T20:25:30.000000035</p>
+</div>
+</div>
+<div id=3D"expander-817330615" class=3D"expand-container">
+<div id=3D"expander-control-817330615" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D1=
+=80=D0=B5=D0=BE=D0=B1=D1=80=D0=B0=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D1=8C Strin=
+g =D0=B2 LocalDateTime</span>
+</div>
+<div id=3D"expander-content-817330615" class=3D"expand-content">
+<p>=D0=A1=D1=82=D1=80=D0=BE=D0=BA=D0=B0 =D0=B4=D0=BE=D0=BB=D0=B6=D0=BD=D0=
+=B0 =D1=81=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=B0=D1=82=D1=8C =D0=B8 =D0=B4=D0=
+=B0=D1=82=D1=83 =D0=B8 =D0=B2=D1=80=D0=B5=D0=BC=D1=8F =D0=B8=D0=BB=D0=B8 =
+=D0=BD=D1=83=D0=B6=D0=BD=D0=BE =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=
+=D0=BE=D0=B2=D0=B0=D1=82=D1=8C LocalDate / LocalTime</p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">LocalDa=
+teTime one =3D LocalDateTime.parse("01:02:03 04.05.2006 UTC+3:00", DateTime=
+Formatter.ofPattern("HH:mm:ss dd.MM.yyyy' UTC+3:00'"));
+
+System.out.println(one);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ 2006-05-04T01:02:03</p>
+</div>
+</div>
+<div id=3D"expander-1348430633" class=3D"expand-container">
+<div id=3D"expander-control-1348430633" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D1=
+=80=D0=B5=D0=BE=D0=B1=D1=80=D0=B0=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D1=8C times=
+tamp =D0=B2 LocalDateTime: =D0=BE=D0=B1=D1=8A=D0=B5=D0=BA=D1=82 Timestamp</=
+span>
+</div>
+<div id=3D"expander-content-1348430633" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">Timesta=
+mp ts =3D new Timestamp(1674232459894L);
+LocalDateTime one =3D ts.toLocalDateTime();
+
+System.out.println(one);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ 2023-01-20T19:34:19.894</p>
+</div>
+</div>
+<div id=3D"expander-280999555" class=3D"expand-container">
+<div id=3D"expander-control-280999555" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D1=
+=80=D0=BE=D0=B2=D0=B5=D1=80=D0=B8=D1=82=D1=8C =D0=BD=D0=B0 =D0=B1=D0=BE=D0=
+=BB=D0=B5=D0=B5 =D0=BF=D0=BE=D0=B7=D0=B4=D0=BD=D1=8E=D1=8E: isAfter()</span=
+>
+</div>
+<div id=3D"expander-content-280999555" class=3D"expand-content">
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82:</p>
+<ul>
+<li><p>true - =D0=B5=D1=81=D0=BB=D0=B8 =D0=B4=D0=B0=D1=82=D0=B0 =D0=B1=D0=
+=BE=D0=BB=D0=B5=D0=B5 =D0=BF=D0=BE=D0=B7=D0=B4=D0=BD=D1=8F=D1=8F</p></li>
+<li><p>false - =D0=B5=D1=81=D0=BB=D0=B8 =D0=B4=D0=B0=D1=82=D0=B0 =D0=BD=D0=
+=B5 =D0=B1=D0=BE=D0=BB=D0=B5=D0=B5 =D0=BF=D0=BE=D0=B7=D0=B4=D0=BD=D1=8F=D1=
+=8F</p></li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">LocalDa=
+teTime one =3D LocalDateTime.now();
+LocalDateTime two =3D LocalDateTime.of(2000, 1, 2, 3, 4, 5, 6);
+
+System.out.println("=D0=94=D0=B0=D1=82=D0=B0 \"" + one + "\" =D0=B1=D0=BE=
+=D0=BB=D0=B5=D0=B5 =D0=BF=D0=BE=D0=B7=D0=B4=D0=BD=D1=8F=D1=8F =D1=87=D0=B5=
+=D0=BC \"" + two + "\": " + one.isAfter(two));</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ =D0=94=D0=B0=D1=82=D0=B0 "2023-01-20T20:07:33.318" =D0=B1=D0=BE=D0=BB=D0=
+=B5=D0=B5 =D0=BF=D0=BE=D0=B7=D0=B4=D0=BD=D1=8F=D1=8F =D1=87=D0=B5=D0=BC "20=
+00-01-02T03:04:05.000000006": <span style=3D"color: rgb(255,153,31);">true<=
+/span></p>
+</div>
+</div>
+<div id=3D"expander-1343197596" class=3D"expand-container">
+<div id=3D"expander-control-1343197596" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D1=
+=80=D0=BE=D0=B2=D0=B5=D1=80=D0=B8=D1=82=D1=8C =D0=BD=D0=B0 =D0=B1=D0=BE=D0=
+=BB=D0=B5=D0=B5 =D1=80=D0=B0=D0=BD=D0=BD=D1=8E=D1=8E: isBefore()</span>
+</div>
+<div id=3D"expander-content-1343197596" class=3D"expand-content">
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82:</p>
+<ul>
+<li><p>true - =D0=B5=D1=81=D0=BB=D0=B8 =D0=B4=D0=B0=D1=82=D0=B0 =D0=B1=D0=
+=BE=D0=BB=D0=B5=D0=B5 =D1=80=D0=B0=D0=BD=D0=BD=D1=8F=D1=8F</p></li>
+<li><p>false - =D0=B5=D1=81=D0=BB=D0=B8 =D0=B4=D0=B0=D1=82=D0=B0 =D0=BD=D0=
+=B5 =D0=B1=D0=BE=D0=BB=D0=B5=D0=B5 =D1=80=D0=B0=D0=BD=D0=BD=D1=8F=D1=8F</p>=
+</li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">LocalDa=
+teTime one =3D LocalDateTime.of(2000, 1, 2, 3, 4, 5, 6);
+LocalDateTime two =3D LocalDateTime.now();
+
+System.out.println("=D0=94=D0=B0=D1=82=D0=B0 \"" + one + "\" =D0=B1=D0=BE=
+=D0=BB=D0=B5=D0=B5 =D1=80=D0=B0=D0=BD=D0=BD=D1=8F=D1=8F =D1=87=D0=B5=D0=BC =
+\"" + two + "\": " + one.isBefore(two));</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ =D0=94=D0=B0=D1=82=D0=B0 "2000-01-02T03:04:05.000000006" =D0=B1=D0=BE=D0=
+=BB=D0=B5=D0=B5 =D1=80=D0=B0=D0=BD=D0=BD=D1=8F=D1=8F =D1=87=D0=B5=D0=BC "20=
+23-01-20T20:09:59.416": <span style=3D"color: rgb(255,153,31);">true</span>=
+</p>
+</div>
+</div>
+<div id=3D"expander-107009712" class=3D"expand-container">
+<div id=3D"expander-control-107009712" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D1=
+=80=D0=BE=D0=B2=D0=B5=D1=80=D0=B8=D1=82=D1=8C =D0=BD=D0=B0 =D1=80=D0=B0=D0=
+=B2=D0=B5=D0=BD=D1=81=D1=82=D0=B2=D0=BE =D0=B4=D0=B2=D1=83=D1=85 LocalDateT=
+ime: equals()</span>
+</div>
+<div id=3D"expander-content-107009712" class=3D"expand-content">
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82:</p>
+<ul>
+<li><p>true - =D0=B5=D1=81=D0=BB=D0=B8 =D1=80=D0=B0=D0=B2=D0=BD=D1=8B</p></=
+li>
+<li><p>false - =D0=B5=D1=81=D0=BB=D0=B8 =D0=BD=D0=B5 =D1=80=D0=B0=D0=B2=D0=
+=BD=D1=8B</p></li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">LocalDa=
+teTime one =3D LocalDateTime.of(2000, 1, 2, 3, 4, 5, 6);
+LocalDateTime two =3D LocalDateTime.of(2000, 1, 2, 3, 4, 5, 6);
+System.out.println("=D0=94=D0=B0=D1=82=D1=8B \"" + one + "\" =D0=B8 \"" + t=
+wo + "\" =D1=80=D0=B0=D0=B2=D0=BD=D1=8B: " + one.equals(two));
+
+one =3D LocalDateTime.now();
+two =3D LocalDateTime.of(2000, 1, 2, 3, 4, 5, 6);
+System.out.println("=D0=94=D0=B0=D1=82=D1=8B \"" + one + "\" =D0=B8 \"" + t=
+wo + "\" =D1=80=D0=B0=D0=B2=D0=BD=D1=8B: " + one.equals(two));</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>=D0=94=D0=B0=D1=82=D1=8B "2000-01-02T03:04:05.000000006" =D0=B8 "2000-01=
+-02T03:04:05.000000006" =D1=80=D0=B0=D0=B2=D0=BD=D1=8B: <span style=3D"colo=
+r: rgb(255,153,31);">true</span><br>=D0=94=D0=B0=D1=82=D1=8B "2023-01-20T20=
+:12:01.379" =D0=B8 "2000-01-02T03:04:05.000000006" =D1=80=D0=B0=D0=B2=D0=BD=
+=D1=8B: <span style=3D"color: rgb(255,153,31);">false</span></p>
+</div>
+</div>
+<div id=3D"expander-544642788" class=3D"expand-container">
+<div id=3D"expander-control-544642788" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D1=
+=80=D0=B5=D0=BE=D0=B1=D1=80=D0=B0=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D0=
+=B2 String: toString()</span>
+</div>
+<div id=3D"expander-content-544642788" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">LocalDa=
+teTime one =3D LocalDateTime.now();
+
+System.out.println(one.toString());</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ 2023-01-20T20:13:13.588</p>
+</div>
+</div>
+<div id=3D"expander-1547327164" class=3D"expand-container">
+<div id=3D"expander-control-1547327164" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A1=D0=
+=BE=D0=B7=D0=B4=D0=B0=D1=82=D1=8C =D0=BA=D0=BE=D0=BF=D0=B8=D1=8E: LocalDate=
+Time.of()</span>
+</div>
+<div id=3D"expander-content-1547327164" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">LocalDa=
+teTime one =3D LocalDateTime.now();
+
+LocalDateTime two =3D LocalDateTime.of(one.toLocalDate(), one.toLocalTime()=
+);
+
+System.out.println(two);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ Sat Jan 01 01:00:00 MSK 2000</p>
+</div>
+</div>
+<div id=3D"expander-2065686168" class=3D"expand-container">
+<div id=3D"expander-control-2065686168" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A1=D1=
+=80=D0=B0=D0=B2=D0=BD=D0=B8=D1=82=D1=8C =D0=B4=D0=B2=D0=B5 LocalDateTime: c=
+ompareTo()</span>
+</div>
+<div id=3D"expander-content-2065686168" class=3D"expand-content">
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82:</p>
+<ul>
+<li><p>0 - =D0=B5=D1=81=D0=BB=D0=B8 =D1=80=D0=B0=D0=B2=D0=BD=D1=8B</p></li>
+<li><p>=D0=9F=D0=BE=D0=BB=D0=BE=D0=B6=D0=B8=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=
+=D0=BE=D0=B5 =D1=87=D0=B8=D1=81=D0=BB=D0=BE - =D0=B5=D1=81=D0=BB=D0=B8 =D0=
+=BF=D0=B5=D1=80=D0=B2=D0=B0=D1=8F =D0=BF=D0=BE=D0=B7=D0=B4=D0=BD=D0=B5=D0=
+=B5 =D0=B2=D1=82=D0=BE=D1=80=D0=BE=D0=B9</p></li>
+<li><p>=D0=9E=D1=82=D1=80=D0=B8=D1=86=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=
+=D0=BE=D0=B5 =D1=87=D0=B8=D1=81=D0=BB=D0=BE - =D0=B5=D1=81=D0=BB=D0=B8 =D0=
+=BF=D0=B5=D1=80=D0=B2=D0=B0=D1=8F =D1=80=D0=B0=D0=BD=D1=8C=D1=88=D0=B5 =D0=
+=B2=D1=82=D0=BE=D1=80=D0=BE=D0=B9</p></li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">LocalDa=
+teTime one =3D LocalDateTime.of(2000, 1, 2, 3, 4, 5, 6);
+LocalDateTime two =3D LocalDateTime.of(2000, 1, 2, 3, 4, 5, 6);
+System.out.println("=D0=A1=D1=80=D0=B0=D0=B2=D0=BD=D0=B8=D0=B2=D0=B0=D0=B5=
+=D0=BC \"" + one + "\" =D1=81 \"" + two + "\": " + one.compareTo(two));
+
+one =3D LocalDateTime.now();
+two =3D LocalDateTime.of(2000, 1, 2, 3, 4, 5, 6);
+System.out.println("=D0=A1=D1=80=D0=B0=D0=B2=D0=BD=D0=B8=D0=B2=D0=B0=D0=B5=
+=D0=BC \"" + one + "\" =D1=81 \"" + two + "\": " + one.compareTo(two));
+
+one =3D LocalDateTime.of(2000, 1, 2, 3, 4, 5, 6);
+two =3D LocalDateTime.now();
+System.out.println("=D0=A1=D1=80=D0=B0=D0=B2=D0=BD=D0=B8=D0=B2=D0=B0=D0=B5=
+=D0=BC \"" + one + "\" =D1=81 \"" + two + "\": " + one.compareTo(two));</pr=
+e>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>=D0=A1=D1=80=D0=B0=D0=B2=D0=BD=D0=B8=D0=B2=D0=B0=D0=B5=D0=BC "Sat Jan 01=
+ 01:00:00 MSK 2000" =D1=81 "Sat Jan 01 01:00:00 MSK 2000": <span style=3D"c=
+olor: rgb(255,153,31);">0</span><br>=D0=A1=D1=80=D0=B0=D0=B2=D0=BD=D0=B8=D0=
+=B2=D0=B0=D0=B5=D0=BC "Sun Oct 10 10:00:00 MSD 2010" =D1=81 "Sat Jan 01 01:=
+00:00 MSK 2000": <span style=3D"color: rgb(255,153,31);">1</span><br>=D0=A1=
+=D1=80=D0=B0=D0=B2=D0=BD=D0=B8=D0=B2=D0=B0=D0=B5=D0=BC "Sat Jan 01 01:00:00=
+ MSK 2000" =D1=81 "Sun Oct 10 10:00:00 MSD 2010": <span style=3D"color: rgb=
+(255,153,31);">-1</span></p>
+</div>
+</div>
+<div id=3D"expander-433908040" class=3D"expand-container">
+<div id=3D"expander-control-433908040" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=94=D0=
+=BE=D0=B1=D0=B0=D0=B2=D0=B8=D1=82=D1=8C =D0=B3=D0=BE=D0=B4=D0=B0/=D0=BC=D0=
+=B5=D1=81=D1=8F=D1=86=D1=8B/=D0=B4=D0=BD=D0=B8/=D1=87=D0=B0=D1=81=D1=8B/=D0=
+=BC=D0=B8=D0=BD=D1=83=D1=82=D1=8B/=D1=81=D0=B5=D0=BA=D1=83=D0=BD=D0=B4=D1=
+=8B/=D0=BD=D0=B0=D0=BD=D0=BE=D1=81=D0=B5=D0=BA=D1=83=D0=BD=D0=B4=D1=8B: plu=
+sYears(); plusMonths; plusDays(); plusHours(); plusMinutes(); plusSeconds()=
+; plusNanos()</span>
+</div>
+<div id=3D"expander-content-433908040" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">LocalDa=
+teTime one =3D LocalDateTime.of(2000, 1, 2, 3, 4, 5, 6);
+
+one =3D one.plusYears(10);
+one =3D one.plusMonths(10);
+one =3D one.plusDays(10);
+one =3D one.plusHours(10);
+one =3D one.plusMinutes(10);
+one =3D one.plusSeconds(10);
+one =3D one.plusNanos(10);
+
+System.out.println(one);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ 2010-11-12T13:14:15.000000016</p>
+</div>
+</div>
+<div id=3D"expander-2052405848" class=3D"expand-container">
+<div id=3D"expander-control-2052405848" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9E=D1=
+=82=D0=BD=D1=8F=D1=82=D1=8C =D0=B3=D0=BE=D0=B4=D0=B0/=D0=BC=D0=B5=D1=81=D1=
+=8F=D1=86=D1=8B/=D0=B4=D0=BD=D0=B8/=D1=87=D0=B0=D1=81=D1=8B/=D0=BC=D0=B8=D0=
+=BD=D1=83=D1=82=D1=8B/=D1=81=D0=B5=D0=BA=D1=83=D0=BD=D0=B4=D1=8B/=D0=BD=D0=
+=B0=D0=BD=D0=BE=D1=81=D0=B5=D0=BA=D1=83=D0=BD=D0=B4=D1=8B: minusYears(); mi=
+nusMonths; minusDays(); minusHours(); minusMinutes(); minusSeconds(); minus=
+Nanos()</span>
+</div>
+<div id=3D"expander-content-2052405848" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">LocalDa=
+teTime one =3D LocalDateTime.of(2000, 1, 2, 3, 4, 5, 6);
+
+one =3D one.minusYears(10);
+one =3D one.minusMonths(10);
+one =3D one.minusDays(10);
+one =3D one.minusHours(10);
+one =3D one.minusMinutes(10);
+one =3D one.minusSeconds(10);
+one =3D one.minusNanos(10);
+
+System.out.println(one);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ 1989-02-19T16:53:54.999999996</p>
+</div>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_32_1503918203.1675016594132
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/f3b107dc57c372bed05715c167ece18a
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAA3NCSVQICAjb4U/gAAAAFVBMVEX/
+//9wcHBwcHBwcHBwcHBwcHBwcHA3RenHAAAAB3RSTlMAZoiZzN3/SzZomQAAAAlwSFlzAAALEgAA
+CxIB0t1+/AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNui8sowAAAAUdEVYdENy
+ZWF0aW9uIFRpbWUANi8xLzEzOKlF0AAAACFJREFUCJljYCATsCgwqIAZTMnMyRAhsTABCIMxkVxT
+GQCLcwHyUKXpLgAAAABJRU5ErkJggg==
+------=_Part_32_1503918203.1675016594132--
