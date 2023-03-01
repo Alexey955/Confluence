@@ -1,0 +1,1620 @@
+Date: Fri, 13 Jan 2023 13:00:22 +0000 (UTC)
+Message-ID: <379775658.11.1673614822421@82f1920d94d5>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_10_220891241.1673614822420"
+
+------=_Part_10_220891241.1673614822420
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Map (=D0=B8=D0=BD=D1=82=D0=B5=D1=80=D1=84=D0=B5=D0=B9=D1=81)</ti=
+tle>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Map (=D0=B8=D0=BD=D1=82=D0=B5=D1=80=D1=84=D0=B5=D0=B9=D1=81)</h1>
+    <div class=3D"Section1">
+        <div id=3D"expander-1062513695" class=3D"expand-container">
+<div id=3D"expander-control-1062513695" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=94=D0=
+=BE=D0=B1=D0=B0=D0=B2=D0=B8=D1=82=D1=8C =D0=BF=D0=B0=D1=80=D1=83, =D0=B5=D1=
+=81=D0=BB=D0=B8 =D0=BD=D0=B0=D1=85=D0=BE=D0=B4=D0=B8=D1=82 =D0=BA=D0=BB=D1=
+=8E=D1=87 - =D0=B8=D0=B7=D0=BC=D0=B5=D0=BD=D0=B8=D1=82=D1=8C =D0=B7=D0=BD=
+=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BF=D0=B0=D1=80=D1=8B: put()</span>
+</div>
+<div id=3D"expander-content-1062513695" class=3D"expand-content">
+<p><strong>=D0=A1=D0=B8=D0=BD=D1=82=D0=B0=D0=BA=D1=81=D0=B8=D1=81</strong>:=
+ V put(K k, V v)</p>
+<p>k - =D0=BA=D0=BB=D1=8E=D1=87, =D0=BF=D0=BE =D0=BA=D0=BE=D1=82=D0=BE=D1=
+=80=D0=BE=D0=BC=D1=83 =D0=B8=D1=89=D0=B5=D0=BC =D0=BF=D0=B0=D1=80=D1=83</p>
+<p>v - =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5, =D0=BA=D0=BE=D1=82=
+=D0=BE=D1=80=D0=BE=D0=B5:</p>
+<ul>
+<li><p>=D0=B5=D1=81=D0=BB=D0=B8 =D0=BD=D0=B0=D1=85=D0=BE=D0=B4=D0=B8=D0=BC =
+=D0=BA=D0=BB=D1=8E=D1=87 - =D0=B7=D0=B0=D0=BC=D0=B5=D0=BD=D1=8F=D0=B5=D1=82=
+ =D1=81=D1=82=D0=B0=D1=80=D0=BE=D0=B5 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=
+=D0=B8=D0=B5</p></li>
+<li><p>=D0=B5=D1=81=D0=BB=D0=B8 =D0=BD=D0=B5 =D0=BD=D0=B0=D1=85=D0=BE=D0=B4=
+=D0=B8=D0=BC =D0=BA=D0=BB=D1=8E=D1=87 - =D0=BF=D0=BE=D1=8F=D0=B2=D0=BB=D1=
+=8F=D0=B5=D1=82=D1=81=D1=8F =D0=B2 =D0=BD=D0=BE=D0=B2=D0=BE=D0=B9 =D0=BF=D0=
+=B0=D1=80=D0=B5</p></li>
+</ul>
+<hr>
+<p><strong>=D0=9B=D0=BE=D0=B3=D0=B8=D0=BA=D0=B0</strong>:</p>
+<ul>
+<li><p>=D0=95=D1=81=D0=BB=D0=B8 =D0=BF=D0=B0=D1=80=D0=B0 =D0=BD=D0=B0=D0=B9=
+=D0=B4=D0=B5=D0=BD=D0=B0 - =D0=B7=D0=B0=D0=BC=D0=B5=D0=BD=D1=8F=D0=B5=D1=82=
+ =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BF=D0=B0=D1=80=D1=8B,=
+ =D0=B2=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82 =D1=81=D1=82=
+=D0=B0=D1=80=D0=BE=D0=B5 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5</=
+p></li>
+<li><p>=D0=95=D1=81=D0=BB=D0=B8 =D0=BF=D0=B0=D1=80=D0=B0 =D0=BD=D0=B5 =D0=
+=BD=D0=B0=D0=B9=D0=B4=D0=B5=D0=BD=D0=B0 - =D0=B4=D0=BE=D0=B1=D0=B0=D0=B2=D0=
+=BB=D1=8F=D0=B5=D1=82 =D0=BF=D0=B0=D1=80=D1=83, =D0=B2=D0=BE=D0=B7=D0=B2=D1=
+=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82 null</p></li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 1</strong>: (=D0=B4=D0=BE=
+=D0=B1=D0=B0=D0=B2=D0=BB=D1=8F=D0=B5=D0=BC =D0=BF=D0=B0=D1=80=D1=83)</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+
+one.put("One", 1);
+one.put("Two", 2);
+one.put("Three", 3);
+
+System.out.println("=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=
+=D1=82 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5: " + one.put("Four"=
+, 4));
+System.out.println("=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=
+=D0=B8=D0=B5: " + one);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82 =D0=B7=D0=
+=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5: <span style=3D"color: rgb(255,153,=
+31);">null</span><br>=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=
+=D0=B8=D0=B5: {One=3D1, <span style=3D"color: rgb(255,153,31);">Four=3D4</s=
+pan>, Two=3D2, Three=3D3}</p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 2</strong>: (=D0=B8=D0=B7=
+=D0=BC=D0=B5=D0=BD=D1=8F=D0=B5=D0=BC =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=
+=D0=B8=D0=B5 =D0=BF=D0=B0=D1=80=D1=8B)</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+
+one.put("One", 1);
+one.put("Two", 2);
+one.put("Three", 3);
+
+System.out.println("=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=
+=D1=82 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5: " + one.put("Two",=
+ 12));
+System.out.println("=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=
+=D0=B8=D0=B5: " + one);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82 =D0=B7=D0=
+=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5: <span style=3D"color: rgb(255,153,=
+31);">2</span><br>=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=
+=B8=D0=B5: {One=3D1, Two=3D<span style=3D"color: rgb(255,153,31);">12</span=
+>, Three=3D3}</p>
+</div>
+</div>
+<div id=3D"expander-282972472" class=3D"expand-container">
+<div id=3D"expander-control-282972472" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=94=D0=
+=BE=D0=B1=D0=B0=D0=B2=D0=B8=D1=82=D1=8C =D0=BF=D0=B0=D1=80=D1=83, =D0=B5=D1=
+=81=D0=BB=D0=B8 =D0=BE=D1=82=D1=81=D1=83=D1=82=D1=81=D1=82=D0=B2=D1=83=D0=
+=B5=D1=82: putIfAbsent()</span>
+</div>
+<div id=3D"expander-content-282972472" class=3D"expand-content">
+<p><strong>=D0=A1=D0=B8=D0=BD=D1=82=D0=B0=D0=BA=D1=81=D0=B8=D1=81</strong>:=
+ V putIfAbsent(K k, V v)</p>
+<p>k - =D0=BA=D0=BB=D1=8E=D1=87, =D0=BF=D0=BE =D0=BA=D0=BE=D1=82=D0=BE=D1=
+=80=D0=BE=D0=BC=D1=83 =D0=B8=D1=89=D0=B5=D0=BC =D0=BF=D0=B0=D1=80=D1=83</p>
+<p>v - =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5, =D0=BA=D0=BE=D1=82=
+=D0=BE=D1=80=D0=BE=D0=B5:</p>
+<ul>
+<li><p>=D0=B5=D1=81=D0=BB=D0=B8 =D0=BD=D0=B5 =D0=BD=D0=B0=D1=85=D0=BE=D0=B4=
+=D0=B8=D0=BC =D0=BA=D0=BB=D1=8E=D1=87 - =D0=BF=D0=BE=D1=8F=D0=B2=D0=BB=D1=
+=8F=D0=B5=D1=82=D1=81=D1=8F =D0=B2 =D0=BD=D0=BE=D0=B2=D0=BE=D0=B9 =D0=BF=D0=
+=B0=D1=80=D0=B5</p></li>
+<li><p>=D0=B5=D1=81=D0=BB=D0=B8 =D0=BD=D0=B0=D1=85=D0=BE=D0=B4=D0=B8=D0=BC =
+=D0=BA=D0=BB=D1=8E=D1=87 =D0=B8 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=
+=D0=B5 =D0=BF=D1=83=D1=81=D1=82=D0=BE=D0=B5 - =D0=BF=D0=BE=D1=8F=D0=B2=D0=
+=BB=D1=8F=D0=B5=D1=82=D1=81=D1=8F =D0=B2 =D0=BD=D0=BE=D0=B2=D0=BE=D0=B9 =D0=
+=BF=D0=B0=D1=80=D0=B5</p></li>
+</ul>
+<hr>
+<p><strong>=D0=9B=D0=BE=D0=B3=D0=B8=D0=BA=D0=B0</strong>:</p>
+<ul>
+<li><p>=D0=95=D1=81=D0=BB=D0=B8 =D0=BF=D0=B0=D1=80=D0=B0 =D0=BD=D0=B5 =D0=
+=BD=D0=B0=D0=B9=D0=B4=D0=B5=D0=BD=D0=B0 - =D0=B4=D0=BE=D0=B1=D0=B0=D0=B2=D0=
+=BB=D1=8F=D0=B5=D1=82 =D0=BF=D0=B0=D1=80=D1=83, =D0=B2=D0=BE=D0=B7=D0=B2=D1=
+=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82 null</p></li>
+<li><p>=D0=95=D1=81=D0=BB=D0=B8 =D0=BD=D0=B0=D1=85=D0=BE=D0=B4=D0=B8=D1=82 =
+=D0=BA=D0=BB=D1=8E=D1=87 - =D0=B2=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=
+=D0=B5=D1=82 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5</p>
+<ul>
+<li><p>=D0=B5=D1=81=D0=BB=D0=B8 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=
+=D0=B5 =D0=BF=D0=B0=D1=80=D1=8B =D0=BF=D1=83=D1=81=D1=82=D0=BE=D0=B5 - =D0=
+=B4=D0=BE=D0=B1=D0=B0=D0=B2=D0=BB=D1=8F=D0=B5=D1=82 =D0=B7=D0=BD=D0=B0=D1=
+=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=B8 =D0=B2=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=
+=89=D0=B0=D0=B5=D1=82 null</p></li>
+</ul></li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 1</strong>: (=D0=B4=D0=BE=
+=D0=B1=D0=B0=D0=B2=D0=BB=D1=8F=D0=B5=D0=BC =D0=BF=D0=B0=D1=80=D1=83)</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+
+one.put("One", 1);
+one.put("Two", 2);
+one.put("Three", 3);
+
+System.out.println("=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=
+=D1=82 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5: " + one.putIfAbsen=
+t("Four", 4));
+System.out.println("=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=
+=D0=B8=D0=B5: " + one);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82 =D0=B7=D0=
+=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5: <span style=3D"color: rgb(255,153,=
+31);">null</span><br>=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=
+=D0=B8=D0=B5: {One=3D1, <span style=3D"color: rgb(255,153,31);">Four=3D4</s=
+pan>, Two=3D2, Three=3D3}</p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 2</strong>: (=D0=B4=D0=BE=
+=D0=B1=D0=B0=D0=B2=D0=BB=D1=8F=D0=B5=D0=BC =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=
+=D0=BD=D0=B8=D0=B5)</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+
+one.put("One", 1);
+one.put("Two", null);
+one.put("Three", 3);
+
+System.out.println("=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=
+=D1=82 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5: " + one.putIfAbsen=
+t("Two", 2));
+System.out.println("=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=
+=D0=B8=D0=B5: " + one);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82 =D0=B7=D0=
+=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5: <span style=3D"color: rgb(255,153,=
+31);">null</span><br>=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=
+=D0=B8=D0=B5: {One=3D1, Two=3D<span style=3D"color: rgb(255,153,31);">2</sp=
+an>, Three=3D3}</p>
+</div>
+</div>
+<div id=3D"expander-2071838500" class=3D"expand-container">
+<div id=3D"expander-control-2071838500" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=94=D0=
+=BE=D0=B1=D0=B0=D0=B2=D0=B8=D1=82=D1=8C =D0=B2 =D0=BE=D1=82=D0=BE=D0=B1=D1=
+=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BF=D0=B0=D1=80=D1=8B =D0=B4=D1=
+=80=D1=83=D0=B3=D0=BE=D0=B3=D0=BE =D0=BE=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=
+=B6=D0=B5=D0=BD=D0=B8=D1=8F: putAll()</span>
+</div>
+<div id=3D"expander-content-2071838500" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+HashMap&lt;String, Integer&gt; two =3D new HashMap&lt;&gt;();
+
+one.put("One", 1);
+one.put("Two", 2);
+one.put("Three", 3);
+
+two.put("Four", 1);
+two.put("Five", 2);
+two.put("Six", 3);
+
+two.putAll(one);
+
+System.out.println("=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=
+=D0=B8=D0=B5: " + two);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ =D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5: {Five=
+=3D2, Six=3D3, Four=3D1, <span style=3D"color: rgb(255,153,31);">One=3D1</s=
+pan>, <span style=3D"color: rgb(255,153,31);">Two=3D2</span>, <span style=
+=3D"color: rgb(255,153,31);">Three=3D3</span>}</p>
+</div>
+</div>
+<div id=3D"expander-917554084" class=3D"expand-container">
+<div id=3D"expander-control-917554084" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=94=D0=
+=BE=D0=B1=D0=B0=D0=B2=D0=B8=D1=82=D1=8C =D0=BF=D0=B0=D1=80=D1=83, =D0=B5=D1=
+=81=D0=BB=D0=B8 =D0=BE=D1=82=D1=81=D1=83=D1=82=D1=81=D1=82=D0=B2=D1=83=D0=
+=B5=D1=82, =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D1=8F =D0=BB=D1=
+=8F=D0=BC=D0=B1=D0=B4=D0=B0-=D0=B2=D1=8B=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=
+=B8=D0=B5: computeIfAbsent()</span>
+</div>
+<div id=3D"expander-content-917554084" class=3D"expand-content">
+<p><strong>=D0=A1=D0=B8=D0=BD=D1=82=D0=B0=D0=BA=D1=81=D0=B8=D1=81</strong>:=
+ default V computeIfAbsent(K k, Function&lt;T, R&gt; =D1=84=D1=83=D0=BD=D0=
+=BA=D1=86=D0=B8=D1=8F)</p>
+<p>k - =D0=BA=D0=BB=D1=8E=D1=87, =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D0=B9=
+ =D0=B8=D1=89=D0=B5=D0=BC; =D0=B5=D1=81=D0=BB=D0=B8 =D0=BD=D0=B5 =D0=BD=D0=
+=B0=D1=85=D0=BE=D0=B4=D0=B8=D0=BC - =D0=BF=D0=BE=D1=8F=D0=B2=D0=BB=D1=8F=D0=
+=B5=D1=82=D1=81=D1=8F =D0=B2 =D0=BD=D0=BE=D0=B2=D0=BE=D0=B9 =D0=BF=D0=B0=D1=
+=80=D0=B5</p>
+<p>=D1=84=D1=83=D0=BD=D0=BA=D1=86=D0=B8=D1=8F - =D0=BB=D1=8F=D0=BC=D0=B1=D0=
+=B4=D0=B0-=D0=B2=D1=8B=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5; =D0=B5=D1=
+=81=D0=BB=D0=B8 =D0=BD=D0=B5 =D0=BD=D0=B0=D1=85=D0=BE=D0=B4=D0=B8=D0=BC =D0=
+=BA=D0=BB=D1=8E=D1=87 - =D0=BE=D0=BF=D1=80=D0=B5=D0=B4=D0=B5=D0=BB=D1=8F=D0=
+=B5=D1=82 =D0=BD=D0=BE=D0=B2=D0=BE=D0=B5 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=
+=BD=D0=B8=D0=B5 =D0=BF=D0=B0=D1=80=D1=8B</p>
+<hr>
+<p><strong>=D0=9B=D0=BE=D0=B3=D0=B8=D0=BA=D0=B0</strong>:</p>
+<ul>
+<li><p>=D0=95=D1=81=D0=BB=D0=B8 =D0=BF=D0=B0=D1=80=D0=B0 =D0=BD=D0=B0=D0=B9=
+=D0=B4=D0=B5=D0=BD=D0=B0 - =D0=B2=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=
+=D0=B5=D1=82 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=B4=D0=BB=
+=D1=8F =D1=83=D0=BA=D0=B0=D0=B7=D0=B0=D0=BD=D0=BD=D0=BE=D0=B3=D0=BE =D0=BA=
+=D0=BB=D1=8E=D1=87=D0=B0</p></li>
+<li><p>=D0=95=D1=81=D0=BB=D0=B8 =D0=BF=D0=B0=D1=80=D0=B0 =D0=BD=D0=B5 =D0=
+=BD=D0=B0=D0=B9=D0=B4=D0=B5=D0=BD=D0=B0 - =D0=B4=D0=BE=D0=B1=D0=B0=D0=B2=D0=
+=BB=D1=8F=D0=B5=D1=82=D1=81=D1=8F =D0=BD=D0=BE=D0=B2=D0=B0=D1=8F =D0=BF=D0=
+=B0=D1=80=D0=B0, =D0=B2=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=
+=82=D1=81=D1=8F =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5</p>
+<ul>
+<li><p>=D0=B5=D1=81=D0=BB=D0=B8 =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D1=82=D1=8C =
+=D0=BD=D0=B5=D0=BB=D1=8C=D0=B7=D1=8F - =D0=B2=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=
+=D1=89=D0=B0=D0=B5=D1=82=D1=81=D1=8F null</p></li>
+</ul></li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 1</strong>: (=D0=BF=D0=B0=
+=D1=80=D0=B0 =D0=BD=D0=B0=D0=B9=D0=B4=D0=B5=D0=BD=D0=B0)</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+
+one.put("One", 1);
+one.put("Two", 2);
+one.put("Three", 3);
+
+System.out.println(one.computeIfAbsent("Two", (key) -&gt; key.length() + 10=
+));
+System.out.println(one);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+</p>
+<p>2<br>{One=3D1, Two=3D2, Three=3D3}</p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 2</strong>: (=D0=BF=D0=B0=
+=D1=80=D0=B0 =D0=BD=D0=B5 =D0=BD=D0=B0=D0=B9=D0=B4=D0=B5=D0=BD=D0=B0)</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+
+one.put("One", 1);
+one.put("Two", 2);
+one.put("Three", 3);
+
+System.out.println(one.computeIfAbsent("Four", (key) -&gt; key.length() + 1=
+0));
+System.out.println(one);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+</p>
+<p>14<br>{<span style=3D"color: rgb(255,153,31);">Four=3D14</span>, One=3D1=
+, Two=3D2, Three=3D3}</p>
+</div>
+</div>
+<div id=3D"expander-1415386608" class=3D"expand-container">
+<div id=3D"expander-control-1415386608" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D0=
+=BE=D0=BB=D1=83=D1=87=D0=B8=D1=82=D1=8C =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=
+=BD=D0=B8=D0=B5 =D0=BF=D0=B0=D1=80=D1=8B =D0=BF=D0=BE =D0=BA=D0=BB=D1=8E=D1=
+=87=D1=83: get()</span>
+</div>
+<div id=3D"expander-content-1415386608" class=3D"expand-content">
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82:</p>
+<ul>
+<li><p>=D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BF=D0=B0=D1=80=
+=D1=8B - =D0=B5=D1=81=D0=BB=D0=B8 =D0=BD=D0=B0=D1=85=D0=BE=D0=B4=D0=B8=D1=
+=82 =D0=BA=D0=BB=D1=8E=D1=87</p></li>
+<li><p>null - =D0=B5=D1=81=D0=BB=D0=B8 =D0=BD=D0=B5 =D0=BD=D0=B0=D1=85=D0=
+=BE=D0=B4=D0=B8=D1=82 =D0=BA=D0=BB=D1=8E=D1=87</p></li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+
+one.put("One", 1);
+one.put("Two", 2);
+one.put("Three", 3);
+
+System.out.println("=D0=97=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BF=
+=D0=B0=D1=80=D1=8B =D1=81 =D0=BA=D0=BB=D1=8E=D1=87=D0=BE=D0=BC \"Two\": " +=
+ one.get("Two"));
+System.out.println("=D0=97=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BF=
+=D0=B0=D1=80=D1=8B =D1=81 =D0=BA=D0=BB=D1=8E=D1=87=D0=BE=D0=BC \"Four\": " =
++ one.get("Four"));</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>=D0=97=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BF=D0=B0=D1=80=D1=
+=8B =D1=81 =D0=BA=D0=BB=D1=8E=D1=87=D0=BE=D0=BC "Two": <span style=3D"color=
+: rgb(255,153,31);">2</span><br>=D0=97=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=
+=D0=B5 =D0=BF=D0=B0=D1=80=D1=8B =D1=81 =D0=BA=D0=BB=D1=8E=D1=87=D0=BE=D0=BC=
+ "Four": <span style=3D"color: rgb(255,153,31);">null</span></p>
+</div>
+</div>
+<div id=3D"expander-1613035735" class=3D"expand-container">
+<div id=3D"expander-control-1613035735" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D0=
+=BE=D0=BB=D1=83=D1=87=D0=B8=D1=82=D1=8C =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=
+=BD=D0=B8=D0=B5 =D0=BF=D0=B0=D1=80=D1=8B =D0=BF=D0=BE =D0=BA=D0=BB=D1=8E=D1=
+=87=D1=83 =D0=B8=D0=BB=D0=B8 =D0=B4=D0=B5=D1=84=D0=BE=D0=BB=D1=82=D0=BD=D0=
+=BE=D0=B5 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5, =D0=B5=D1=81=D0=
+=BB=D0=B8 =D0=BA=D0=BB=D1=8E=D1=87 =D0=BE=D1=82=D1=81=D1=83=D1=82=D1=81=D1=
+=82=D0=B2=D1=83=D0=B5=D1=82: getOrDefault()</span>
+</div>
+<div id=3D"expander-content-1613035735" class=3D"expand-content">
+<p><strong>=D0=A1=D0=B8=D0=BD=D1=82=D0=B0=D0=BA=D1=81=D0=B8=D1=81</strong>:=
+ default V getOrDefault(Object k, V =D0=B4=D0=B5=D1=84=D0=BE=D0=BB=D1=82=D0=
+=BD=D0=BE=D0=B5_=D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 )</p>
+<p>k - =D0=BA=D0=BB=D1=8E=D1=87 =D0=BF=D0=B0=D1=80=D1=8B, =D0=B7=D0=BD=D0=
+=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D0=BE=D0=
+=B9 =D0=B8=D1=89=D0=B5=D0=BC</p>
+<p>=D0=B4=D0=B5=D1=84=D0=BE=D0=BB=D1=82=D0=BD=D0=BE=D0=B5_=D0=B7=D0=BD=D0=
+=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 - =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=
+=B8=D0=B5, =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D0=BE=D0=B5 =D0=B2=D0=BE=D0=B7=D0=
+=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82=D1=81=D1=8F, =D0=B5=D1=81=D0=BB=D0=
+=B8 =D0=BA=D0=BB=D1=8E=D1=87 =D0=BF=D0=B0=D1=80=D1=8B =D0=BD=D0=B5 =D0=BD=
+=D0=B0=D0=B9=D0=B4=D0=B5=D0=BD</p>
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82:</p>
+<ul>
+<li><p>=D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BF=D0=B0=D1=80=
+=D1=8B - =D0=B5=D1=81=D0=BB=D0=B8 =D0=BD=D0=B0=D1=85=D0=BE=D0=B4=D0=B8=D1=
+=82 =D0=BA=D0=BB=D1=8E=D1=87</p></li>
+<li><p>=D0=B4=D0=B5=D1=84=D0=BE=D0=BB=D1=82=D0=BD=D0=BE=D0=B5_=D0=B7=D0=BD=
+=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 - =D0=B5=D1=81=D0=BB=D0=B8 =D0=BD=D0=
+=B5 =D0=BD=D0=B0=D1=85=D0=BE=D0=B4=D0=B8=D1=82 =D0=BA=D0=BB=D1=8E=D1=87</p>=
+</li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+
+one.put("One", 1);
+one.put("Two", 2);
+one.put("Three", 3);
+
+System.out.println("=D0=97=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BF=
+=D0=B0=D1=80=D1=8B =D1=81 =D0=BA=D0=BB=D1=8E=D1=87=D0=BE=D0=BC \"Two\": " +=
+ one.getOrDefault("Two", 0));
+System.out.println("=D0=97=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BF=
+=D0=B0=D1=80=D1=8B =D1=81 =D0=BA=D0=BB=D1=8E=D1=87=D0=BE=D0=BC \"Four\": " =
++ one.getOrDefault("Four", -1));</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>=D0=97=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BF=D0=B0=D1=80=D1=
+=8B =D1=81 =D0=BA=D0=BB=D1=8E=D1=87=D0=BE=D0=BC "Two": <span style=3D"color=
+: rgb(255,153,31);">2</span><br>=D0=97=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=
+=D0=B5 =D0=BF=D0=B0=D1=80=D1=8B =D1=81 =D0=BA=D0=BB=D1=8E=D1=87=D0=BE=D0=BC=
+ "Four": <span style=3D"color: rgb(255,153,31);">-1</span></p>
+</div>
+</div>
+<div id=3D"expander-830877846" class=3D"expand-container">
+<div id=3D"expander-control-830877846" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D0=
+=BE=D0=BB=D1=83=D1=87=D0=B8=D1=82=D1=8C =D0=BA=D0=BE=D0=BB=D0=B8=D1=87=D0=
+=B5=D1=81=D1=82=D0=B2=D0=BE =D0=BF=D0=B0=D1=80 =D0=BE=D1=82=D0=BE=D0=B1=D1=
+=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F: size()</span>
+</div>
+<div id=3D"expander-content-830877846" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+
+one.put("One", 1);
+one.put("Two", 2);
+one.put("Three", 3);
+
+System.out.println("=D0=9A=D0=BE=D0=BB=D0=B8=D1=87=D0=B5=D1=81=D1=82=D0=B2=
+=D0=BE =D0=BF=D0=B0=D1=80: " + one.size());
+
+System.out.println("=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=
+=D0=B8=D0=B5: " + one);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>=D0=9A=D0=BE=D0=BB=D0=B8=D1=87=D0=B5=D1=81=D1=82=D0=B2=D0=BE =D0=BF=D0=
+=B0=D1=80: <span style=3D"color: rgb(255,153,31);">3</span><br>=D0=9E=D1=82=
+=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5: {One=3D1, Two=3D2, =
+Three=3D3}</p>
+</div>
+</div>
+<div id=3D"expander-509303775" class=3D"expand-container">
+<div id=3D"expander-control-509303775" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A3=D0=
+=B4=D0=B0=D0=BB=D0=B8=D1=82=D1=8C =D0=BF=D0=B0=D1=80=D1=83 =D0=BF=D0=BE =D0=
+=BA=D0=BB=D1=8E=D1=87=D1=83: remove()</span>
+</div>
+<div id=3D"expander-content-509303775" class=3D"expand-content">
+<p><strong>=D0=A1=D0=B8=D0=BD=D1=82=D0=B0=D0=BA=D1=81=D0=B8=D1=81</strong>:=
+ V remove(Object k)</p>
+<p>k - =D0=BA=D0=BB=D1=8E=D1=87, =D0=BF=D0=BE =D0=BA=D0=BE=D1=82=D0=BE=D1=
+=80=D0=BE=D0=BC=D1=83 =D0=B8=D1=89=D0=B5=D0=BC =D0=BF=D0=B0=D1=80=D1=83</p>
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82:</p>
+<ul>
+<li><p>=D0=95=D1=81=D0=BB=D0=B8 =D1=83=D0=B4=D0=B0=D0=BB=D0=B8=D0=BB =D0=BF=
+=D0=B0=D1=80=D1=83 - =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=
+=BF=D0=B0=D1=80=D1=8B</p></li>
+<li><p>=D0=95=D1=81=D0=BB=D0=B8 =D0=BD=D0=B5 =D1=81=D0=BC=D0=BE=D0=B3 =D1=
+=83=D0=B4=D0=B0=D0=BB=D0=B8=D1=82=D1=8C =D0=BF=D0=B0=D1=80=D1=83 - null</p>=
+</li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+
+one.put("One", 1);
+one.put("Two", 2);
+one.put("Three", 3);
+
+System.out.println("=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=
+=D1=82 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5: " + one.remove("Tw=
+o"));
+System.out.println("=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=
+=D0=B8=D0=B5: " + one);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82 =D0=B7=D0=
+=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5: <span style=3D"color: rgb(255,153,=
+31);">2</span><br>=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=
+=B8=D0=B5: {One=3D1, Three=3D3}</p>
+</div>
+</div>
+<div id=3D"expander-1860045010" class=3D"expand-container">
+<div id=3D"expander-control-1860045010" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A3=D0=
+=B4=D0=B0=D0=BB=D0=B8=D1=82=D1=8C =D0=BF=D0=B0=D1=80=D1=83 =D0=BF=D0=BE =D0=
+=BA=D0=BB=D1=8E=D1=87=D1=83 =D0=B8 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=
+=B8=D1=8E: remove()</span>
+</div>
+<div id=3D"expander-content-1860045010" class=3D"expand-content">
+<p><strong>=D0=A1=D0=B8=D0=BD=D1=82=D0=B0=D0=BA=D1=81=D0=B8=D1=81</strong>:=
+ default boolean remove(Object k, Object v)</p>
+<p>k - =D0=BA=D0=BB=D1=8E=D1=87, =D0=BF=D0=BE =D0=BA=D0=BE=D1=82=D0=BE=D1=
+=80=D0=BE=D0=BC=D1=83 =D0=B8=D1=89=D0=B5=D0=BC =D0=BF=D0=B0=D1=80=D1=83</p>
+<p>v - =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5, =D0=BF=D0=BE =D0=
+=BA=D0=BE=D1=82=D0=BE=D1=80=D0=BE=D0=BC=D1=83 =D0=B8=D1=89=D0=B5=D0=BC =D0=
+=BF=D0=B0=D1=80=D1=83</p>
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82:</p>
+<ul>
+<li><p>true - =D0=B5=D1=81=D0=BB=D0=B8 =D1=83=D0=B4=D0=B0=D0=BB=D0=B8=D0=BB=
+ =D0=BF=D0=B0=D1=80=D1=83</p></li>
+<li><p>false - =D0=B5=D1=81=D0=BB=D0=B8 =D0=BD=D0=B5 =D1=81=D0=BC=D0=BE=D0=
+=B3 =D1=83=D0=B4=D0=B0=D0=BB=D0=B8=D1=82=D1=8C =D0=BF=D0=B0=D1=80=D1=83</p>=
+</li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+
+one.put("One", 1);
+one.put("Two", 2);
+one.put("Three", 3);
+
+System.out.println("=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=
+=D1=82 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5: " + one.remove("Tw=
+o", 2));
+System.out.println("=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=
+=D0=B8=D0=B5: " + one);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82 =D0=B7=D0=
+=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5: <span style=3D"color: rgb(255,153,=
+31);">true</span><br>=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=
+=D0=B8=D0=B5: {One=3D1, Three=3D3}</p>
+</div>
+</div>
+<div id=3D"expander-448211568" class=3D"expand-container">
+<div id=3D"expander-control-448211568" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A3=D0=
+=B4=D0=B0=D0=BB=D0=B8=D1=82=D1=8C =D0=B2=D1=81=D0=B5 =D0=BF=D0=B0=D1=80=D1=
+=8B =D0=BE=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F: cle=
+ar()</span>
+</div>
+<div id=3D"expander-content-448211568" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+
+one.put("One", 1);
+one.put("Two", 2);
+one.put("Three", 3);
+
+one.clear();
+
+System.out.println(one);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ {}</p>
+</div>
+</div>
+<div id=3D"expander-1781569038" class=3D"expand-container">
+<div id=3D"expander-control-1781569038" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=98=D0=
+=B7=D0=BC=D0=B5=D0=BD=D0=B8=D1=82=D1=8C =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=
+=BD=D0=B8=D0=B5 =D0=BF=D0=B0=D1=80=D1=8B, =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=
+=8C=D0=B7=D1=83=D1=8F =D0=BB=D1=8F=D0=BC=D0=B1=D0=B4=D0=B0-=D0=B2=D1=8B=D1=
+=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5; =D0=B5=D1=81=D0=BB=D0=B8 =D0=BF=D0=
+=B0=D1=80=D1=8B =D0=BD=D0=B5=D1=82 - =D0=BE=D1=88=D0=B8=D0=B1=D0=BA=D0=B0: =
+compute()</span>
+</div>
+<div id=3D"expander-content-1781569038" class=3D"expand-content">
+<p><strong>=D0=A1=D0=B8=D0=BD=D1=82=D0=B0=D0=BA=D1=81=D0=B8=D1=81</strong>:=
+ default V compute (K k, BiFunction&lt;T, U, R&gt; =D1=84=D1=83=D0=BD=D0=BA=
+=D1=86=D0=B8=D1=8F)</p>
+<p>k - =D0=BA=D0=BB=D1=8E=D1=87, =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D0=B9=
+ =D0=B8=D1=89=D0=B5=D0=BC</p>
+<p>=D1=84=D1=83=D0=BD=D0=BA=D1=86=D0=B8=D1=8F - =D0=BB=D1=8F=D0=BC=D0=B1=D0=
+=B4=D0=B0-=D0=B2=D1=8B=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5; =D0=B5=D1=
+=81=D0=BB=D0=B8 =D0=BD=D0=B0=D1=85=D0=BE=D0=B4=D0=B8=D0=BC =D0=BA=D0=BB=D1=
+=8E=D1=87 - =D0=BE=D0=BF=D1=80=D0=B5=D0=B4=D0=B5=D0=BB=D1=8F=D0=B5=D1=82 =
+=D0=BD=D0=BE=D0=B2=D0=BE=D0=B5 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=
+=D0=B5 =D0=BF=D0=B0=D1=80=D1=8B</p>
+<hr>
+<p><strong>=D0=9B=D0=BE=D0=B3=D0=B8=D0=BA=D0=B0</strong>:</p>
+<ul>
+<li><p>=D0=95=D1=81=D0=BB=D0=B8 =D0=BF=D0=B0=D1=80=D0=B0 =D0=BD=D0=B0=D0=B9=
+=D0=B4=D0=B5=D0=BD=D0=B0:</p>
+<ul>
+<li><p>=D0=B5=D1=81=D0=BB=D0=B8 =D1=84=D1=83=D0=BD=D0=BA=D1=86=D0=B8=D1=8F =
+=D0=B2=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82:</p>
+<ul>
+<li><p>=D0=BD=D0=B5 null - =D0=BD=D0=BE=D0=B2=D0=BE=D0=B5 =D0=B7=D0=BD=D0=
+=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=B7=D0=B0=D0=BF=D0=B8=D1=81=D1=8B=D0=
+=B2=D0=B0=D0=B5=D1=82=D1=81=D1=8F =D0=B8 =D0=B2=D0=BE=D0=B7=D0=B2=D1=80=D0=
+=B0=D1=89=D0=B0=D0=B5=D1=82=D1=81=D1=8F </p></li>
+<li><p>null - =D0=BF=D0=B0=D1=80=D0=B0 =D1=83=D0=B4=D0=B0=D0=BB=D1=8F=D0=B5=
+=D1=82=D1=81=D1=8F, =D0=B2=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=
+=D1=82=D1=81=D1=8F null</p></li>
+</ul></li>
+</ul></li>
+<li><p>=D0=95=D1=81=D0=BB=D0=B8 =D0=BF=D0=B0=D1=80=D0=B0 =D0=BD=D0=B5 =D0=
+=BD=D0=B0=D0=B9=D0=B4=D0=B5=D0=BD=D0=B0 - =D0=B8=D1=81=D0=BA=D0=BB=D1=8E=D1=
+=87=D0=B5=D0=BD=D0=B8=D0=B5 <span style=3D"color: rgb(191,38,0);">NullPoint=
+erException</span></p></li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 1</strong> (=D0=B8=D0=B7=D0=
+=BC=D0=B5=D0=BD=D1=8F=D0=B5=D0=BC =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=
+=B8=D0=B5 =D0=BF=D0=B0=D1=80=D1=8B):</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+
+one.put("One", 1);
+one.put("Two", 2);
+one.put("Three", 3);
+
+System.out.println("=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=
+=D1=82 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5: " + one.compute("T=
+wo", (key, val) -&gt; val + 10));
+System.out.println("=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=
+=D0=B8=D0=B5: " + one);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82 =D0=B7=D0=
+=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5: <span style=3D"color: rgb(255,153,=
+31);">12</span><br>=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=
+=D0=B8=D0=B5: {One=3D1, Two=3D<span style=3D"color: rgb(255,153,31);">12</s=
+pan>, Three=3D3}</p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 2</strong> (=D1=83=D0=B4=D0=
+=B0=D0=BB=D1=8F=D0=B5=D0=BC =D0=BF=D0=B0=D1=80=D1=83):</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+
+one.put("One", 1);
+one.put("Two", 2);
+one.put("Three", 3);
+
+System.out.println("=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=
+=D1=82 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5: " + one.compute("T=
+wo", (key, val) -&gt; null));
+System.out.println("=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=
+=D0=B8=D0=B5: " + one);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82 =D0=B7=D0=
+=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5: <span style=3D"color: rgb(255,153,=
+31);">null</span><br>=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=
+=D0=B8=D0=B5: {One=3D1, Three=3D3}</p>
+</div>
+</div>
+<div id=3D"expander-639845145" class=3D"expand-container">
+<div id=3D"expander-control-639845145" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=98=D0=
+=B7=D0=BC=D0=B5=D0=BD=D0=B8=D1=82=D1=8C =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=
+=BD=D0=B8=D0=B5 =D0=BF=D0=B0=D1=80=D1=8B, =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=
+=8C=D0=B7=D1=83=D1=8F =D0=BB=D1=8F=D0=BC=D0=B1=D0=B4=D0=B0-=D0=B2=D1=8B=D1=
+=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5; =D0=B5=D1=81=D0=BB=D0=B8 =D0=BF=D0=
+=B0=D1=80=D1=8B =D0=BD=D0=B5=D1=82 - =D0=B4=D0=BE=D0=B1=D0=B0=D0=B2=D0=B8=
+=D1=82=D1=8C =D0=BD=D0=BE=D0=B2=D1=83=D1=8E: merge()</span>
+</div>
+<div id=3D"expander-content-639845145" class=3D"expand-content">
+<p><strong>=D0=A1=D0=B8=D0=BD=D1=82=D0=B0=D0=BA=D1=81=D0=B8=D1=81</strong>:=
+ default V merge(K k, V v, BiFunction&lt;T, U, R&gt; =D1=84=D1=83=D0=BD=D0=
+=BA=D1=86=D0=B8=D1=8F)</p>
+<p>k - =D0=BA=D0=BB=D1=8E=D1=87, =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D0=B9=
+ =D0=B8=D1=89=D0=B5=D0=BC; =D0=B5=D1=81=D0=BB=D0=B8 =D0=BD=D0=B5 =D0=BD=D0=
+=B0=D1=85=D0=BE=D0=B4=D0=B8=D0=BC - =D0=BF=D0=BE=D1=8F=D0=B2=D0=BB=D1=8F=D0=
+=B5=D1=82=D1=81=D1=8F =D0=B2 =D0=BD=D0=BE=D0=B2=D0=BE=D0=B9 =D0=BF=D0=B0=D1=
+=80=D0=B5</p>
+<p>v - =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5, =D0=BA=D0=BE=D1=82=
+=D0=BE=D1=80=D0=BE=D0=B5 =D0=BF=D0=BE=D1=8F=D0=B2=D0=BB=D1=8F=D0=B5=D1=82=
+=D1=81=D1=8F =D0=B2 =D0=BD=D0=BE=D0=B2=D0=BE=D0=B9 =D0=BF=D0=B0=D1=80=D0=B5=
+, =D0=B5=D1=81=D0=BB=D0=B8 =D0=BD=D0=B5 =D0=BD=D0=B0=D1=85=D0=BE=D0=B4=D0=
+=B8=D0=BC =D0=BA=D0=BB=D1=8E=D1=87</p>
+<p>=D1=84=D1=83=D0=BD=D0=BA=D1=86=D0=B8=D1=8F - =D0=BB=D1=8F=D0=BC=D0=B1=D0=
+=B4=D0=B0-=D0=B2=D1=8B=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5; =D0=B5=D1=
+=81=D0=BB=D0=B8 =D0=BD=D0=B0=D1=85=D0=BE=D0=B4=D0=B8=D0=BC =D0=BA=D0=BB=D1=
+=8E=D1=87 - =D0=BE=D0=BF=D1=80=D0=B5=D0=B4=D0=B5=D0=BB=D1=8F=D0=B5=D1=82 =
+=D0=BD=D0=BE=D0=B2=D0=BE=D0=B5 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=
+=D0=B5 =D0=BF=D0=B0=D1=80=D1=8B</p>
+<hr>
+<p><strong>=D0=9B=D0=BE=D0=B3=D0=B8=D0=BA=D0=B0</strong>:</p>
+<ul>
+<li><p>=D0=95=D1=81=D0=BB=D0=B8 =D0=BF=D0=B0=D1=80=D0=B0 =D0=BD=D0=B0=D0=B9=
+=D0=B4=D0=B5=D0=BD=D0=B0:</p>
+<ul>
+<li><p>=D0=B5=D1=81=D0=BB=D0=B8 =D1=84=D1=83=D0=BD=D0=BA=D1=86=D0=B8=D1=8F =
+=D0=B2=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82:</p>
+<ul>
+<li><p>=D0=BD=D0=B5 null - =D0=BD=D0=BE=D0=B2=D0=BE=D0=B5 =D0=B7=D0=BD=D0=
+=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=B7=D0=B0=D0=BF=D0=B8=D1=81=D1=8B=D0=
+=B2=D0=B0=D0=B5=D1=82=D1=81=D1=8F =D0=B8 =D0=B2=D0=BE=D0=B7=D0=B2=D1=80=D0=
+=B0=D1=89=D0=B0=D0=B5=D1=82=D1=81=D1=8F </p></li>
+<li><p>null - =D0=BF=D0=B0=D1=80=D0=B0 =D1=83=D0=B4=D0=B0=D0=BB=D1=8F=D0=B5=
+=D1=82=D1=81=D1=8F, =D0=B2=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=
+=D1=82=D1=81=D1=8F null</p></li>
+</ul></li>
+</ul></li>
+<li><p>=D0=95=D1=81=D0=BB=D0=B8 =D0=BF=D0=B0=D1=80=D0=B0 =D0=BD=D0=B5 =D0=
+=BD=D0=B0=D0=B9=D0=B4=D0=B5=D0=BD=D0=B0 - =D0=B4=D0=BE=D0=B1=D0=B0=D0=B2=D0=
+=BB=D1=8F=D0=B5=D1=82=D1=81=D1=8F =D0=BD=D0=BE=D0=B2=D0=B0=D1=8F =D0=BF=D0=
+=B0=D1=80=D0=B0, =D0=B2=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=
+=82=D1=81=D1=8F =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5</p></li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 1</strong> (=D0=B8=D0=B7=D0=
+=BC=D0=B5=D0=BD=D1=8F=D0=B5=D0=BC =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=
+=B8=D0=B5 =D0=BF=D0=B0=D1=80=D1=8B):</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+
+one.put("One", 1);
+one.put("Two", 2);
+one.put("Three", 3);
+
+System.out.println("=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=
+=D1=82 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5: " + one.merge( "Tw=
+o", 2, (key, val) -&gt; val + 10));
+System.out.println("=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=
+=D0=B8=D0=B5: " + one);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82 =D0=B7=D0=
+=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5: <span style=3D"color: rgb(255,153,=
+31);">12</span><br>=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=
+=D0=B8=D0=B5: {One=3D1, Two=3D<span style=3D"color: rgb(255,153,31);">12</s=
+pan>, Three=3D3}</p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 2</strong> (=D1=83=D0=B4=D0=
+=B0=D0=BB=D1=8F=D0=B5=D0=BC =D0=BF=D0=B0=D1=80=D1=83):</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+
+one.put("One", 1);
+one.put("Two", 2);
+one.put("Three", 3);
+
+System.out.println("=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=
+=D1=82 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5: " + one.merge( "Tw=
+o", 2, (key, val) -&gt; null));
+System.out.println("=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=
+=D0=B8=D0=B5: " + one);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+</p>
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82 =D0=B7=D0=
+=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5: <span style=3D"color: rgb(255,153,=
+31);">null</span><br>=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=
+=D0=B8=D0=B5: {One=3D1, Three=3D3}</p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 3</strong> (=D0=B4=D0=BE=D0=
+=B1=D0=B0=D0=B2=D0=BB=D1=8F=D0=B5=D0=BC =D0=BF=D0=B0=D1=80=D1=83):</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+
+one.put("One", 1);
+one.put("Two", 2);
+one.put("Three", 3);
+
+System.out.println("=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=
+=D1=82 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5: " + one.merge( "Fo=
+ur", 4, (key, val) -&gt; val + 10));
+System.out.println("=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=
+=D0=B8=D0=B5: " + one);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+</p>
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82 =D0=B7=D0=
+=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5: <span style=3D"color: rgb(255,153,=
+31);">4</span><br>=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=
+=B8=D0=B5: {<span style=3D"color: rgb(255,153,31);">Four=3D4</span>, One=3D=
+1, Two=3D2, Three=3D3}</p>
+</div>
+</div>
+<div id=3D"expander-2003790029" class=3D"expand-container">
+<div id=3D"expander-control-2003790029" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=98=D0=
+=B7=D0=BC=D0=B5=D0=BD=D0=B8=D1=82=D1=8C =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=
+=BD=D0=B8=D0=B5 =D0=BA=D0=B0=D0=B6=D0=B4=D0=BE=D0=B9 =D0=BF=D0=B0=D1=80=D1=
+=8B, =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D1=8F =D0=BB=D1=8F=D0=
+=BC=D0=B1=D0=B4=D0=B0-=D0=B2=D1=8B=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=
+=B5; =D0=BD=D0=B5 =D0=BE=D0=B1=D1=8F=D0=B7=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D0=
+=BD=D0=BE =D0=BA=D0=B0=D0=B6=D0=B4=D0=BE=D0=B9: replaceAll()</span>
+</div>
+<div id=3D"expander-content-2003790029" class=3D"expand-content">
+<p><strong>=D0=A1=D0=B8=D0=BD=D1=82=D0=B0=D0=BA=D1=81=D0=B8=D1=81</strong>:=
+ default void replaceAll(BiFunction&lt;T, U, R&gt; =D1=84=D1=83=D0=BD=D0=BA=
+=D1=86=D0=B8=D1=8F)</p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+
+one.put("One", 1);
+one.put("Two", 2);
+one.put("Three", 3);
+
+one.replaceAll((key, val) -&gt; val + 10);
+
+System.out.println("=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=
+=D0=B8=D0=B5: " + one);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ =D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5: {One=
+=3D<span style=3D"color: rgb(255,153,31);">11</span>, Two=3D<span style=3D"=
+color: rgb(255,153,31);">12</span>, Three=3D<span style=3D"color: rgb(255,1=
+53,31);">13</span>}</p>
+</div>
+</div>
+<div id=3D"expander-445223451" class=3D"expand-container">
+<div id=3D"expander-control-445223451" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=97=D0=
+=B0=D0=BC=D0=B5=D0=BD=D0=B8=D1=82=D1=8C =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=
+=BD=D0=B8=D0=B5 =D0=BF=D0=B0=D1=80=D1=8B =D0=BF=D0=BE =D0=BA=D0=BB=D1=8E=D1=
+=87=D1=83: replace()</span>
+</div>
+<div id=3D"expander-content-445223451" class=3D"expand-content">
+<p><strong>=D0=A1=D0=B8=D0=BD=D1=82=D0=B0=D0=BA=D1=81=D0=B8=D1=81</strong>:=
+ default V replace(K k, V v)</p>
+<p>k - =D0=BA=D0=BB=D1=8E=D1=87, =D0=BF=D0=BE =D0=BA=D0=BE=D1=82=D0=BE=D1=
+=80=D0=BE=D0=BC=D1=83 =D0=B8=D1=89=D0=B5=D0=BC =D0=BF=D0=B0=D1=80=D1=83</p>
+<p>v - =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5, =D0=BD=D0=B0 =D0=
+=BA=D0=BE=D1=82=D0=BE=D1=80=D0=BE=D0=B5 =D0=B7=D0=B0=D0=BC=D0=B5=D0=BD=D1=
+=8F=D0=B5=D0=BC</p>
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82:</p>
+<ul>
+<li><p>=D0=95=D1=81=D0=BB=D0=B8 =D0=B7=D0=B0=D0=BC=D0=B5=D0=BD=D0=B8=D0=BB =
+=D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BF=D0=B0=D1=80=D1=8B -=
+ =D1=81=D1=82=D0=B0=D1=80=D0=BE=D0=B5 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=
+=D0=B8=D0=B5 =D0=BF=D0=B0=D1=80=D1=8B</p></li>
+<li><p>=D0=95=D1=81=D0=BB=D0=B8 =D0=BD=D0=B5 =D1=81=D0=BC=D0=BE=D0=B3 =D0=
+=B7=D0=B0=D0=BC=D0=B5=D0=BD=D0=B8=D1=82=D1=8C =D0=B7=D0=BD=D0=B0=D1=87=D0=
+=B5=D0=BD=D0=B8=D0=B5 =D0=BF=D0=B0=D1=80=D1=8B - null</p></li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+
+one.put("One", 1);
+one.put("Two", 2);
+one.put("Three", 3);
+
+System.out.println("=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=
+=D1=82 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5: " + one.replace("T=
+wo", 12));
+System.out.println("=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=
+=D0=B8=D0=B5: " + one);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82 =D0=B7=D0=
+=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5: <span style=3D"color: rgb(255,153,=
+31);">2</span><br>=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=
+=B8=D0=B5: {One=3D1, Two=3D<span style=3D"color: rgb(255,153,31);">12</span=
+>, Three=3D3}</p>
+</div>
+</div>
+<div id=3D"expander-2091979896" class=3D"expand-container">
+<div id=3D"expander-control-2091979896" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=97=D0=
+=B0=D0=BC=D0=B5=D0=BD=D0=B8=D1=82=D1=8C =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=
+=BD=D0=B8=D0=B5 =D0=BF=D0=B0=D1=80=D1=8B =D0=BF=D0=BE =D0=BA=D0=BB=D1=8E=D1=
+=87=D1=83 =D0=B8 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D1=8E: replace(=
+)</span>
+</div>
+<div id=3D"expander-content-2091979896" class=3D"expand-content">
+<p><strong>=D0=A1=D0=B8=D0=BD=D1=82=D0=B0=D0=BA=D1=81=D0=B8=D1=81</strong>:=
+ default boolean replace(K k, V =D0=BF=D1=80=D0=B5=D0=B6=D0=BD=D0=B5=D0=B5_=
+=D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5, V =D0=BD=D0=BE=D0=B2=D0=
+=BE=D0=B5_=D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5)</p>
+<p>k - =D0=BA=D0=BB=D1=8E=D1=87, =D0=BF=D0=BE =D0=BA=D0=BE=D1=82=D0=BE=D1=
+=80=D0=BE=D0=BC=D1=83 =D0=B8=D1=89=D0=B5=D0=BC =D0=BF=D0=B0=D1=80=D1=83</p>
+<p>=D0=BF=D1=80=D0=B5=D0=B6=D0=BD=D0=B5=D0=B5_=D0=B7=D0=BD=D0=B0=D1=87=D0=
+=B5=D0=BD=D0=B8=D0=B5 - =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5, =
+=D0=BF=D0=BE =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D0=BE=D0=BC=D1=83 =D0=B8=D1=89=
+=D0=B5=D0=BC =D0=BF=D0=B0=D1=80=D1=83</p>
+<p>=D0=BD=D0=BE=D0=B2=D0=BE=D0=B5_=D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=
+=B8=D0=B5- =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5, =D0=BD=D0=B0 =
+=D0=BA=D0=BE=D1=82=D0=BE=D1=80=D0=BE=D0=B5 =D0=B7=D0=B0=D0=BC=D0=B5=D0=BD=
+=D1=8F=D0=B5=D0=BC</p>
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82:</p>
+<ul>
+<li><p>true - =D0=B5=D1=81=D0=BB=D0=B8 =D0=B7=D0=B0=D0=BC=D0=B5=D0=BD=D0=B8=
+=D0=BB =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BF=D0=B0=D1=80=
+=D1=8B</p></li>
+<li><p>false - =D0=B5=D1=81=D0=BB=D0=B8 =D0=BD=D0=B5 =D1=81=D0=BC=D0=BE=D0=
+=B3 =D0=B7=D0=B0=D0=BC=D0=B5=D0=BD=D0=B8=D1=82=D1=8C =D0=B7=D0=BD=D0=B0=D1=
+=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BF=D0=B0=D1=80=D1=8B</p></li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+
+one.put("One", 1);
+one.put("Two", 2);
+one.put("Three", 3);
+
+System.out.println("=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=
+=D1=82 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5: " + one.replace("T=
+wo", 2, 12));
+System.out.println("=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=
+=D0=B8=D0=B5: " + one);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82 =D0=B7=D0=
+=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5: <span style=3D"color: rgb(255,153,=
+31);">true</span><br>=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=
+=D0=B8=D0=B5: {One=3D1, Two=3D<span style=3D"color: rgb(255,153,31);">12</s=
+pan>, Three=3D3}</p>
+</div>
+</div>
+<div id=3D"expander-1853614013" class=3D"expand-container">
+<div id=3D"expander-control-1853614013" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D1=
+=80=D0=BE=D0=B2=D0=B5=D1=80=D0=B8=D1=82=D1=8C =D0=BD=D0=B0 =D0=BD=D0=B0=D0=
+=BB=D0=B8=D1=87=D0=B8=D0=B5 =D0=BA=D0=BB=D1=8E=D1=87=D0=B0: containsKey()</=
+span>
+</div>
+<div id=3D"expander-content-1853614013" class=3D"expand-content">
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82:</p>
+<ul>
+<li><p>true - =D0=B5=D1=81=D0=BB=D0=B8 =D0=BD=D0=B0=D1=85=D0=BE=D0=B4=D0=B8=
+=D1=82 =D0=BA=D0=BB=D1=8E=D1=87</p></li>
+<li><p>false - =D0=B5=D1=81=D0=BB=D0=B8 =D0=BD=D0=B5 =D0=BD=D0=B0=D1=85=D0=
+=BE=D0=B4=D0=B8=D1=82 =D0=BA=D0=BB=D1=8E=D1=87</p></li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+
+one.put("One", 1);
+one.put("Two", 2);
+one.put("Three", 3);
+
+System.out.println("=D0=92 =D0=BE=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=
+=D0=BD=D0=B8=D0=B8 =D0=B5=D1=81=D1=82=D1=8C =D0=BA=D0=BB=D1=8E=D1=87 \"One\=
+": " + one.containsKey("One"));
+System.out.println("=D0=92 =D0=BE=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=
+=D0=BD=D0=B8=D0=B8 =D0=B5=D1=81=D1=82=D1=8C =D0=BA=D0=BB=D1=8E=D1=87 \"Four=
+\": " + one.containsKey("Four"));</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>=D0=92 =D0=BE=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=
+=B8 =D0=B5=D1=81=D1=82=D1=8C =D0=BA=D0=BB=D1=8E=D1=87 "One": <span style=3D=
+"color: rgb(255,153,31);">true</span><br>=D0=92 =D0=BE=D1=82=D0=BE=D0=B1=D1=
+=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=B8 =D0=B5=D1=81=D1=82=D1=8C =D0=BA=D0=
+=BB=D1=8E=D1=87 "Four": <span style=3D"color: rgb(255,153,31);">false</span=
+></p>
+</div>
+</div>
+<div id=3D"expander-1317716775" class=3D"expand-container">
+<div id=3D"expander-control-1317716775" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D1=
+=80=D0=BE=D0=B2=D0=B5=D1=80=D0=B8=D1=82=D1=8C =D0=BD=D0=B0 =D0=BD=D0=B0=D0=
+=BB=D0=B8=D1=87=D0=B8=D0=B5 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D1=
+=8F: containsValue()</span>
+</div>
+<div id=3D"expander-content-1317716775" class=3D"expand-content">
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82:</p>
+<ul>
+<li><p>true - =D0=B5=D1=81=D0=BB=D0=B8 =D0=BD=D0=B0=D1=85=D0=BE=D0=B4=D0=B8=
+=D1=82 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5</p></li>
+<li><p>false - =D0=B5=D1=81=D0=BB=D0=B8 =D0=BD=D0=B5 =D0=BD=D0=B0=D1=85=D0=
+=BE=D0=B4=D0=B8=D1=82 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5</p><=
+/li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+
+one.put("One", 1);
+one.put("Two", 2);
+one.put("Three", 3);
+
+System.out.println("=D0=92 =D0=BE=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=
+=D0=BD=D0=B8=D0=B8 =D0=B5=D1=81=D1=82=D1=8C =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=
+=D0=BD=D0=B8=D0=B5 \"1\": " + one.containsValue(1));
+System.out.println("=D0=92 =D0=BE=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=
+=D0=BD=D0=B8=D0=B8 =D0=B5=D1=81=D1=82=D1=8C =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=
+=D0=BD=D0=B8=D0=B5 \"4\": " + one.containsValue(4));</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>=D0=92 =D0=BE=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=
+=B8 =D0=B5=D1=81=D1=82=D1=8C =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=
+=B5 "1": <span style=3D"color: rgb(255,153,31);">true</span><br>=D0=92 =D0=
+=BE=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=B8 =D0=B5=D1=
+=81=D1=82=D1=8C =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 "4": <span=
+ style=3D"color: rgb(255,153,31);">false</span></p>
+</div>
+</div>
+<div id=3D"expander-1333272789" class=3D"expand-container">
+<div id=3D"expander-control-1333272789" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D1=
+=80=D0=BE=D0=B2=D0=B5=D1=80=D0=B8=D1=82=D1=8C =D0=BD=D0=B0 =D1=80=D0=B0=D0=
+=B2=D0=B5=D0=BD=D1=81=D1=82=D0=B2=D0=BE =D0=BE=D1=82=D0=BE=D0=B1=D1=80=D0=
+=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=B9: equals()</span>
+</div>
+<div id=3D"expander-content-1333272789" class=3D"expand-content">
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82:</p>
+<ul>
+<li><p>true - =D0=B5=D1=81=D0=BB=D0=B8 =D1=80=D0=B0=D0=B2=D0=BD=D1=8B</p></=
+li>
+<li><p>false - =D0=B5=D1=81=D0=BB=D0=B8 =D0=BD=D0=B5 =D1=80=D0=B0=D0=B2=D0=
+=BD=D1=8B</p></li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 1 </strong>(=D1=80=D0=B0=D0=
+=B2=D0=BD=D1=8B):</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+HashMap&lt;String, Integer&gt; two =3D new HashMap&lt;&gt;();
+
+one.put("One", 1);
+one.put("Two", 2);
+one.put("Three", 3);
+
+two.put("One", 1);
+two.put("Two", 2);
+two.put("Three", 3);
+
+System.out.println(one.equals(two));</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ true</p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 2 </strong>(=D0=BD=D0=B5 =
+=D1=80=D0=B0=D0=B2=D0=BD=D1=8B):</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+HashMap&lt;String, Integer&gt; two =3D new HashMap&lt;&gt;();
+
+one.put("One", 1);
+one.put("Two", 2);
+one.put("Three", 3);
+one.put("Four", 4);
+
+two.put("One", 1);
+two.put("Two", 2);
+two.put("Three", 3);
+
+System.out.println(one.equals(two));</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ false</p>
+</div>
+</div>
+<div id=3D"expander-1331227974" class=3D"expand-container">
+<div id=3D"expander-control-1331227974" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D1=
+=80=D0=BE=D0=B2=D0=B5=D1=80=D0=B8=D1=82=D1=8C =D0=BE=D1=82=D0=BE=D0=B1=D1=
+=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BD=D0=B0 =D0=BE=D1=82=D1=81=D1=
+=83=D1=82=D1=81=D1=82=D0=B2=D0=B8=D0=B5 =D0=BF=D0=B0=D1=80: isEmpty()</span=
+>
+</div>
+<div id=3D"expander-content-1331227974" class=3D"expand-content">
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82:</p>
+<ul>
+<li><p>true - =D0=B5=D1=81=D0=BB=D0=B8 =D0=BE=D1=82=D0=BE=D0=B1=D1=80=D0=B0=
+=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BF=D1=83=D1=81=D1=82=D0=BE=D0=B5</p></li=
+>
+<li><p>false - =D0=B5=D1=81=D0=BB=D0=B8 =D0=BE=D1=82=D0=BE=D0=B1=D1=80=D0=
+=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BD=D0=B5 =D0=BF=D1=83=D1=81=D1=82=D0=
+=BE=D0=B5</p></li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 1 </strong>(=D0=BA=D0=BE=D0=
+=BB=D0=BB=D0=B5=D0=BA=D1=86=D0=B8=D1=8F =D0=BF=D1=83=D1=81=D1=82=D0=B0=D1=
+=8F):</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+
+System.out.println("=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=
+=D0=B8=D0=B5 =D0=BF=D1=83=D1=81=D1=82=D0=BE=D0=B5: " + one.isEmpty());</pre=
+>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ =D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BF=
+=D1=83=D1=81=D1=82=D0=BE=D0=B5: <span style=3D"color: rgb(255,153,31);">tru=
+e</span></p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 2 </strong>(=D0=BA=D0=BE=D0=
+=BB=D0=BB=D0=B5=D0=BA=D1=86=D0=B8=D1=8F =D0=BD=D0=B5 =D0=BF=D1=83=D1=81=D1=
+=82=D0=B0=D1=8F):</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+
+one.put("One", 1);
+one.put("Two", 2);
+one.put("Three", 3);
+
+System.out.println("=D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=
+=D0=B8=D0=B5 =D0=BF=D1=83=D1=81=D1=82=D0=BE=D0=B5: " + one.isEmpty());</pre=
+>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ =D0=9E=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BF=
+=D1=83=D1=81=D1=82=D0=BE=D0=B5: <span style=3D"color: rgb(255,153,31);">fal=
+se</span></p>
+</div>
+</div>
+<div id=3D"expander-1671834307" class=3D"expand-container">
+<div id=3D"expander-control-1671834307" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D1=
+=80=D0=B5=D0=BE=D0=B1=D1=80=D0=B0=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D0=
+=BE=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5 =D0=B2 =D0=
+=BC=D0=BD=D0=BE=D0=B6=D0=B5=D1=81=D1=82=D0=B2=D0=BE =D1=82=D0=B8=D0=BF=D0=
+=B0 Set: entrySet()</span>
+</div>
+<div id=3D"expander-content-1671834307" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+
+one.put("One", 1);
+one.put("Two", 2);
+one.put("Three", 3);
+
+Set&lt;Map.Entry&lt;String, Integer&gt;&gt; two =3D one.entrySet();
+
+System.out.println(two);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>[One=3D1, Two=3D2, Three=3D3]</p>
+</div>
+</div>
+<div id=3D"expander-1042403063" class=3D"expand-container">
+<div id=3D"expander-control-1042403063" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D1=
+=80=D0=B5=D0=BE=D0=B1=D1=80=D0=B0=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D0=
+=B2 =D0=BA=D0=BE=D0=BB=D0=BB=D0=B5=D0=BA=D1=86=D0=B8=D1=8E Set, =D0=BA=D0=
+=BE=D1=82=D0=BE=D1=80=D0=B0=D1=8F =D1=81=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=
+=B8=D1=82 =D0=BA=D0=BB=D1=8E=D1=87=D0=B8: keySet()</span>
+</div>
+<div id=3D"expander-content-1042403063" class=3D"expand-content">
+<p><strong>=D0=A1=D0=B8=D0=BD=D1=82=D0=B0=D0=BA=D1=81=D0=B8=D1=81</strong>:=
+ Set&lt;K&gt; keySet()</p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+
+one.put("One", 1);
+one.put("Two", 2);
+one.put("Three", 3);
+
+System.out.println(one.keySet());</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ [One, Two, Three]</p>
+</div>
+</div>
+<div id=3D"expander-789385428" class=3D"expand-container">
+<div id=3D"expander-control-789385428" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D1=
+=80=D0=B5=D0=BE=D0=B1=D1=80=D0=B0=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D0=
+=B2 =D0=BA=D0=BE=D0=BB=D0=BB=D0=B5=D0=BA=D1=86=D0=B8=D1=8E Collection, =D0=
+=BA=D0=BE=D1=82=D0=BE=D1=80=D0=B0=D1=8F =D1=81=D0=BE=D0=B4=D0=B5=D1=80=D0=
+=B6=D0=B8=D1=82 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D1=8F =D0=BF=D0=
+=B0=D1=80: values()</span>
+</div>
+<div id=3D"expander-content-789385428" class=3D"expand-content">
+<p><strong>=D0=A1=D0=B8=D0=BD=D1=82=D0=B0=D0=BA=D1=81=D0=B8=D1=81</strong>:=
+ Collection&lt;V&gt; values()</p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+
+one.put("One", 1);
+one.put("Two", 2);
+one.put("Three", 3);
+
+System.out.println(one.values());</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ [1, 2, 3]</p>
+</div>
+</div>
+<div id=3D"expander-864801821" class=3D"expand-container">
+<div id=3D"expander-control-864801821" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=92=D1=
+=8B=D0=B2=D0=B5=D1=81=D1=82=D0=B8 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=
+=B8=D0=B5 =D0=BA=D0=B0=D0=B6=D0=B4=D0=BE=D0=B9 =D0=BF=D0=B0=D1=80=D1=8B, =
+=D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D1=8F =D0=BB=D1=8F=D0=BC=
+=D0=B1=D0=B4=D0=B0-=D0=B2=D1=8B=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5; =
+=D0=BD=D0=B5 =D0=BE=D0=B1=D1=8F=D0=B7=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=
+=D0=BE =D0=BA=D0=B0=D0=B6=D0=B4=D0=BE=D0=B9: forEach()</span>
+</div>
+<div id=3D"expander-content-864801821" class=3D"expand-content">
+<p><strong>=D0=A1=D0=B8=D0=BD=D1=82=D0=B0=D0=BA=D1=81=D0=B8=D1=81</strong>:=
+ default void forEach(BiConsumer&lt;T, U&gt; =D0=B4=D0=B5=D0=B9=D1=81=D1=82=
+=D0=B2=D0=B8=D0=B5)</p>
+<p>=D0=B4=D0=B5=D0=B9=D1=81=D1=82=D0=B2=D0=B8=D0=B5 - =D0=BB=D1=8F=D0=BC=D0=
+=B1=D0=B4=D0=B0-=D0=B2=D1=8B=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5</p>
+<p>=D0=95=D1=81=D0=BB=D0=B8 =D1=83=D0=B4=D0=B0=D0=BB=D1=8F=D0=B5=D1=82=D1=
+=81=D1=8F =D1=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82 - =D0=B8=D1=81=D0=BA=
+=D0=BB=D1=8E=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 <span style=3D"color: rgb(191,38=
+,0);">ConcurrentModificationException</span></p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Integer&gt; one =3D new HashMap&lt;&gt;();
+
+one.put("One", 1);
+one.put("Two", 2);
+one.put("Three", 3);
+
+one.forEach((key, val) -&gt; System.out.print(val + " "));</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ 1 2 3 </p>
+</div>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_10_220891241.1673614822420
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/f3b107dc57c372bed05715c167ece18a
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAA3NCSVQICAjb4U/gAAAAFVBMVEX/
+//9wcHBwcHBwcHBwcHBwcHBwcHA3RenHAAAAB3RSTlMAZoiZzN3/SzZomQAAAAlwSFlzAAALEgAA
+CxIB0t1+/AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNui8sowAAAAUdEVYdENy
+ZWF0aW9uIFRpbWUANi8xLzEzOKlF0AAAACFJREFUCJljYCATsCgwqIAZTMnMyRAhsTABCIMxkVxT
+GQCLcwHyUKXpLgAAAABJRU5ErkJggg==
+------=_Part_10_220891241.1673614822420--
