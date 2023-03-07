@@ -1,0 +1,790 @@
+Date: Tue, 7 Mar 2023 20:26:48 +0000 (UTC)
+Message-ID: <664213652.83.1678220808012@e1ed81930e08>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_82_1073643167.1678220808012"
+
+------=_Part_82_1073643167.1678220808012
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>=D0=9F=D1=80=D0=B0=D0=BA=D1=82=D0=B8=D0=BA=D0=B0</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>=D0=9F=D1=80=D0=B0=D0=BA=D1=82=D0=B8=D0=BA=D0=B0</h1>
+    <div class=3D"Section1">
+        <div id=3D"expander-762453839" class=3D"expand-container">
+<div id=3D"expander-control-762453839" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A3=D1=
+=81=D0=BB=D0=BE=D0=B2=D0=BD=D1=8B=D0=B9 =D0=BE=D0=BF=D0=B5=D1=80=D0=B0=D1=
+=82=D0=BE=D1=80 if (elif)</span>
+</div>
+<div id=3D"expander-content-762453839" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=BE=D0=B2=D0=B5=D1=80=D0=BA=D0=B0 =D0=B8=D1=81=D1=
+=82=D0=B8=D0=BD=D0=BD=D0=BE=D1=81=D1=82=D0=B8</strong>:</p>
+<ul>
+<li><p>True:</p>
+<ul>
+<li><p>=D1=87=D0=B8=D1=81=D0=BB=D0=BE, =D0=BD=D0=B5 =D1=80=D0=B0=D0=B2=D0=
+=BD=D0=BE=D0=B5 0</p></li>
+<li><p>=D0=BD=D0=B5=D0=BF=D1=83=D1=81=D1=82=D0=BE=D0=B9 =D0=BE=D0=B1=D1=8A=
+=D0=B5=D0=BA=D1=82</p></li>
+</ul></li>
+<li><p>False:</p>
+<ul>
+<li><p>=D1=87=D0=B8=D1=81=D0=BB=D0=B0, =D1=80=D0=B0=D0=B2=D0=BD=D1=8B=D0=B5=
+ 0</p></li>
+<li><p>=D0=BF=D1=83=D1=81=D1=82=D1=8B=D0=B5 =D0=BE=D0=B1=D1=8A=D0=B5=D0=BA=
+=D1=82=D1=8B</p></li>
+<li><p>=D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D1=8F None</p></li>
+</ul></li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: py; gutter: false; theme: Confluence" data-theme=3D"Confluence">if 0:
+    print("=D0=A1=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=B0=D0=BB=D0=BE =D0=BF=D0=
+=B5=D1=80=D0=B2=D0=BE=D0=B5 =D1=83=D1=81=D0=BB=D0=BE=D0=B2=D0=B8=D0=B5")
+elif 0:
+    print("=D0=A1=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=B0=D0=BB=D0=BE =D0=B2=D1=
+=82=D0=BE=D1=80=D0=BE=D0=B5 =D1=83=D1=81=D0=BB=D0=BE=D0=B2=D0=B8=D0=B5")
+else:
+    print("=D0=A1=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=B0=D0=BB=D0=BE =D1=82=D1=
+=80=D0=B5=D1=82=D1=8C=D0=B5 =D1=83=D1=81=D0=BB=D0=BE=D0=B2=D0=B8=D0=B5")</p=
+re>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ =D0=A1=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=B0=D0=BB=D0=BE =D1=82=D1=80=D0=B5=
+=D1=82=D1=8C=D0=B5 =D1=83=D1=81=D0=BB=D0=BE=D0=B2=D0=B8=D0=B5</p>
+</div>
+</div>
+<div id=3D"expander-150435345" class=3D"expand-container">
+<div id=3D"expander-control-150435345" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A2=D1=
+=80=D0=B5=D1=85=D0=BC=D0=B5=D1=81=D1=82=D0=BD=D0=BE=D0=B5 (=D1=82=D0=B5=D1=
+=80=D0=BD=D0=B0=D1=80=D0=BD=D0=BE=D0=B5) =D0=B2=D1=8B=D1=80=D0=B0=D0=B6=D0=
+=B5=D0=BD=D0=B8=D0=B5 if/else</span>
+</div>
+<div id=3D"expander-content-150435345" class=3D"expand-content">
+<p><strong>=D0=A1=D0=B8=D0=BD=D1=82=D0=B0=D0=BA=D1=81=D0=B8=D1=81</strong>:=
+ =D0=B2=D1=8B=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5_2<em> </em>if =D0=
+=B2=D1=8B=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5_1<em> </em>else =D0=B2=
+=D1=8B=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5_3<em>;</em></p>
+<p>=D0=B2=D1=8B=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5_1 =D0=B8=D0=BC=D0=
+=B5=D0=B5=D1=82 boolean =D1=80=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=
+=82:</p>
+<ul>
+<li><p>=D0=B5=D1=81=D0=BB=D0=B8 true - =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=
+=D1=8F=D0=B5=D1=82=D1=81=D1=8F =D0=B2=D1=8B=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=
+=D0=B8=D0=B5_2</p></li>
+<li><p>=D0=B5=D1=81=D0=BB=D0=B8 false - =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=
+=BD=D1=8F=D0=B5=D1=82=D1=81=D1=8F =D0=B2=D1=8B=D1=80=D0=B0=D0=B6=D0=B5=D0=
+=BD=D0=B8=D0=B5_3</p></li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 1</strong> (=D0=B2=D1=8B=D1=
+=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5_1 =3D true):</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: py; gutter: false; theme: Confluence" data-theme=3D"Confluence">x =3D 10
+y =3D 1 if (x =3D=3D 10) else 2
+print("y", y, sep=3D" =3D ")</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ y =3D <span style=3D"color: rgb(255,153,31);">1</span></p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 2</strong> (=D0=B2=D1=8B=D1=
+=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5_1 =3D false):</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: py; gutter: false; theme: Confluence" data-theme=3D"Confluence">x =3D 11
+y =3D 1 if (x =3D=3D 10) else 2
+print("y", y, sep=3D" =3D ")</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ y =3D <span style=3D"color: rgb(255,153,31);">2</span></p>
+</div>
+</div>
+<div id=3D"expander-1568007215" class=3D"expand-container">
+<div id=3D"expander-control-1568007215" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A6=D0=
+=B8=D0=BA=D0=BB while</span>
+</div>
+<div id=3D"expander-content-1568007215" class=3D"expand-content">
+<ul>
+<li><p>=D0=92=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D1=8F=D0=B5=D1=82 =D1=82=D0=B5=
+=D0=BB=D0=BE =D1=86=D0=B8=D0=BA=D0=BB=D0=B0, =D0=BF=D0=BE=D0=BA=D0=B0 =D1=
+=83=D1=81=D0=BB=D0=BE=D0=B2=D0=B8=D0=B5 =D0=B8=D1=81=D1=82=D0=B8=D0=BD=D0=
+=BD=D0=BE</p></li>
+<li><p>=D0=92=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D1=8F=D0=B5=D1=82=D1=81=D1=8F =
+=D0=BC=D0=B5=D0=B4=D0=BB=D0=B5=D0=BD=D0=BD=D0=B5=D0=B5 =D1=86=D0=B8=D0=BA=
+=D0=BB=D0=B0 for</p></li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: py; gutter: false; theme: Confluence" data-theme=3D"Confluence">i =3D 0
+while (i &lt; 3):
+    print("i", i, sep=3D" =3D ")
+    i +=3D 1</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+</p>
+<p>i =3D <span style=3D"color: rgb(255,153,31);">0</span><br>i =3D <span st=
+yle=3D"color: rgb(255,153,31);">1</span><br>i =3D <span style=3D"color: rgb=
+(255,153,31);">2</span></p>
+</div>
+</div>
+<div id=3D"expander-734200115" class=3D"expand-container">
+<div id=3D"expander-control-734200115" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A6=D0=
+=B8=D0=BA=D0=BB while =D1=81 else</span>
+</div>
+<div id=3D"expander-content-734200115" class=3D"expand-content">
+<ul>
+<li><p>=D0=A2=D0=B5=D0=BB=D0=BE =D0=B2=D0=BD=D1=83=D1=82=D1=80=D0=B8 else =
+=D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D1=81=D1=8F =D1=82=D0=BE=
+=D0=BB=D1=8C=D0=BA=D0=BE =D0=B2 =D1=82=D0=BE=D0=BC =D1=81=D0=BB=D1=83=D1=87=
+=D0=B0=D0=B5, =D0=B5=D1=81=D0=BB=D0=B8 =D0=B2=D1=8B=D1=85=D0=BE=D0=B4 =D0=
+=B8=D0=B7 =D1=86=D0=B8=D0=BA=D0=BB=D0=B0 =D0=BF=D1=80=D0=BE=D0=B8=D0=B7=D0=
+=BE=D1=88=D0=B5=D0=BB =D0=B1=D0=B5=D0=B7 =D0=BE=D0=BF=D0=B5=D1=80=D0=B0=D1=
+=82=D0=BE=D1=80=D0=B0 break</p></li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 1 </strong>(=D0=BE=D0=BF=D0=
+=B5=D1=80=D0=B0=D1=82=D0=BE=D1=80 break =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=
+=BD=D1=8F=D0=B5=D1=82=D1=81=D1=8F)<strong>:</strong></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: py; gutter: false; theme: Confluence" data-theme=3D"Confluence">i =3D 0
+while (i &lt; 3):
+    if i =3D=3D 2:
+        break
+    print("i", i, sep=3D" =3D ")
+    i +=3D 1
+else:
+    print("=D0=94=D0=BE=D1=81=D1=87=D0=B8=D1=82=D0=B0=D0=BB=D0=B8 =D0=B4=D0=
+=BE 2")</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+</p>
+<p>i =3D <span style=3D"color: rgb(255,153,31);">0</span><br>i =3D <span st=
+yle=3D"color: rgb(255,153,31);">1</span></p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 2</strong> (=D0=BE=D0=BF=D0=
+=B5=D1=80=D0=B0=D1=82=D0=BE=D1=80 break =D0=BD=D0=B5 =D0=B2=D1=8B=D0=BF=D0=
+=BE=D0=BB=D0=BD=D1=8F=D0=B5=D1=82=D1=81=D1=8F):</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: py; gutter: false; theme: Confluence" data-theme=3D"Confluence">i =3D 0
+while (i &lt; 3):
+    if i =3D=3D 10:
+        break
+    print("i", i, sep=3D" =3D ")
+    i +=3D 1
+else:
+    print("=D0=94=D0=BE=D1=81=D1=87=D0=B8=D1=82=D0=B0=D0=BB=D0=B8 =D0=B4=D0=
+=BE 2")</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+</p>
+<p>i =3D <span style=3D"color: rgb(255,153,31);">0</span><br>i =3D <span st=
+yle=3D"color: rgb(255,153,31);">1</span><br>i =3D <span style=3D"color: rgb=
+(255,153,31);">2</span><br>=D0=94=D0=BE=D1=81=D1=87=D0=B8=D1=82=D0=B0=D0=BB=
+=D0=B8 =D0=B4=D0=BE 2</p>
+</div>
+</div>
+<div id=3D"expander-1456588115" class=3D"expand-container">
+<div id=3D"expander-control-1456588115" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A6=D0=
+=B8=D0=BA=D0=BB for</span>
+</div>
+<div id=3D"expander-content-1456588115" class=3D"expand-content">
+<ul>
+<li><p>=D0=9F=D1=80=D0=BE=D1=85=D0=BE=D0=B4=D0=B8=D1=82=D1=81=D1=8F =D0=BF=
+=D0=BE =D0=BB=D1=8E=D0=B1=D0=BE=D0=BC=D1=83 =D0=B8=D1=82=D0=B5=D1=80=D0=B8=
+=D1=80=D1=83=D0=B5=D0=BC=D0=BE=D0=BC=D1=83 =D0=BE=D0=B1=D1=8A=D0=B5=D0=BA=
+=D1=82=D1=83 (=D1=81=D1=82=D1=80=D0=BE=D0=BA=D0=B0 / =D1=81=D0=BF=D0=B8=D1=
+=81=D0=BE=D0=BA), =D0=B8 =D0=B2=D0=BE =D0=B2=D1=80=D0=B5=D0=BC=D1=8F =D0=BA=
+=D0=B0=D0=B6=D0=B4=D0=BE=D0=B3=D0=BE =D0=BF=D1=80=D0=BE=D1=85=D0=BE=D0=B4=
+=D0=B0 =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D1=8F=D0=B5=D1=82 =D1=82=D0=B5=
+=D0=BB=D0=BE =D1=86=D0=B8=D0=BA=D0=BB=D0=B0</p></li>
+<li><p>=D0=92=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D1=8F=D0=B5=D1=82=D1=81=D1=8F =
+=D0=B1=D1=8B=D1=81=D1=82=D1=80=D0=B5=D0=B5 =D1=86=D0=B8=D0=BA=D0=BB=D0=B0 w=
+hile</p></li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: py; gutter: false; theme: Confluence" data-theme=3D"Confluence">for i in =
+"ab cde":
+    print(i, end=3D"\n")</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+</p>
+<p>a<br>b</p>
+<p>c<br>d<br>e</p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: py; gutter: false; theme: Confluence" data-theme=3D"Confluence">for i in =
+"ab cde":
+    print(i * 2, end=3D"\n")</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+</p>
+<p>aa<br>bb</p>
+<p>cc<br>dd<br>ee</p>
+</div>
+</div>
+<div id=3D"expander-1198925074" class=3D"expand-container">
+<div id=3D"expander-control-1198925074" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A6=D0=
+=B8=D0=BA=D0=BB for =D1=81 else</span>
+</div>
+<div id=3D"expander-content-1198925074" class=3D"expand-content">
+<ul>
+<li><p>=D0=A2=D0=B5=D0=BB=D0=BE =D0=B2=D0=BD=D1=83=D1=82=D1=80=D0=B8 else =
+=D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D1=81=D1=8F =D1=82=D0=BE=
+=D0=BB=D1=8C=D0=BA=D0=BE =D0=B2 =D1=82=D0=BE=D0=BC =D1=81=D0=BB=D1=83=D1=87=
+=D0=B0=D0=B5, =D0=B5=D1=81=D0=BB=D0=B8 =D0=B2=D1=8B=D1=85=D0=BE=D0=B4 =D0=
+=B8=D0=B7 =D1=86=D0=B8=D0=BA=D0=BB=D0=B0 =D0=BF=D1=80=D0=BE=D0=B8=D0=B7=D0=
+=BE=D1=88=D0=B5=D0=BB =D0=B1=D0=B5=D0=B7 =D0=BE=D0=BF=D0=B5=D1=80=D0=B0=D1=
+=82=D0=BE=D1=80=D0=B0 break</p></li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 1 </strong>(=D0=BE=D0=BF=D0=
+=B5=D1=80=D0=B0=D1=82=D0=BE=D1=80 break =D0=B2=D1=8B=D0=BF=D0=BE=D0=BB=D0=
+=BD=D1=8F=D0=B5=D1=82=D1=81=D1=8F)<strong>:</strong></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: py; gutter: false; theme: Confluence" data-theme=3D"Confluence">for i in =
+"ab cde":
+    if i =3D=3D "d":
+        break
+    print(i, end=3D"")
+else:
+    print("=D0=94=D0=BE=D1=88=D0=BB=D0=B8 =D0=B4=D0=BE =D0=B1=D1=83=D0=BA=
+=D0=B2=D1=8B e")</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ ab c</p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 2</strong> (=D0=BE=D0=BF=D0=
+=B5=D1=80=D0=B0=D1=82=D0=BE=D1=80 break =D0=BD=D0=B5 =D0=B2=D1=8B=D0=BF=D0=
+=BE=D0=BB=D0=BD=D1=8F=D0=B5=D1=82=D1=81=D1=8F):</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: py; gutter: false; theme: Confluence" data-theme=3D"Confluence">for i in =
+"ab cde":
+    if i =3D=3D "x":
+        break
+    print(i, end=3D"")
+else:
+    print("\n=D0=94=D0=BE=D1=88=D0=BB=D0=B8 =D0=B4=D0=BE =D0=B1=D1=83=D0=BA=
+=D0=B2=D1=8B e")</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>ab cde<br>=D0=94=D0=BE=D1=88=D0=BB=D0=B8 =D0=B4=D0=BE =D0=B1=D1=83=D0=BA=
+=D0=B2=D1=8B e</p>
+</div>
+</div>
+<div id=3D"expander-449582448" class=3D"expand-container">
+<div id=3D"expander-control-449582448" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9E=D0=
+=BF=D0=B5=D1=80=D0=B0=D1=82=D0=BE=D1=80 break</span>
+</div>
+<div id=3D"expander-content-449582448" class=3D"expand-content">
+<ul>
+<li><p>=D0=9F=D1=80=D0=B5=D1=80=D1=8B=D0=B2=D0=B0=D0=B5=D1=82 =D1=86=D0=B8=
+=D0=BA=D0=BB</p></li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: py; gutter: false; theme: Confluence" data-theme=3D"Confluence">for i in =
+"ab cde":
+    if i =3D=3D "d":
+        break
+    print(i, end=3D"")</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ ab c</p>
+</div>
+</div>
+<div id=3D"expander-212052694" class=3D"expand-container">
+<div id=3D"expander-control-212052694" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9E=D0=
+=BF=D0=B5=D1=80=D0=B0=D1=82=D0=BE=D1=80 continue</span>
+</div>
+<div id=3D"expander-content-212052694" class=3D"expand-content">
+<ul>
+<li><p>=D0=9F=D0=B5=D1=80=D0=B5=D1=85=D0=BE=D0=B4=D0=B8=D1=82 =D0=BA =D1=81=
+=D0=BB=D0=B5=D0=B4=D1=83=D1=8E=D1=89=D0=B5=D0=B9 =D0=B8=D1=82=D0=B5=D1=80=
+=D0=B0=D1=86=D0=B8=D0=B8 =D1=86=D0=B8=D0=BA=D0=BB=D0=B0, =D0=BF=D1=80=D0=BE=
+=D0=BF=D1=83=D1=81=D0=BA=D0=B0=D1=8F =D0=BE=D1=81=D1=82=D0=B0=D0=B2=D1=88=
+=D0=B5=D0=B5=D1=81=D1=8F =D1=82=D0=B5=D0=BB=D0=BE =D1=86=D0=B8=D0=BA=D0=BB=
+=D0=B0</p></li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: py; gutter: false; theme: Confluence" data-theme=3D"Confluence">for i in =
+"ab cde":
+    if i =3D=3D "d":
+        continue
+    print(i, end=3D"")</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ ab ce</p>
+</div>
+</div>
+<div id=3D"expander-1367874742" class=3D"expand-container">
+<div id=3D"expander-control-1367874742" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D0=
+=BE=D0=BB=D1=83=D1=87=D0=B8=D1=82=D1=8C =D1=81=D0=BB=D1=83=D1=87=D0=B0=D0=
+=B9=D0=BD=D0=BE=D0=B5 =D1=87=D0=B8=D1=81=D0=BB=D0=BE =D0=B2 =D0=B4=D0=B8=D0=
+=B0=D0=BF=D0=B0=D0=B7=D0=BE=D0=BD=D0=B5: random.uniform()</span>
+</div>
+<div id=3D"expander-content-1367874742" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 </strong>(=D0=BE=D1=82 2 (=
+=D0=B2=D0=BA=D0=BB=D1=8E=D1=87=D0=B0=D1=8F) =D0=B4=D0=BE 5 (=D0=B2=D0=BA=D0=
+=BB=D1=8E=D1=87=D0=B0=D1=8F)):</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: py; gutter: false; theme: Confluence" data-theme=3D"Confluence">import ra=
+ndom
+
+print("=D0=93=D0=B5=D0=BD=D0=B5=D1=80=D0=B8=D1=80=D1=83=D0=B5=D0=BC =D1=81=
+=D0=BB=D1=83=D1=87=D0=B0=D0=B9=D0=BD=D0=BE=D0=B5 =D1=87=D0=B8=D1=81=D0=BB=
+=D0=BE =D0=BE=D1=82 2 (=D0=B2=D0=BA=D0=BB=D1=8E=D1=87=D0=B0=D1=8F) =D0=B4=
+=D0=BE 5 (=D0=B2=D0=BA=D0=BB=D1=8E=D1=87=D0=B0=D1=8F):", round(random.unifo=
+rm(2, 5)))</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ =D0=93=D0=B5=D0=BD=D0=B5=D1=80=D0=B8=D1=80=D1=83=D0=B5=D0=BC =D1=81=D0=BB=
+=D1=83=D1=87=D0=B0=D0=B9=D0=BD=D0=BE=D0=B5 =D1=87=D0=B8=D1=81=D0=BB=D0=BE =
+=D0=BE=D1=82 2 (=D0=B2=D0=BA=D0=BB=D1=8E=D1=87=D0=B0=D1=8F) =D0=B4=D0=BE 5 =
+(=D0=B2=D0=BA=D0=BB=D1=8E=D1=87=D0=B0=D1=8F): <span style=3D"color: rgb(255=
+,153,31);">5</span></p>
+</div>
+</div>
+<div id=3D"expander-539792937" class=3D"expand-container">
+<div id=3D"expander-control-539792937" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D1=
+=80=D0=BE=D0=B2=D0=B5=D1=80=D0=B8=D1=82=D1=8C =D0=BD=D0=B0 =D0=BA=D0=BB=D1=
+=8E=D1=87=D0=B5=D0=B2=D0=BE=D0=B5 =D1=81=D0=BB=D0=BE=D0=B2=D0=BE: keyword.i=
+skeyword()</span>
+</div>
+<div id=3D"expander-content-539792937" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: py; gutter: false; theme: Confluence" data-theme=3D"Confluence">import ke=
+yword
+
+str =3D "while"
+
+print("=D0=A1=D0=BB=D0=BE=D0=B2=D0=BE \"", str, "\" - =D0=BA=D0=BB=D1=8E=D1=
+=87=D0=B5=D0=B2=D0=BE=D0=B5 =D1=81=D0=BB=D0=BE=D0=B2=D0=BE: ", keyword.iske=
+yword("while"), sep=3D"")</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ =D0=A1=D0=BB=D0=BE=D0=B2=D0=BE "<span style=3D"color: rgb(255,153,31);">wh=
+ile</span>" - =D0=BA=D0=BB=D1=8E=D1=87=D0=B5=D0=B2=D0=BE=D0=B5 =D1=81=D0=BB=
+=D0=BE=D0=B2=D0=BE: <span style=3D"color: rgb(255,153,31);">True</span></p>
+</div>
+</div>
+<div id=3D"expander-990218713" class=3D"expand-container">
+<div id=3D"expander-control-990218713" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D1=
+=80=D0=B5=D0=BE=D0=B1=D1=80=D0=B0=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D0=
+=B2 =D1=86=D0=B5=D0=BB=D0=BE=D0=B5 =D1=87=D0=B8=D1=81=D0=BB=D0=BE: int()</s=
+pan>
+</div>
+<div id=3D"expander-content-990218713" class=3D"expand-content">
+<p><strong>=D0=9E=D1=81=D0=BE=D0=B1=D0=B5=D0=BD=D0=BD=D0=BE=D1=81=D1=82=D0=
+=B8</strong>:</p>
+<ul>
+<li><p>=D0=9F=D1=80=D0=B5=D0=BE=D0=B1=D1=80=D0=B0=D0=B7=D0=BE=D0=B2=D0=B0=
+=D0=BD=D0=B8=D0=B5 =D0=B8=D0=B7 =D1=81=D1=82=D1=80=D0=BE=D0=BA=D0=B8 - =D1=
+=81=D1=82=D1=80=D0=BE=D0=BA=D0=B0 =D0=B4=D0=BE=D0=BB=D0=B6=D0=BD=D0=B0 =D1=
+=81=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=B0=D1=82=D1=8C =D1=86=D0=B5=D0=BB=D0=
+=BE=D0=B5 =D1=87=D0=B8=D1=81=D0=BB=D0=BE =D0=B1=D0=B5=D0=B7 =D0=B4=D1=80=D0=
+=BE=D0=B1=D0=BD=D0=BE=D0=B9 =D1=87=D0=B0=D1=81=D1=82=D0=B8, =D0=B8=D0=BB=D0=
+=B8 =D0=B2=D0=BE=D0=B7=D0=BD=D0=B8=D0=BA=D0=B0=D0=B5=D1=82 =D0=B8=D1=81=D0=
+=BA=D0=BB=D1=8E=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 </p></li>
+<li><p>=D0=9F=D1=80=D0=B5=D0=BE=D0=B1=D1=80=D0=B0=D0=B7=D0=BE=D0=B2=D0=B0=
+=D0=BD=D0=B8=D0=B5 =D0=B8=D0=B7 =D1=87=D0=B8=D1=81=D0=BB=D0=B0 =D1=81 =D0=
+=B4=D1=80=D0=BE=D0=B1=D0=BD=D0=BE=D0=B9 =D1=87=D0=B0=D1=81=D1=82=D1=8C=D1=
+=8E - =D0=B4=D1=80=D0=BE=D0=B1=D0=BD=D0=B0=D1=8F =D1=87=D0=B0=D1=81=D1=82=
+=D1=8C =D0=BE=D1=82=D1=81=D0=B5=D0=BA=D0=B0=D0=B5=D1=82=D1=81=D1=8F</p></li=
+>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: py; gutter: false; theme: Confluence" data-theme=3D"Confluence">str =3D "=
+55"
+i =3D int(str)
+
+print(i, "+ 1 =3D ", i + 1)</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ <span style=3D"color: rgb(255,196,0);">55</span> + 1 =3D <span style=3D"co=
+lor: rgb(255,196,0);">56</span></p>
+</div>
+</div>
+<div id=3D"expander-1949935922" class=3D"expand-container">
+<div id=3D"expander-control-1949935922" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9E=D0=
+=BA=D1=80=D1=83=D0=B3=D0=BB=D0=B8=D1=82=D1=8C =D0=B4=D0=BE n =D0=B7=D0=BD=
+=D0=B0=D0=BA=D0=BE=D0=B2 =D0=BF=D0=BE=D1=81=D0=BB=D0=B5 =D0=B7=D0=B0=D0=BF=
+=D1=8F=D1=82=D0=BE=D0=B9 (=D0=BE=D1=82 0.5 =D0=B2 =D0=B1=D0=BE=D0=BB=D1=8C=
+=D1=88=D1=83=D1=8E =D1=81=D1=82=D0=BE=D1=80=D0=BE=D0=BD=D1=83): round()</sp=
+an>
+</div>
+<div id=3D"expander-content-1949935922" class=3D"expand-content">
+<p><strong>=D0=A1=D0=B8=D0=BD=D1=82=D0=B0=D0=BA=D1=81=D0=B8=D1=81</strong>:=
+ round (int =D1=87=D0=B8=D1=81=D0=BB=D0=BE, <u>int =D0=B7=D0=BD=D0=B0=D0=BA=
+=D0=BE=D0=B2</u>)</p>
+<ul>
+<li><p>=D1=87=D0=B8=D1=81=D0=BB=D0=BE - =D1=87=D1=82=D0=BE =D0=BE=D0=BA=D1=
+=80=D1=83=D0=B3=D0=BB=D1=8F=D0=B5=D0=BC</p></li>
+<li><p><u>=D0=B7=D0=BD=D0=B0=D0=BA=D0=BE=D0=B2 </u>- =D0=B4=D0=BE =D1=81=D0=
+=BA=D0=BE=D0=BB=D1=8C=D0=BA=D0=B8=D1=85 =D0=B7=D0=BD=D0=B0=D0=BA=D0=BE=D0=
+=B2 =D0=BF=D0=BE=D1=81=D0=BB=D0=B5 =D0=B7=D0=B0=D0=BF=D1=8F=D1=82=D0=BE=D0=
+=B9</p></li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: py; gutter: false; theme: Confluence" data-theme=3D"Confluence">print("1.=
+ =D0=9E=D0=BA=D1=80=D1=83=D0=B3=D0=BB=D1=8F=D0=B5=D0=BC =D1=87=D0=B8=D1=81=
+=D0=BB=D0=BE 3: ", round(3), sep=3D"")
+print("2. =D0=9E=D0=BA=D1=80=D1=83=D0=B3=D0=BB=D1=8F=D0=B5=D0=BC =D1=87=D0=
+=B8=D1=81=D0=BB=D0=BE 3.4: ", round(3.4), sep=3D"")
+print("3. =D0=9E=D0=BA=D1=80=D1=83=D0=B3=D0=BB=D1=8F=D0=B5=D0=BC =D1=87=D0=
+=B8=D1=81=D0=BB=D0=BE 3.5: ", round(3.5), sep=3D"")
+print("4. =D0=9E=D0=BA=D1=80=D1=83=D0=B3=D0=BB=D1=8F=D0=B5=D0=BC =D1=87=D0=
+=B8=D1=81=D0=BB=D0=BE 3.3355 =D0=B4=D0=BE 2=D1=85 =D0=B7=D0=BD=D0=B0=D0=BA=
+=D0=BE=D0=B2 =D0=BF=D0=BE=D1=81=D0=BB=D0=B5 =D0=B7=D0=B0=D0=BF=D1=8F=D1=82=
+=D0=BE=D0=B9: ", round(3.3355,2), sep=3D"")</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+</p>
+<ol start=3D"1">
+<li><p>=D0=9E=D0=BA=D1=80=D1=83=D0=B3=D0=BB=D1=8F=D0=B5=D0=BC =D1=87=D0=B8=
+=D1=81=D0=BB=D0=BE 3: <span style=3D"color: rgb(255,196,0);">3</span></p></=
+li>
+<li><p>=D0=9E=D0=BA=D1=80=D1=83=D0=B3=D0=BB=D1=8F=D0=B5=D0=BC =D1=87=D0=B8=
+=D1=81=D0=BB=D0=BE 3.4: <span style=3D"color: rgb(255,196,0);">3</span></p>=
+</li>
+<li><p>=D0=9E=D0=BA=D1=80=D1=83=D0=B3=D0=BB=D1=8F=D0=B5=D0=BC =D1=87=D0=B8=
+=D1=81=D0=BB=D0=BE 3.5: <span style=3D"color: rgb(255,196,0);">4</span></p>=
+</li>
+<li><p>=D0=9E=D0=BA=D1=80=D1=83=D0=B3=D0=BB=D1=8F=D0=B5=D0=BC =D1=87=D0=B8=
+=D1=81=D0=BB=D0=BE 3.3355 =D0=B4=D0=BE 2=D1=85 =D0=B7=D0=BD=D0=B0=D0=BA=D0=
+=BE=D0=B2 =D0=BF=D0=BE=D1=81=D0=BB=D0=B5 =D0=B7=D0=B0=D0=BF=D1=8F=D1=82=D0=
+=BE=D0=B9: <span style=3D"color: rgb(255,196,0);">3.34</span></p></li>
+</ol>
+</div>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_82_1073643167.1678220808012
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/f3b107dc57c372bed05715c167ece18a
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAA3NCSVQICAjb4U/gAAAAFVBMVEX/
+//9wcHBwcHBwcHBwcHBwcHBwcHA3RenHAAAAB3RSTlMAZoiZzN3/SzZomQAAAAlwSFlzAAALEgAA
+CxIB0t1+/AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNui8sowAAAAUdEVYdENy
+ZWF0aW9uIFRpbWUANi8xLzEzOKlF0AAAACFJREFUCJljYCATsCgwqIAZTMnMyRAhsTABCIMxkVxT
+GQCLcwHyUKXpLgAAAABJRU5ErkJggg==
+------=_Part_82_1073643167.1678220808012--
