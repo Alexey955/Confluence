@@ -1,0 +1,911 @@
+Date: Tue, 10 Oct 2023 12:07:46 +0000 (UTC)
+Message-ID: <320393442.107.1696939666350@1d4ee6faf891>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_106_1214120588.1696939666350"
+
+------=_Part_106_1214120588.1696939666350
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Collections (=D0=BA=D0=BB=D0=B0=D1=81=D1=81)</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Collections (=D0=BA=D0=BB=D0=B0=D1=81=D1=81)</h1>
+    <div class=3D"Section1">
+        <div id=3D"expander-1375100868" class=3D"expand-container">
+<div id=3D"expander-control-1375100868" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D0=
+=BE=D0=BB=D1=83=D1=87=D0=B8=D1=82=D1=8C =D0=BA=D0=BE=D0=BB=D0=B8=D1=87=D0=
+=B5=D1=81=D1=82=D0=B2=D0=BE =D1=83=D0=BA=D0=B0=D0=B7=D0=B0=D0=BD=D0=BD=D1=
+=8B=D1=85 =D1=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82=D0=BE=D0=B2: frequency=
+()</span>
+</div>
+<div id=3D"expander-content-1375100868" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">ArrayLi=
+st&lt;String&gt; one =3D new ArrayList&lt;&gt;(Arrays.asList("One", "Two", =
+"One", "Three", "One"));
+
+System.out.println("=D0=9A=D0=BE=D0=BB=D0=B8=D1=87=D0=B5=D1=81=D1=82=D0=B2=
+=D0=BE =D1=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82=D0=BE=D0=B2 \"One\": " + =
+Collections.frequency(one, "One"));
+System.out.println("=D0=9A=D0=BE=D0=BB=D0=B8=D1=87=D0=B5=D1=81=D1=82=D0=B2=
+=D0=BE =D1=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82=D0=BE=D0=B2 \"Four\": " +=
+ Collections.frequency(one, "Four"));</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>=D0=9A=D0=BE=D0=BB=D0=B8=D1=87=D0=B5=D1=81=D1=82=D0=B2=D0=BE =D1=8D=D0=
+=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82=D0=BE=D0=B2 "One": <span style=3D"color: =
+rgb(255,153,31);">3</span><br>=D0=9A=D0=BE=D0=BB=D0=B8=D1=87=D0=B5=D1=81=D1=
+=82=D0=B2=D0=BE =D1=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82=D0=BE=D0=B2 "Fou=
+r": <span style=3D"color: rgb(255,153,31);">0</span></p>
+</div>
+</div>
+<div id=3D"expander-629987317" class=3D"expand-container">
+<div id=3D"expander-control-629987317" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D0=
+=BE=D0=BB=D1=83=D1=87=D0=B8=D1=82=D1=8C =D0=B8=D0=BD=D0=B4=D0=B5=D0=BA=D1=
+=81 =D0=BF=D0=BE=D0=B4=D1=81=D0=BF=D0=B8=D1=81=D0=BA=D0=B0 =D0=B2 List (=D0=
+=BF=D0=B5=D1=80=D0=B2=D0=BE=D0=B5 =D0=B2=D1=85=D0=BE=D0=B6=D0=B4=D0=B5=D0=
+=BD=D0=B8=D0=B5): indexOfSubList()</span>
+</div>
+<div id=3D"expander-content-629987317" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">ArrayLi=
+st&lt;String&gt; one =3D new ArrayList&lt;&gt;(Arrays.asList("One", "Three"=
+, "Four", "One", "Two", "Three", "One", "Two"));
+ArrayList&lt;String&gt; two =3D new ArrayList&lt;&gt;(Arrays.asList("One", =
+"Two"));
+
+System.out.println("=D0=98=D0=BD=D0=B4=D0=B5=D0=BA=D1=81 =D0=BF=D0=BE=D0=B4=
+=D1=81=D0=BF=D0=B8=D1=81=D0=BA=D0=B0: " + Collections.indexOfSubList(one, t=
+wo));</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ =D0=98=D0=BD=D0=B4=D0=B5=D0=BA=D1=81 =D0=BF=D0=BE=D0=B4=D1=81=D0=BF=D0=B8=
+=D1=81=D0=BA=D0=B0: <span style=3D"color: rgb(255,153,31);">3</span></p>
+</div>
+</div>
+<div id=3D"expander-1801739009" class=3D"expand-container">
+<div id=3D"expander-control-1801739009" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D0=
+=BE=D0=BB=D1=83=D1=87=D0=B8=D1=82=D1=8C =D0=B8=D0=BD=D0=B4=D0=B5=D0=BA=D1=
+=81 =D0=BF=D0=BE=D0=B4=D1=81=D0=BF=D0=B8=D1=81=D0=BA=D0=B0 =D0=B2 List (=D0=
+=BF=D0=BE=D1=81=D0=BB=D0=B5=D0=B4=D0=BD=D0=B5=D0=B5 =D0=B2=D1=85=D0=BE=D0=
+=B6=D0=B4=D0=B5=D0=BD=D0=B8=D0=B5): lastIndexOfSubList()</span>
+</div>
+<div id=3D"expander-content-1801739009" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">ArrayLi=
+st&lt;String&gt; one =3D new ArrayList&lt;&gt;(Arrays.asList("One", "Three"=
+, "Four", "One", "Two", "Three", "One", "Two"));
+ArrayList&lt;String&gt; two =3D new ArrayList&lt;&gt;(Arrays.asList("One", =
+"Two"));
+
+System.out.println("=D0=98=D0=BD=D0=B4=D0=B5=D0=BA=D1=81 =D0=BF=D0=BE=D0=B4=
+=D1=81=D0=BF=D0=B8=D1=81=D0=BA=D0=B0: " + Collections.lastIndexOfSubList(on=
+e, two));</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ =D0=98=D0=BD=D0=B4=D0=B5=D0=BA=D1=81 =D0=BF=D0=BE=D0=B4=D1=81=D0=BF=D0=B8=
+=D1=81=D0=BA=D0=B0: <span style=3D"color: rgb(255,153,31);">6</span></p>
+</div>
+</div>
+<div id=3D"expander-1513404729" class=3D"expand-container">
+<div id=3D"expander-control-1513404729" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D0=
+=BE=D0=BB=D1=83=D1=87=D0=B8=D1=82=D1=8C =D0=BC=D0=B0=D0=BA=D1=81=D0=B8=D0=
+=BC=D0=B0=D0=BB=D1=8C=D0=BD=D1=8B=D0=B9 =D1=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=
+=BD=D1=82 =D0=BF=D1=80=D0=B8 =D0=B5=D1=81=D1=82=D0=B5=D1=81=D1=82=D0=B2=D0=
+=B5=D0=BD=D0=BD=D0=BE=D0=BC =D1=83=D0=BF=D0=BE=D1=80=D1=8F=D0=B4=D0=BE=D1=
+=87=D0=B5=D0=BD=D0=B8=D0=B8: max()</span>
+</div>
+<div id=3D"expander-content-1513404729" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">ArrayLi=
+st&lt;Integer&gt; one =3D new ArrayList&lt;&gt;(Arrays.asList(2, 3, 1));
+
+System.out.println("=D0=9A=D0=BE=D0=BB=D0=BB=D0=B5=D0=BA=D1=86=D0=B8=D1=8F:=
+ " + one);
+System.out.println("=D0=9C=D0=B0=D0=BA=D1=81=D0=B8=D0=BC=D0=B0=D0=BB=D1=8C=
+=D0=BD=D1=8B=D0=B9 =D1=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82: " + Collecti=
+ons.max(one));</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>=D0=9A=D0=BE=D0=BB=D0=BB=D0=B5=D0=BA=D1=86=D0=B8=D1=8F: [2, 3, 1]<br>=D0=
+=9C=D0=B0=D0=BA=D1=81=D0=B8=D0=BC=D0=B0=D0=BB=D1=8C=D0=BD=D1=8B=D0=B9 =D1=
+=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82: <span style=3D"color: rgb(255,153,=
+31);">3</span></p>
+</div>
+</div>
+<div id=3D"expander-244642267" class=3D"expand-container">
+<div id=3D"expander-control-244642267" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D0=
+=BE=D0=BB=D1=83=D1=87=D0=B8=D1=82=D1=8C =D0=BC=D0=B0=D0=BA=D1=81=D0=B8=D0=
+=BC=D0=B0=D0=BB=D1=8C=D0=BD=D1=8B=D0=B9 =D1=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=
+=BD=D1=82, =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D1=8F =D0=BA=D0=
+=BE=D0=BC=D0=BF=D0=B0=D1=80=D0=B0=D1=82=D0=BE=D1=80: max()</span>
+</div>
+<div id=3D"expander-content-244642267" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">ArrayLi=
+st&lt;String&gt; one =3D new ArrayList&lt;&gt;(Arrays.asList("Two", "Three"=
+, "One"));
+
+Comparator&lt;String&gt; comp =3D (a, b) -&gt; {
+  if(a =3D=3D b){
+    return 0;
+  }else{
+    return a.length() - b.length();
+  }
+};
+
+System.out.println("=D0=9A=D0=BE=D0=BB=D0=BB=D0=B5=D0=BA=D1=86=D0=B8=D1=8F:=
+ " + one);
+System.out.println("=D0=AD=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82 =D1=81 =D0=
+=BD=D0=B0=D0=B8=D0=B1=D0=BE=D0=BB=D1=8C=D1=88=D0=B8=D0=BC =D1=87=D0=B8=D1=
+=81=D0=BB=D0=BE=D0=BC =D1=81=D0=B8=D0=BC=D0=B2=D0=BE=D0=BB=D0=BE=D0=B2: " +=
+ Collections.max(one, comp));</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>=D0=9A=D0=BE=D0=BB=D0=BB=D0=B5=D0=BA=D1=86=D0=B8=D1=8F: [Two, Three, One=
+]<br>=D0=AD=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82 =D1=81 =D0=BD=D0=B0=D0=B8=
+=D0=B1=D0=BE=D0=BB=D1=8C=D1=88=D0=B8=D0=BC =D1=87=D0=B8=D1=81=D0=BB=D0=BE=
+=D0=BC =D1=81=D0=B8=D0=BC=D0=B2=D0=BE=D0=BB=D0=BE=D0=B2: <span style=3D"col=
+or: rgb(255,153,31);">Three</span></p>
+</div>
+</div>
+<div id=3D"expander-853861467" class=3D"expand-container">
+<div id=3D"expander-control-853861467" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D0=
+=BE=D0=BB=D1=83=D1=87=D0=B8=D1=82=D1=8C =D0=BC=D0=B8=D0=BD=D0=B8=D0=BC=D0=
+=B0=D0=BB=D1=8C=D0=BD=D1=8B=D0=B9 =D1=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=
+=82 =D0=BF=D1=80=D0=B8 =D0=B5=D1=81=D1=82=D0=B5=D1=81=D1=82=D0=B2=D0=B5=D0=
+=BD=D0=BD=D0=BE=D0=BC =D1=83=D0=BF=D0=BE=D1=80=D1=8F=D0=B4=D0=BE=D1=87=D0=
+=B5=D0=BD=D0=B8=D0=B8: min()</span>
+</div>
+<div id=3D"expander-content-853861467" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">ArrayLi=
+st&lt;Integer&gt; one =3D new ArrayList&lt;&gt;(Arrays.asList(3, 1, 2));
+
+System.out.println("=D0=9A=D0=BE=D0=BB=D0=BB=D0=B5=D0=BA=D1=86=D0=B8=D1=8F:=
+ " + one);
+System.out.println("=D0=9C=D0=B8=D0=BD=D0=B8=D0=BC=D0=B0=D0=BB=D1=8C=D0=BD=
+=D1=8B=D0=B9 =D1=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82: " + Collections.mi=
+n(one));</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>=D0=9A=D0=BE=D0=BB=D0=BB=D0=B5=D0=BA=D1=86=D0=B8=D1=8F: [3, 1, 2]<br>=D0=
+=9C=D0=B8=D0=BD=D0=B8=D0=BC=D0=B0=D0=BB=D1=8C=D0=BD=D1=8B=D0=B9 =D1=8D=D0=
+=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82: <span style=3D"color: rgb(255,153,31);">=
+1</span></p>
+</div>
+</div>
+<div id=3D"expander-1601997703" class=3D"expand-container">
+<div id=3D"expander-control-1601997703" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D0=
+=BE=D0=BB=D1=83=D1=87=D0=B8=D1=82=D1=8C =D0=BC=D0=B8=D0=BD=D0=B8=D0=BC=D0=
+=B0=D0=BB=D1=8C=D0=BD=D1=8B=D0=B9 =D1=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=
+=82, =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D1=8F =D0=BA=D0=BE=D0=
+=BC=D0=BF=D0=B0=D1=80=D0=B0=D1=82=D0=BE=D1=80: min()</span>
+</div>
+<div id=3D"expander-content-1601997703" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">ArrayLi=
+st&lt;String&gt; one =3D new ArrayList&lt;&gt;(Arrays.asList("Two", "Three"=
+, "Four"));
+
+Comparator&lt;String&gt; comp =3D (a, b) -&gt; {
+  if(a =3D=3D b){
+    return 0;
+  }else{
+    return a.length() - b.length();
+  }
+};
+
+System.out.println("=D0=9A=D0=BE=D0=BB=D0=BB=D0=B5=D0=BA=D1=86=D0=B8=D1=8F:=
+ " + one);
+System.out.println("=D0=AD=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82 =D1=81 =D0=
+=BD=D0=B0=D0=B8=D0=BC=D0=B5=D0=BD=D1=8C=D1=88=D0=B8=D0=BC =D1=87=D0=B8=D1=
+=81=D0=BB=D0=BE=D0=BC =D1=81=D0=B8=D0=BC=D0=B2=D0=BE=D0=BB=D0=BE=D0=B2: " +=
+ Collections.min(one, comp));</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>=D0=9A=D0=BE=D0=BB=D0=BB=D0=B5=D0=BA=D1=86=D0=B8=D1=8F: [Two, Three, Fou=
+r]<br>=D0=AD=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82 =D1=81 =D0=BD=D0=B0=D0=B8=
+=D0=BC=D0=B5=D0=BD=D1=8C=D1=88=D0=B8=D0=BC =D1=87=D0=B8=D1=81=D0=BB=D0=BE=
+=D0=BC =D1=81=D0=B8=D0=BC=D0=B2=D0=BE=D0=BB=D0=BE=D0=B2: <span style=3D"col=
+or: rgb(255,153,31);">Two</span></p>
+</div>
+</div>
+<div id=3D"expander-1064952610" class=3D"expand-container">
+<div id=3D"expander-control-1064952610" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=98=D0=
+=B7=D0=BC=D0=B5=D0=BD=D0=B8=D1=82=D1=8C =D0=BF=D0=BE=D1=80=D1=8F=D0=B4=D0=
+=BE=D0=BA =D1=81=D0=BB=D0=B5=D0=B4=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F =D1=
+=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82=D0=BE=D0=B2 =D0=B2 List =D0=BD=D0=
+=B0 =D0=BE=D0=B1=D1=80=D0=B0=D1=82=D0=BD=D1=8B=D0=B9: reverse()</span>
+</div>
+<div id=3D"expander-content-1064952610" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">ArrayLi=
+st&lt;String&gt; one =3D new ArrayList&lt;&gt;(Arrays.asList("One", "Two", =
+"Three"));
+
+Collections.reverse(one);
+
+System.out.println("=D0=A1=D0=BF=D0=B8=D1=81=D0=BE=D0=BA: " + one);</pre>=
+=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ =D0=A1=D0=BF=D0=B8=D1=81=D0=BE=D0=BA: [Three, Two, One]</p>
+</div>
+</div>
+<div id=3D"expander-1836528305" class=3D"expand-container">
+<div id=3D"expander-control-1836528305" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=97=D0=
+=B0=D0=BC=D0=B5=D0=BD=D0=B8=D1=82=D1=8C =D0=BA=D0=B0=D0=B6=D0=B4=D1=8B=D0=
+=B9 =D1=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82 =D0=BD=D0=B0 =D1=83=D0=BA=D0=
+=B0=D0=B7=D0=B0=D0=BD=D0=BD=D1=8B=D0=B9 =D0=B2 List; =D0=BF=D1=80=D0=B8 =D1=
+=81=D0=BE=D0=B2=D0=BF=D0=B0=D0=B4=D0=B5=D0=BD=D0=B8=D0=B8: replaceAll()</sp=
+an>
+</div>
+<div id=3D"expander-content-1836528305" class=3D"expand-content">
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82:</p>
+<ul>
+<li><p>true - =D0=B5=D1=81=D0=BB=D0=B8 =D0=B7=D0=B0=D0=BC=D0=B5=D0=BD=D0=B8=
+=D0=BB =D1=85=D0=BE=D1=82=D1=8C =D0=BE=D0=B4=D0=B8=D0=BD =D1=8D=D0=BB=D0=B5=
+=D0=BC=D0=B5=D0=BD=D1=82</p></li>
+<li><p>false - =D0=B5=D1=81=D0=BB=D0=B8 =D0=BD=D0=B5 =D0=BF=D1=80=D0=BE=D0=
+=B8=D0=B7=D0=BE=D1=88=D0=BB=D0=BE =D0=BD=D0=B8 =D0=BE=D0=B4=D0=BD=D0=BE=D0=
+=B9 =D0=B7=D0=B0=D0=BC=D0=B5=D0=BD=D1=8B</p></li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">ArrayLi=
+st&lt;String&gt; one =3D new ArrayList&lt;&gt;(Arrays.asList("One", "Two", =
+"Three","One"));
+
+Collections.replaceAll(one, "One", "New");
+
+System.out.println("=D0=A1=D0=BF=D0=B8=D1=81=D0=BE=D0=BA: " + one);</pre>=
+=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ =D0=A1=D0=BF=D0=B8=D1=81=D0=BE=D0=BA: [<span style=3D"color: rgb(255,153,3=
+1);">New</span>, Two, Three, <span style=3D"color: rgb(255,153,31);">New</s=
+pan>]</p>
+</div>
+</div>
+<div id=3D"expander-641516278" class=3D"expand-container">
+<div id=3D"expander-control-641516278" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=97=D0=
+=B0=D0=BC=D0=B5=D0=BD=D0=B8=D1=82=D1=8C =D0=B2=D1=81=D0=B5 =D1=8D=D0=BB=D0=
+=B5=D0=BC=D0=B5=D0=BD=D1=82=D1=8B =D0=B2 List =D0=BD=D0=B0 =D1=83=D0=BA=D0=
+=B0=D0=B7=D0=B0=D0=BD=D0=BD=D1=8B=D0=B9: fill()</span>
+</div>
+<div id=3D"expander-content-641516278" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">ArrayLi=
+st&lt;String&gt; one =3D new ArrayList&lt;&gt;(Arrays.asList("One", "Two", =
+"Three"));
+
+Collections.fill(one, "Four");
+
+System.out.println("=D0=9A=D0=BE=D0=BB=D0=BB=D0=B5=D0=BA=D1=86=D0=B8=D1=8F:=
+ " + one);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ =D0=9A=D0=BE=D0=BB=D0=BB=D0=B5=D0=BA=D1=86=D0=B8=D1=8F: [Four, Four, Four]=
+</p>
+</div>
+</div>
+<div id=3D"expander-1156268439" class=3D"expand-container">
+<div id=3D"expander-control-1156268439" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D1=
+=80=D0=BE=D0=B2=D0=B5=D1=80=D0=B8=D1=82=D1=8C =D0=BD=D0=B0 =D0=BD=D0=B0=D0=
+=BB=D0=B8=D1=87=D0=B8=D0=B5 =D0=BE=D0=B1=D1=89=D0=B8=D1=85 =D1=8D=D0=BB=D0=
+=B5=D0=BC=D0=B5=D0=BD=D1=82=D0=BE=D0=B2: disjoint()</span>
+</div>
+<div id=3D"expander-content-1156268439" class=3D"expand-content">
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82: </p>
+<ul>
+<li><p>true - =D0=B5=D1=81=D0=BB=D0=B8 =D0=BD=D0=B5=D1=82 =D0=BE=D0=B1=D1=
+=89=D0=B8=D1=85 =D1=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82=D0=BE=D0=B2</p><=
+/li>
+<li><p>false - =D0=B5=D1=81=D0=BB=D0=B8 =D0=B5=D1=81=D1=82=D1=8C =D0=BE=D0=
+=B1=D1=89=D0=B8=D0=B5 =D1=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82=D1=8B</p><=
+/li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">ArrayLi=
+st&lt;String&gt; one =3D new ArrayList&lt;&gt;(Arrays.asList("One", "Two", =
+"Three"));
+ArrayList&lt;String&gt; two =3D new ArrayList&lt;&gt;(Arrays.asList("Four",=
+ "Five", "Six"));
+
+System.out.println("=D0=9A=D0=BE=D0=BB=D0=BB=D0=B5=D0=BA=D1=86=D0=B8=D0=B8 =
+=D0=BD=D0=B5 =D1=81=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=B0=D1=82 =D0=BE=D0=B1=
+=D1=89=D0=B8=D0=B5 =D1=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82=D1=8B: " + Co=
+llections.disjoint(one, two));</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ =D0=9A=D0=BE=D0=BB=D0=BB=D0=B5=D0=BA=D1=86=D0=B8=D0=B8 =D0=BD=D0=B5 =D1=81=
+=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=B0=D1=82 =D0=BE=D0=B1=D1=89=D0=B8=D0=B5 =
+=D1=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82=D1=8B: <span style=3D"color: rgb=
+(255,153,31);">true</span></p>
+</div>
+</div>
+<div id=3D"expander-1998376942" class=3D"expand-container">
+<div id=3D"expander-control-1998376942" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A1=D0=
+=BE=D0=B7=D0=B4=D0=B0=D1=82=D1=8C List =D1=81 n =D0=BA=D0=BE=D0=BF=D0=B8=D1=
+=8F=D0=BC=D0=B8 =D1=83=D0=BA=D0=B0=D0=B7=D0=B0=D0=BD=D0=BD=D0=BE=D0=B3=D0=
+=BE =D0=BE=D0=B1=D1=8A=D0=B5=D0=BA=D1=82=D0=B0: nCopies()</span>
+</div>
+<div id=3D"expander-content-1998376942" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">List&lt=
+;String&gt; one =3D Collections.nCopies(5, "Copy");
+
+System.out.println("=D0=A1=D0=BF=D0=B8=D1=81=D0=BE=D0=BA: " + one);</pre>=
+=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ =D0=A1=D0=BF=D0=B8=D1=81=D0=BE=D0=BA: [Copy, Copy, Copy, Copy, Copy]</p>
+</div>
+</div>
+<div id=3D"expander-1041677212" class=3D"expand-container">
+<div id=3D"expander-control-1041677212" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A1=D0=
+=BE=D0=B7=D0=B4=D0=B0=D1=82=D1=8C Set, =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=
+=D0=B9 =D1=81=D0=B2=D1=8F=D0=B7=D0=B0=D0=BD =D1=81 Map: newSetFromMap()</sp=
+an>
+</div>
+<div id=3D"expander-content-1041677212" class=3D"expand-content">
+<p>=D0=9E=D1=81=D0=BE=D0=B1=D0=B5=D0=BD=D0=BD=D0=BE=D1=81=D1=82=D0=B8:</p>
+<ul>
+<li><p>Map =D0=B4=D0=BE=D0=BB=D0=B6=D0=B5=D0=BD =D0=B1=D1=8B=D1=82=D1=8C =
+=D0=BF=D1=83=D1=81=D1=82=D1=8B=D0=BC =D0=B2=D0=BE =D0=B2=D1=80=D0=B5=D0=BC=
+=D1=8F =D0=B2=D1=8B=D0=B7=D0=BE=D0=B2=D0=B0 =D0=BC=D0=B5=D1=82=D0=BE=D0=B4=
+=D0=B0</p></li>
+<li><p>=D0=A3 Map =D1=82=D0=B8=D0=BF =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=
+=D0=B8=D0=B9 - Boolean</p></li>
+<li><p>=D0=95=D1=81=D0=BB=D0=B8 =D0=B4=D0=BE=D0=B1=D0=B0=D0=B2=D0=B8=D1=82=
+=D1=8C =D1=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82 =D0=B2 Set, =D1=82=D0=BE =
+=D0=B2 Map =D0=BF=D0=BE=D1=8F=D0=B2=D0=B8=D1=82=D1=81=D1=8F =D0=BA=D0=BB=D1=
+=8E=D1=87 =D1=81 =D1=82=D0=B0=D0=BA=D0=B8=D0=BC =D0=BD=D0=B0=D0=B7=D0=B2=D0=
+=B0=D0=BD=D0=B8=D0=B5=D0=BC =D0=B8 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=
+=B8=D0=B5 true</p></li>
+<li><p>=D0=95=D1=81=D0=BB=D0=B8 =D0=B4=D0=BE=D0=B1=D0=B0=D0=B2=D0=B8=D1=82=
+=D1=8C =D1=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82 =D0=B2 Map, =D1=82=D0=BE =
+=D0=B2 Set =D0=BF=D0=BE=D1=8F=D0=B2=D0=B8=D1=82=D1=81=D1=8F =D1=8D=D0=BB=D0=
+=B5=D0=BC=D0=B5=D0=BD=D1=82 =D1=81 =D0=BD=D0=B0=D0=B7=D0=B2=D0=B0=D0=BD=D0=
+=B8=D0=B5=D0=BC =D0=BA=D0=BB=D1=8E=D1=87=D0=B0</p></li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">HashMap=
+&lt;String, Boolean&gt; map =3D new HashMap&lt;&gt;();
+Set&lt;String&gt; set =3D Collections.newSetFromMap(map);
+
+set.add("One");
+map.put("Two", false);
+
+System.out.println("set: " + set);
+System.out.println("map: " + map);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>set: [One, Two]<br>map: {One=3Dtrue, Two=3Dfalse}</p>
+</div>
+</div>
+<div id=3D"expander-1277373445" class=3D"expand-container">
+<div id=3D"expander-control-1277373445" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A1=D0=
+=BC=D0=B5=D1=81=D1=82=D0=B8=D1=82=D1=8C =D1=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=
+=BD=D1=82=D1=8B =D0=B2 List =D0=B2=D0=BF=D1=80=D0=B0=D0=B2=D0=BE/=D0=B2=D0=
+=BB=D0=B5=D0=B2=D0=BE: rotate()</span>
+</div>
+<div id=3D"expander-content-1277373445" class=3D"expand-content">
+<p>=D0=94=D0=BB=D1=8F =D1=81=D0=BC=D0=B5=D1=89=D0=B5=D0=BD=D0=B8=D1=8F =D0=
+=B2=D0=BF=D1=80=D0=B0=D0=B2=D0=BE - =D1=83=D0=BA=D0=B0=D0=B7=D1=8B=D0=B2=D0=
+=B0=D0=B5=D1=82=D1=81=D1=8F =D0=BF=D0=BE=D0=BB=D0=BE=D0=B6=D0=B8=D1=82=D0=
+=B5=D0=BB=D1=8C=D0=BD=D0=BE=D0=B5 =D1=87=D0=B8=D1=81=D0=BB=D0=BE</p>
+<p>=D0=94=D0=BB=D1=8F =D1=81=D0=BC=D0=B5=D1=89=D0=B5=D0=BD=D0=B8=D1=8F =D0=
+=B2=D0=BB=D0=B5=D0=B2=D0=BE - =D1=83=D0=BA=D0=B0=D0=B7=D1=8B=D0=B2=D0=B0=D0=
+=B5=D1=82=D1=81=D1=8F =D0=BE=D1=82=D1=80=D0=B8=D1=86=D0=B0=D1=82=D0=B5=D0=
+=BB=D1=8C=D0=BD=D0=BE=D0=B5 =D1=87=D0=B8=D1=81=D0=BB=D0=BE</p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 1 </strong>(=D1=81=D0=BC=D0=
+=B5=D1=89=D0=B0=D0=B5=D0=BC =D0=B2=D0=BF=D1=80=D0=B0=D0=B2=D0=BE):</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">ArrayLi=
+st&lt;String&gt; one =3D new ArrayList&lt;&gt;(Arrays.asList("One", "Two", =
+"Three", "Four", "Five"));
+
+Collections.rotate(one, 2);
+
+System.out.println("=D0=A1=D0=BF=D0=B8=D1=81=D0=BE=D0=BA: " + one);</pre>=
+=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ =D0=A1=D0=BF=D0=B8=D1=81=D0=BE=D0=BA: [Four, Five, One, Two, Three]</p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 2 </strong>(=D1=81=D0=BC=D0=
+=B5=D1=89=D0=B0=D0=B5=D0=BC =D0=B2=D0=BB=D0=B5=D0=B2=D0=BE):</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">ArrayLi=
+st&lt;String&gt; one =3D new ArrayList&lt;&gt;(Arrays.asList("One", "Two", =
+"Three", "Four", "Five"));
+
+Collections.rotate(one, -2);
+
+System.out.println("=D0=A1=D0=BF=D0=B8=D1=81=D0=BE=D0=BA: " + one);</pre>=
+=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ =D0=A1=D0=BF=D0=B8=D1=81=D0=BE=D0=BA: [Three, Four, Five, One, Two]</p>
+</div>
+</div>
+<div id=3D"expander-655487941" class=3D"expand-container">
+<div id=3D"expander-control-655487941" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D0=
+=B5=D1=80=D0=B5=D0=BC=D0=B5=D1=88=D0=B0=D1=82=D1=8C =D1=8D=D0=BB=D0=B5=D0=
+=BC=D0=B5=D0=BD=D1=82=D1=8B =D0=B2 List: shuffle()</span>
+</div>
+<div id=3D"expander-content-655487941" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">ArrayLi=
+st&lt;String&gt; one =3D new ArrayList&lt;&gt;(Arrays.asList("One", "Two", =
+"Three", "Four", "Five"));
+
+Collections.shuffle(one);
+
+System.out.println("=D0=A1=D0=BF=D0=B8=D1=81=D0=BE=D0=BA: " + one);</pre>=
+=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ =D0=A1=D0=BF=D0=B8=D1=81=D0=BE=D0=BA: [Three, Two, Four, Five, One]</p>
+</div>
+</div>
+<div id=3D"expander-869314447" class=3D"expand-container">
+<div id=3D"expander-control-869314447" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A1=D0=
+=BE=D1=80=D1=82=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D1=8D=D0=BB=D0=
+=B5=D0=BC=D0=B5=D0=BD=D1=82=D1=8B =D0=B2 List, =D0=B8=D1=81=D0=BF=D0=BE=D0=
+=BB=D1=8C=D0=B7=D1=83=D1=8F =D0=B5=D1=81=D1=82=D0=B5=D1=81=D1=82=D0=B2=D0=
+=B5=D0=BD=D0=BD=D0=BE=D0=B5 =D1=83=D0=BF=D0=BE=D1=80=D1=8F=D0=B4=D0=BE=D1=
+=87=D0=B5=D0=BD=D0=B8=D0=B5: sort()</span>
+</div>
+<div id=3D"expander-content-869314447" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">ArrayLi=
+st&lt;String&gt; one =3D new ArrayList&lt;&gt;(Arrays.asList("AA", "A", "AA=
+AA", "AAA", "AAAAA"));
+
+Collections.sort(one);
+
+System.out.println("=D0=9E=D1=82=D1=81=D0=BE=D1=80=D1=82=D0=B8=D1=80=D0=BE=
+=D0=B2=D0=B0=D0=BD=D0=BD=D1=8B=D0=B9 =D1=81=D0=BF=D0=B8=D1=81=D0=BE=D0=BA: =
+" + one);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ =D0=9E=D1=82=D1=81=D0=BE=D1=80=D1=82=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=
+=D0=BD=D1=8B=D0=B9 =D1=81=D0=BF=D0=B8=D1=81=D0=BE=D0=BA: [A, AA, AAA, AAAA,=
+ AAAAA]</p>
+</div>
+</div>
+<div id=3D"expander-299517267" class=3D"expand-container">
+<div id=3D"expander-control-299517267" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A1=D0=
+=BE=D1=80=D1=82=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D1=8D=D0=BB=D0=
+=B5=D0=BC=D0=B5=D0=BD=D1=82=D1=8B =D0=B2 List, =D0=B8=D1=81=D0=BF=D0=BE=D0=
+=BB=D1=8C=D0=B7=D1=83=D1=8F =D0=BA=D0=BE=D0=BC=D0=BF=D0=B0=D1=80=D0=B0=D1=
+=82=D0=BE=D1=80: sort()</span>
+</div>
+<div id=3D"expander-content-299517267" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">ArrayLi=
+st&lt;String&gt; one =3D new ArrayList&lt;&gt;(Arrays.asList("AA", "A", "AA=
+AA", "AAA", "AAAAA"));
+
+Comparator&lt;String&gt; comp =3D (a, b) -&gt; {
+  if(a.length() =3D=3D b.length()){
+    return 0;
+  }else {
+    return a.length() - b.length();
+  }
+};
+
+Collections.sort(one, comp);
+
+System.out.println("=D0=A1=D0=BF=D0=B8=D1=81=D0=BE=D0=BA, =D0=BE=D1=82=D1=
+=81=D0=BE=D1=80=D1=82=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=BD=D1=8B=D0=B9=
+ =D0=BF=D0=BE =D0=BA=D0=BE=D0=BB=D0=B8=D1=87=D0=B5=D1=81=D1=82=D0=B2=D1=83 =
+=D1=81=D0=B8=D0=BC=D0=B2=D0=BE=D0=BB=D0=BE=D0=B2 =D0=B2 =D1=81=D1=82=D1=80=
+=D0=BE=D0=BA=D0=B5: " + one);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ =D0=A1=D0=BF=D0=B8=D1=81=D0=BE=D0=BA, =D0=BE=D1=82=D1=81=D0=BE=D1=80=D1=82=
+=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=BD=D1=8B=D0=B9 =D0=BF=D0=BE =D0=BA=
+=D0=BE=D0=BB=D0=B8=D1=87=D0=B5=D1=81=D1=82=D0=B2=D1=83 =D1=81=D0=B8=D0=BC=
+=D0=B2=D0=BE=D0=BB=D0=BE=D0=B2 =D0=B2 =D1=81=D1=82=D1=80=D0=BE=D0=BA=D0=B5:=
+ [A, AA, AAA, AAAA, AAAAA]</p>
+</div>
+</div>
+<div id=3D"expander-1064019695" class=3D"expand-container">
+<div id=3D"expander-control-1064019695" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D0=
+=BE=D0=BC=D0=B5=D0=BD=D1=8F=D1=82=D1=8C =D0=BC=D0=B5=D1=81=D1=82=D0=B0=D0=
+=BC=D0=B8 =D1=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82=D1=8B =D0=B2 List: swa=
+p()</span>
+</div>
+<div id=3D"expander-content-1064019695" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">ArrayLi=
+st&lt;String&gt; one =3D new ArrayList&lt;&gt;(Arrays.asList("One", "Two", =
+"Three", "Four", "Five"));
+
+Collections.swap(one, 1, 3);
+
+System.out.println("=D0=A1=D0=BF=D0=B8=D1=81=D0=BE=D0=BA: " + one);</pre>=
+=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ =D0=A1=D0=BF=D0=B8=D1=81=D0=BE=D0=BA: [One, <span style=3D"color: rgb(255,=
+153,31);">Four</span>, Three, <span style=3D"color: rgb(255,153,31);">Two</=
+span>, Five]</p>
+</div>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_106_1214120588.1696939666350
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/f3b107dc57c372bed05715c167ece18a
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAA3NCSVQICAjb4U/gAAAAFVBMVEX/
+//9wcHBwcHBwcHBwcHBwcHBwcHA3RenHAAAAB3RSTlMAZoiZzN3/SzZomQAAAAlwSFlzAAALEgAA
+CxIB0t1+/AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNui8sowAAAAUdEVYdENy
+ZWF0aW9uIFRpbWUANi8xLzEzOKlF0AAAACFJREFUCJljYCATsCgwqIAZTMnMyRAhsTABCIMxkVxT
+GQCLcwHyUKXpLgAAAABJRU5ErkJggg==
+------=_Part_106_1214120588.1696939666350--

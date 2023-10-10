@@ -1,0 +1,1246 @@
+Date: Tue, 10 Oct 2023 12:08:28 +0000 (UTC)
+Message-ID: <1377657955.43.1696939708467@31aeec5d5fe7>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_42_1192797270.1696939708467"
+
+------=_Part_42_1192797270.1696939708467
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>=D0=92=D0=B2=D0=BE=D0=B4-=D0=B2=D1=8B=D0=B2=D0=BE=D0=B4</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>=D0=92=D0=B2=D0=BE=D0=B4-=D0=B2=D1=8B=D0=B2=D0=BE=D0=B4</h1>
+    <div class=3D"Section1">
+        <p></p>
+<div id=3D"expander-103283877" class=3D"expand-container">
+<div id=3D"expander-control-103283877" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D0=
+=BE=D0=BB=D1=83=D1=87=D0=B8=D1=82=D1=8C</span>
+</div>
+<div id=3D"expander-content-103283877" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">Path fi=
+lePath =3D Paths.get("D:/Folder one/Folder two/=D0=A2=D0=B5=D1=81=D1=82=D0=
+=BE=D0=B2=D1=8B=D0=B9 =D1=84=D0=B0=D0=B9=D0=BB.txt");
+
+System.out.println("1. =D0=90=D0=B1=D1=81=D0=BE=D0=BB=D1=8E=D1=82=D0=BD=D1=
+=8B=D0=B9 =D0=BF=D1=83=D1=82=D1=8C =D0=BA =D1=84=D0=B0=D0=B9=D0=BB=D1=83: "=
+ + filePath.toAbsolutePath());
+System.out.println("2. =D0=98=D0=BC=D1=8F =D0=BA=D0=BE=D1=80=D0=BD=D0=B5=D0=
+=B2=D0=BE=D0=B3=D0=BE =D0=BA=D0=B0=D1=82=D0=B0=D0=BB=D0=BE=D0=B3=D0=B0: " +=
+ filePath.getRoot());
+System.out.println("3. =D0=9F=D1=83=D1=82=D1=8C =D1=84=D0=B0=D0=B9=D0=BB=D0=
+=B0 =D0=B1=D0=B5=D0=B7 =D0=B8=D0=BC=D0=B5=D0=BD=D0=B8 =D1=84=D0=B0=D0=B9=D0=
+=BB=D0=B0: " + filePath.getParent());
+System.out.println("4. =D0=98=D0=BC=D1=8F =D1=84=D0=B0=D0=B9=D0=BB=D0=B0: "=
+ + filePath.getFileName());
+System.out.println("5. =D0=9A=D0=BE=D0=BB=D0=B8=D1=87=D0=B5=D1=81=D1=82=D0=
+=B2=D0=BE =D1=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82=D0=BE=D0=B2 (=D0=BA=D1=
+=80=D0=BE=D0=BC=D0=B5 =D0=BA=D0=BE=D1=80=D0=BD=D0=B5=D0=B2=D0=BE=D0=B3=D0=
+=BE), =D0=B8=D0=B7 =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D1=85 =D1=81=D0=BE=
+=D1=81=D1=82=D0=BE=D0=B8=D1=82 =D0=BF=D1=83=D1=82=D1=8C =D1=84=D0=B0=D0=B9=
+=D0=BB=D0=B0: " + filePath.getNameCount());
+System.out.println("6. =D0=98=D0=BC=D1=8F =D1=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=
+=BD=D1=82=D0=B0 =D0=BF=D0=BE =D0=B8=D0=BD=D0=B4=D0=B5=D0=BA=D1=81=D1=83; =
+=D0=B8=D0=B7 =D0=BD=D0=B8=D1=85 =D1=81=D0=BE=D1=81=D1=82=D0=BE=D0=B8=D1=82 =
+=D0=BF=D1=83=D1=82=D1=8C =D1=84=D0=B0=D0=B9=D0=BB=D0=B0: " + filePath.getNa=
+me(0));
+System.out.println("7. =D0=A0=D0=B0=D0=B7=D0=BC=D0=B5=D1=80 =D1=84=D0=B0=D0=
+=B9=D0=BB=D0=B0 =D0=B2 =D0=B1=D0=B0=D0=B9=D1=82=D0=B0=D1=85: " + Files.size=
+(filePath));
+System.out.println("8. =D0=92=D1=80=D0=B5=D0=BC=D1=8F =D0=BF=D0=BE=D1=81=D0=
+=BB=D0=B5=D0=B4=D0=BD=D0=B5=D0=B3=D0=BE =D0=B8=D0=B7=D0=BC=D0=B5=D0=BD=D0=
+=B5=D0=BD=D0=B8=D1=8F =D1=84=D0=B0=D0=B9=D0=BB=D0=B0: " + Files.getLastModi=
+fiedTime(filePath));
+
+BasicFileAttributes bfa =3D Files.readAttributes(filePath, BasicFileAttribu=
+tes.class);
+
+System.out.println("9. =D0=92=D1=80=D0=B5=D0=BC=D1=8F =D1=81=D0=BE=D0=B7=D0=
+=B4=D0=B0=D0=BD=D0=B8=D1=8F =D1=84=D0=B0=D0=B9=D0=BB=D0=B0: " + bfa.creatio=
+nTime());
+System.out.println("10. =D0=92=D1=80=D0=B5=D0=BC=D1=8F =D0=BF=D0=BE=D1=81=
+=D0=BB=D0=B5=D0=B4=D0=BD=D0=B5=D0=B3=D0=BE =D0=BE=D0=B1=D1=80=D0=B0=D1=89=
+=D0=B5=D0=BD=D0=B8=D1=8F =D0=BA =D1=84=D0=B0=D0=B9=D0=BB=D1=83: " + bfa.las=
+tAccessTime());</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<ol start=3D"1">
+<li><p>=D0=90=D0=B1=D1=81=D0=BE=D0=BB=D1=8E=D1=82=D0=BD=D1=8B=D0=B9 =D0=BF=
+=D1=83=D1=82=D1=8C =D0=BA =D1=84=D0=B0=D0=B9=D0=BB=D1=83: <span style=3D"co=
+lor: rgb(255,153,31);">D:\Folder one\Folder two\=D0=A2=D0=B5=D1=81=D1=82=D0=
+=BE=D0=B2=D1=8B=D0=B9 =D1=84=D0=B0=D0=B9=D0=BB.txt</span></p></li>
+<li><p>=D0=98=D0=BC=D1=8F =D0=BA=D0=BE=D1=80=D0=BD=D0=B5=D0=B2=D0=BE=D0=B3=
+=D0=BE =D0=BA=D0=B0=D1=82=D0=B0=D0=BB=D0=BE=D0=B3=D0=B0: <span style=3D"col=
+or: rgb(255,153,31);">D:\</span></p></li>
+<li><p>=D0=9F=D1=83=D1=82=D1=8C =D1=84=D0=B0=D0=B9=D0=BB=D0=B0 =D0=B1=D0=B5=
+=D0=B7 =D0=B8=D0=BC=D0=B5=D0=BD=D0=B8 =D1=84=D0=B0=D0=B9=D0=BB=D0=B0: <span=
+ style=3D"color: rgb(255,153,31);">D:\Folder one\Folder two</span></p></li>
+<li><p>=D0=98=D0=BC=D1=8F =D1=84=D0=B0=D0=B9=D0=BB=D0=B0: <span style=3D"co=
+lor: rgb(255,153,31);">=D0=A2=D0=B5=D1=81=D1=82=D0=BE=D0=B2=D1=8B=D0=B9 =D1=
+=84=D0=B0=D0=B9=D0=BB.txt</span></p></li>
+<li><p>=D0=9A=D0=BE=D0=BB=D0=B8=D1=87=D0=B5=D1=81=D1=82=D0=B2=D0=BE =D1=8D=
+=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82=D0=BE=D0=B2 (=D0=BA=D1=80=D0=BE=D0=BC=
+=D0=B5 =D0=BA=D0=BE=D1=80=D0=BD=D0=B5=D0=B2=D0=BE=D0=B3=D0=BE), =D0=B8=D0=
+=B7 =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D1=85 =D1=81=D0=BE=D1=81=D1=82=D0=
+=BE=D0=B8=D1=82 =D0=BF=D1=83=D1=82=D1=8C =D1=84=D0=B0=D0=B9=D0=BB=D0=B0: <s=
+pan style=3D"color: rgb(255,153,31);">3</span></p></li>
+<li><p>=D0=98=D0=BC=D1=8F =D1=8D=D0=BB=D0=B5=D0=BC=D0=B5=D0=BD=D1=82=D0=B0 =
+=D0=BF=D0=BE =D0=B8=D0=BD=D0=B4=D0=B5=D0=BA=D1=81=D1=83; =D0=B8=D0=B7 =D0=
+=BD=D0=B8=D1=85 =D1=81=D0=BE=D1=81=D1=82=D0=BE=D0=B8=D1=82 =D0=BF=D1=83=D1=
+=82=D1=8C =D1=84=D0=B0=D0=B9=D0=BB=D0=B0: <span style=3D"color: rgb(255,153=
+,31);">Folder one</span></p></li>
+<li><p>=D0=A0=D0=B0=D0=B7=D0=BC=D0=B5=D1=80 =D1=84=D0=B0=D0=B9=D0=BB=D0=B0 =
+=D0=B2 =D0=B1=D0=B0=D0=B9=D1=82=D0=B0=D1=85: <span style=3D"color: rgb(255,=
+153,31);">51</span></p></li>
+<li><p>=D0=92=D1=80=D0=B5=D0=BC=D1=8F =D0=BF=D0=BE=D1=81=D0=BB=D0=B5=D0=B4=
+=D0=BD=D0=B5=D0=B3=D0=BE =D0=B8=D0=B7=D0=BC=D0=B5=D0=BD=D0=B5=D0=BD=D0=B8=
+=D1=8F =D1=84=D0=B0=D0=B9=D0=BB=D0=B0: <span style=3D"color: rgb(255,153,31=
+);">2023-01-24T17:24:59.732064Z</span></p></li>
+<li><p>=D0=92=D1=80=D0=B5=D0=BC=D1=8F =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D0=BD=
+=D0=B8=D1=8F =D1=84=D0=B0=D0=B9=D0=BB=D0=B0: <span style=3D"color: rgb(255,=
+153,31);">2023-01-24T17:36:30.8414Z</span></p></li>
+<li><p>=D0=92=D1=80=D0=B5=D0=BC=D1=8F =D0=BF=D0=BE=D1=81=D0=BB=D0=B5=D0=B4=
+=D0=BD=D0=B5=D0=B3=D0=BE =D0=BE=D0=B1=D1=80=D0=B0=D1=89=D0=B5=D0=BD=D0=B8=
+=D1=8F =D0=BA =D1=84=D0=B0=D0=B9=D0=BB=D1=83: <span style=3D"color: rgb(255=
+,153,31);">2023-01-24T17:36:30.842401Z</span></p></li>
+</ol>
+</div>
+</div>
+<div id=3D"expander-756853039" class=3D"expand-container">
+<div id=3D"expander-control-756853039" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A1=D0=
+=BE=D0=B7=D0=B4=D0=B0=D1=82=D1=8C</span>
+</div>
+<div id=3D"expander-content-756853039" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">Path fi=
+lePath =3D Paths.get("D:/Folder one/Folder two");
+System.out.println("1. =D0=9A=D0=B0=D1=82=D0=B0=D0=BB=D0=BE=D0=B3(=D0=B8): =
+" + Files.createDirectories(filePath));
+
+filePath =3D Paths.get("D:/Folder one/Folder two/=D0=A2=D0=B5=D1=81=D1=82=
+=D0=BE=D0=B2=D1=8B=D0=B9 =D1=84=D0=B0=D0=B9=D0=BB.txt");
+System.out.println("2. =D0=A4=D0=B0=D0=B9=D0=BB: " + Files.createFile(fileP=
+ath));</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<ol start=3D"1">
+<li><p>=D0=9A=D0=B0=D1=82=D0=B0=D0=BB=D0=BE=D0=B3(=D0=B8): <span style=3D"c=
+olor: rgb(255,153,31);">D:\Folder one\Folder two</span></p></li>
+<li><p>=D0=A4=D0=B0=D0=B9=D0=BB: <span style=3D"color: rgb(255,153,31);">D:=
+\Folder one\Folder two\=D0=A2=D0=B5=D1=81=D1=82=D0=BE=D0=B2=D1=8B=D0=B9 =D1=
+=84=D0=B0=D0=B9=D0=BB.txt</span></p></li>
+</ol>
+</div>
+</div>
+<div id=3D"expander-1513557742" class=3D"expand-container">
+<div id=3D"expander-control-1513557742" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A3=D0=
+=B4=D0=B0=D0=BB=D0=B8=D1=82=D1=8C =D1=84=D0=B0=D0=B9=D0=BB: Files.delete()<=
+/span>
+</div>
+<div id=3D"expander-content-1513557742" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">Path fi=
+lePath =3D Paths.get("D:/Folder one/Folder two/=D0=A2=D0=B5=D1=81=D1=82=D0=
+=BE=D0=B2=D1=8B=D0=B9 =D1=84=D0=B0=D0=B9=D0=BB.txt");
+
+Files.delete(filePath);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ <em>=D0=A4=D0=B0=D0=B9=D0=BB "D:/Folder one/Folder two/=D0=A2=D0=B5=D1=81=
+=D1=82=D0=BE=D0=B2=D1=8B=D0=B9 =D1=84=D0=B0=D0=B9=D0=BB.txt" =D1=83=D0=B4=
+=D0=B0=D0=BB=D0=B5=D0=BD</em></p>
+</div>
+</div>
+<div id=3D"expander-154774215" class=3D"expand-container">
+<div id=3D"expander-control-154774215" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D1=
+=80=D0=BE=D0=B2=D0=B5=D1=80=D0=B8=D1=82=D1=8C</span>
+</div>
+<div id=3D"expander-content-154774215" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">Path fi=
+lePath =3D Paths.get("D:/Folder one/Folder two/=D0=A2=D0=B5=D1=81=D1=82=D0=
+=BE=D0=B2=D1=8B=D0=B9 =D1=84=D0=B0=D0=B9=D0=BB.txt");
+
+System.out.println("1. =D0=A4=D0=B0=D0=B9=D0=BB =D1=81=D1=83=D1=89=D0=B5=D1=
+=81=D1=82=D0=B2=D1=83=D0=B5=D1=82: " + Files.exists(filePath));
+System.out.println("2. =D0=AD=D1=82=D0=BE =D0=BA=D0=B0=D1=82=D0=B0=D0=BB=D0=
+=BE=D0=B3: " + Files.isDirectory(filePath));
+System.out.println("3. =D0=AD=D1=82=D0=BE =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D0=
+=BD=D1=8F=D0=B5=D0=BC=D1=8B=D0=B9 =D1=84=D0=B0=D0=B9=D0=BB: " + Files.isExe=
+cutable(filePath));
+System.out.println("4. =D0=AD=D1=82=D0=BE =D0=BE=D0=B1=D1=8B=D1=87=D0=BD=D1=
+=8B=D0=B9 =D1=84=D0=B0=D0=B9=D0=BB: " + Files.isRegularFile(filePath));
+System.out.println("5. =D0=AD=D1=82=D0=BE =D1=81=D0=B8=D0=BC=D0=B2=D0=BE=D0=
+=BB=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=B0=D1=8F =D1=81=D1=81=D1=8B=D0=BB=D0=
+=BA=D0=B0: " + Files.isSymbolicLink(filePath));
+System.out.println("6. =D0=A4=D0=B0=D0=B9=D0=BB =D0=B4=D0=BE=D1=81=D1=82=D1=
+=83=D0=BF=D0=B5=D0=BD =D0=B4=D0=BB=D1=8F =D1=87=D1=82=D0=B5=D0=BD=D0=B8=D1=
+=8F: " + Files.isReadable(filePath));
+System.out.println("7. =D0=A4=D0=B0=D0=B9=D0=BB =D0=B4=D0=BE=D1=81=D1=82=D1=
+=83=D0=BF=D0=B5=D0=BD =D0=B4=D0=BB=D1=8F =D0=B7=D0=B0=D0=BF=D0=B8=D1=81=D0=
+=B8: " + Files.isWritable(filePath));
+System.out.println("8. =D0=A4=D0=B0=D0=B9=D0=BB =D1=81=D0=BA=D1=80=D1=8B=D1=
+=82: " + Files.isHidden(filePath));</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<ol start=3D"1">
+<li><p>=D0=A4=D0=B0=D0=B9=D0=BB =D1=81=D1=83=D1=89=D0=B5=D1=81=D1=82=D0=B2=
+=D1=83=D0=B5=D1=82: <span style=3D"color: rgb(255,153,31);">true</span></p>=
+</li>
+<li><p>=D0=AD=D1=82=D0=BE =D0=BA=D0=B0=D1=82=D0=B0=D0=BB=D0=BE=D0=B3: <span=
+ style=3D"color: rgb(255,153,31);">false</span></p></li>
+<li><p>=D0=AD=D1=82=D0=BE =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D0=BD=D1=8F=D0=B5=
+=D0=BC=D1=8B=D0=B9 =D1=84=D0=B0=D0=B9=D0=BB: <span style=3D"color: rgb(255,=
+153,31);">true</span></p></li>
+<li><p>=D0=AD=D1=82=D0=BE =D0=BE=D0=B1=D1=8B=D1=87=D0=BD=D1=8B=D0=B9 =D1=84=
+=D0=B0=D0=B9=D0=BB: <span style=3D"color: rgb(255,153,31);">true</span></p>=
+</li>
+<li><p>=D0=AD=D1=82=D0=BE =D1=81=D0=B8=D0=BC=D0=B2=D0=BE=D0=BB=D0=B8=D1=87=
+=D0=B5=D1=81=D0=BA=D0=B0=D1=8F =D1=81=D1=81=D1=8B=D0=BB=D0=BA=D0=B0: <span =
+style=3D"color: rgb(255,153,31);">false</span></p></li>
+<li><p>=D0=A4=D0=B0=D0=B9=D0=BB =D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=D0=B5=
+=D0=BD =D0=B4=D0=BB=D1=8F =D1=87=D1=82=D0=B5=D0=BD=D0=B8=D1=8F: <span style=
+=3D"color: rgb(255,153,31);">true</span></p></li>
+<li><p>=D0=A4=D0=B0=D0=B9=D0=BB =D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=D0=B5=
+=D0=BD =D0=B4=D0=BB=D1=8F =D0=B7=D0=B0=D0=BF=D0=B8=D1=81=D0=B8: <span style=
+=3D"color: rgb(255,153,31);">true</span></p></li>
+<li><p>=D0=A4=D0=B0=D0=B9=D0=BB =D1=81=D0=BA=D1=80=D1=8B=D1=82: <span style=
+=3D"color: rgb(255,153,31);">false</span></p></li>
+</ol>
+</div>
+</div>
+<div id=3D"expander-1893273510" class=3D"expand-container">
+<div id=3D"expander-control-1893273510" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=9F=D0=
+=B5=D1=80=D0=B5=D0=B8=D0=BC=D0=B5=D0=BD=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D1=
+=84=D0=B0=D0=B9=D0=BB: renameTo()</span>
+</div>
+<div id=3D"expander-content-1893273510" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">File fi=
+leOld =3D new File("D:/Folder one/Folder two/=D0=A2=D0=B5=D1=81=D1=82=D0=BE=
+=D0=B2=D1=8B=D0=B9 =D1=84=D0=B0=D0=B9=D0=BB.txt");
+File fileNew =3D new File("D:/Folder one/Folder two/=D0=9F=D0=B5=D1=80=D0=
+=B5=D0=B8=D0=BC=D0=B5=D0=BD=D0=BE=D0=B2=D0=B0=D0=BD=D0=BD=D1=8B=D0=B9 =D1=
+=82=D0=B5=D1=81=D1=82=D0=BE=D0=B2=D1=8B=D0=B9 =D1=84=D0=B0=D0=B9=D0=BB.txt"=
+);
+
+System.out.println("=D0=A4=D0=B0=D0=B9=D0=BB =D0=BF=D0=B5=D1=80=D0=B5=D0=B8=
+=D0=BC=D0=B5=D0=BD=D0=BE=D0=B2=D0=B0=D0=BD: " + fileOld.renameTo(fileNew));=
+</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ =D0=A4=D0=B0=D0=B9=D0=BB =D0=BF=D0=B5=D1=80=D0=B5=D0=B8=D0=BC=D0=B5=D0=BD=
+=D0=BE=D0=B2=D0=B0=D0=BD: <span style=3D"color: rgb(255,153,31);">true</spa=
+n></p>
+</div>
+</div>
+<hr>
+<div id=3D"expander-420297979" class=3D"expand-container">
+<div id=3D"expander-control-420297979" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A1=D0=
+=B8=D0=BC=D0=B2=D0=BE=D0=BB=D1=8C=D0=BD=D1=8B=D0=B9 =D0=B2=D0=B2=D0=BE=D0=
+=B4 =D1=87=D0=B5=D1=80=D0=B5=D0=B7 =D0=BA=D0=BE=D0=BD=D1=81=D0=BE=D0=BB=D1=
+=8C: =D0=BE=D0=B1=D1=8A=D0=B5=D0=BA=D1=82 BufferedReader</span>
+</div>
+<div id=3D"expander-content-420297979" class=3D"expand-content">
+<p>System.in - =D1=81=D1=82=D0=B0=D0=BD=D0=B4=D0=B0=D1=80=D1=82=D0=BD=D1=8B=
+=D0=B9 =D0=BF=D0=BE=D1=82=D0=BE=D0=BA =D0=B2=D0=B2=D0=BE=D0=B4=D0=B0</p>
+<p>BufferedReader - =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B0=D0=B5=D1=82 =D0=BF=
+=D0=BE=D1=82=D0=BE=D0=BA =D0=B2=D0=B2=D0=BE=D0=B4=D0=B0 =D1=81=D0=B8=D0=BC=
+=D0=B2=D0=BE=D0=BB=D0=BE=D0=B2</p>
+<p>InputStreamReader - =D0=BF=D1=80=D0=B5=D0=BE=D0=B1=D1=80=D0=B0=D0=B7=D1=
+=83=D0=B5=D1=82 =D0=B1=D0=B0=D0=B9=D1=82=D1=8B =D0=B2 =D1=81=D0=B8=D0=BC=D0=
+=B2=D0=BE=D0=BB=D1=8B</p>
+<p>=D0=9F=D0=B5=D1=80=D0=B5=D0=BC=D0=B5=D0=BD=D0=BD=D0=B0=D1=8F br - =D1=81=
+=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=B8=D1=82 =D0=BF=D0=BE=D1=82=D0=BE=D0=BA =
+=D0=B2=D0=B2=D0=BE=D0=B4=D0=B0 =D1=81=D0=B8=D0=BC=D0=B2=D0=BE=D0=BB=D0=BE=
+=D0=B2, =D1=81=D0=B2=D1=8F=D0=B7=D0=B0=D0=BD=D0=BD=D1=8B=D0=B9 =D1=81 =D0=
+=BA=D0=BE=D0=BD=D1=81=D0=BE=D0=BB=D1=8C=D1=8E =D1=87=D0=B5=D1=80=D0=B5=D0=
+=B7 =D1=81=D1=82=D0=B0=D0=BD=D0=B4=D0=B0=D1=80=D1=82=D0=BD=D1=8B=D0=B9 =D0=
+=BF=D0=BE=D1=82=D0=BE=D0=BA =D0=B2=D0=B2=D0=BE=D0=B4=D0=B0 <a href=3D"http:=
+//System.in" class=3D"external-link" rel=3D"nofollow">System.in</a></p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">Buffere=
+dReader br =3D new BufferedReader(new InputStreamReader(System.in));
+
+System.out.print("=D0=92=D0=B2=D0=B5=D0=B4=D0=B8=D1=82=D0=B5 =D1=81=D0=B8=
+=D0=BC=D0=B2=D0=BE=D0=BB=D1=8B: ");
+
+char c;
+String str =3D "";
+do {
+  c =3D (char) br.read();
+  str +=3D c;
+}while (c !=3D '\n');
+
+System.out.println("=D0=92=D1=8B =D0=B2=D0=B2=D0=B5=D0=BB=D0=B8: " + str);<=
+/pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>=D0=92=D0=B2=D0=B5=D0=B4=D0=B8=D1=82=D0=B5 =D1=81=D0=B8=D0=BC=D0=B2=D0=
+=BE=D0=BB=D1=8B: <span style=3D"color: rgb(54,179,126);">=D0=BC=D0=BE=D0=B8=
+ =D1=81=D0=B8=D0=BC=D0=B2=D0=BE=D0=BB=D1=8B</span><br>=D0=92=D1=8B =D0=B2=
+=D0=B2=D0=B5=D0=BB=D0=B8: <span style=3D"color: rgb(255,153,31);">=D0=BC=D0=
+=BE=D0=B8 =D1=81=D0=B8=D0=BC=D0=B2=D0=BE=D0=BB=D1=8B</span></p>
+</div>
+</div>
+<div id=3D"expander-706172054" class=3D"expand-container">
+<div id=3D"expander-control-706172054" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A1=D1=
+=82=D1=80=D0=BE=D0=BA=D0=BE=D0=B2=D1=8B=D0=B9 =D0=B2=D0=B2=D0=BE=D0=B4 =D1=
+=87=D0=B5=D1=80=D0=B5=D0=B7 =D0=BA=D0=BE=D0=BD=D1=81=D0=BE=D0=BB=D1=8C: =D0=
+=BE=D0=B1=D1=8A=D0=B5=D0=BA=D1=82 BufferedReader</span>
+</div>
+<div id=3D"expander-content-706172054" class=3D"expand-content">
+<p>System.in - =D1=81=D1=82=D0=B0=D0=BD=D0=B4=D0=B0=D1=80=D1=82=D0=BD=D1=8B=
+=D0=B9 =D0=BF=D0=BE=D1=82=D0=BE=D0=BA =D0=B2=D0=B2=D0=BE=D0=B4=D0=B0</p>
+<p>BufferedReader - =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B0=D0=B5=D1=82 =D0=BF=
+=D0=BE=D1=82=D0=BE=D0=BA =D0=B2=D0=B2=D0=BE=D0=B4=D0=B0 =D1=81=D0=B8=D0=BC=
+=D0=B2=D0=BE=D0=BB=D0=BE=D0=B2</p>
+<p>InputStreamReader - =D0=BF=D1=80=D0=B5=D0=BE=D0=B1=D1=80=D0=B0=D0=B7=D1=
+=83=D0=B5=D1=82 =D0=B1=D0=B0=D0=B9=D1=82=D1=8B =D0=B2 =D1=81=D0=B8=D0=BC=D0=
+=B2=D0=BE=D0=BB=D1=8B</p>
+<p>=D0=9F=D0=B5=D1=80=D0=B5=D0=BC=D0=B5=D0=BD=D0=BD=D0=B0=D1=8F br - =D1=81=
+=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=B8=D1=82 =D0=BF=D0=BE=D1=82=D0=BE=D0=BA =
+=D0=B2=D0=B2=D0=BE=D0=B4=D0=B0 =D1=81=D0=B8=D0=BC=D0=B2=D0=BE=D0=BB=D0=BE=
+=D0=B2, =D1=81=D0=B2=D1=8F=D0=B7=D0=B0=D0=BD=D0=BD=D1=8B=D0=B9 =D1=81 =D0=
+=BA=D0=BE=D0=BD=D1=81=D0=BE=D0=BB=D1=8C=D1=8E =D1=87=D0=B5=D1=80=D0=B5=D0=
+=B7 =D1=81=D1=82=D0=B0=D0=BD=D0=B4=D0=B0=D1=80=D1=82=D0=BD=D1=8B=D0=B9 =D0=
+=BF=D0=BE=D1=82=D0=BE=D0=BA =D0=B2=D0=B2=D0=BE=D0=B4=D0=B0 <a href=3D"http:=
+//System.in" class=3D"external-link" rel=3D"nofollow">System.in</a></p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">Buffere=
+dReader br =3D new BufferedReader(new InputStreamReader(System.in));
+
+String str;
+do {
+  System.out.print("=D0=92=D0=B2=D0=B5=D0=B4=D0=B8=D1=82=D0=B5 =D1=81=D1=82=
+=D1=80=D0=BE=D0=BA=D1=83: ");
+  str =3D br.readLine();
+  System.out.println("=D0=92=D1=8B =D0=B2=D0=B2=D0=B5=D0=BB=D0=B8: " + str)=
+;
+}while (!str.equals("=D0=9A=D0=BE=D0=BD=D0=B5=D1=86"));</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>=D0=92=D0=B2=D0=B5=D0=B4=D0=B8=D1=82=D0=B5 =D1=81=D1=82=D1=80=D0=BE=D0=
+=BA=D1=83: <span style=3D"color: rgb(54,179,126);">=D0=BC=D0=BE=D1=8F =D1=
+=81=D1=82=D1=80=D0=BE=D0=BA=D0=B0</span><br>=D0=92=D1=8B =D0=B2=D0=B2=D0=B5=
+=D0=BB=D0=B8: <span style=3D"color: rgb(255,153,31);">=D0=BC=D0=BE=D1=8F =
+=D1=81=D1=82=D1=80=D0=BE=D0=BA=D0=B0</span><br>=D0=92=D0=B2=D0=B5=D0=B4=D0=
+=B8=D1=82=D0=B5 =D1=81=D1=82=D1=80=D0=BE=D0=BA=D1=83: <span style=3D"color:=
+ rgb(54,179,126);">=D0=9A=D0=BE=D0=BD=D0=B5=D1=86</span><br>=D0=92=D1=8B =
+=D0=B2=D0=B2=D0=B5=D0=BB=D0=B8: <span style=3D"color: rgb(255,153,31);">=D0=
+=9A=D0=BE=D0=BD=D0=B5=D1=86</span></p>
+</div>
+</div>
+<div id=3D"expander-407432272" class=3D"expand-container">
+<div id=3D"expander-control-407432272" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A1=D1=
+=82=D1=80=D0=BE=D0=BA=D0=BE=D0=B2=D1=8B=D0=B9 =D0=B2=D0=B2=D0=BE=D0=B4 =D1=
+=87=D0=B5=D1=80=D0=B5=D0=B7 =D0=BA=D0=BE=D0=BD=D1=81=D0=BE=D0=BB=D1=8C: =D0=
+=BE=D0=B1=D1=8A=D0=B5=D0=BA=D1=82 Scanner</span>
+</div>
+<div id=3D"expander-content-407432272" class=3D"expand-content">
+<p>System.in - =D1=81=D1=82=D0=B0=D0=BD=D0=B4=D0=B0=D1=80=D1=82=D0=BD=D1=8B=
+=D0=B9 =D0=BF=D0=BE=D1=82=D0=BE=D0=BA =D0=B2=D0=B2=D0=BE=D0=B4=D0=B0</p>
+<p>next() - =D1=87=D0=B8=D1=82=D0=B0=D0=B5=D1=82 =D1=81=D1=82=D1=80=D0=BE=
+=D0=BA=D1=83 =D0=B8=D0=B7 =D0=BA=D0=BE=D0=BD=D1=81=D0=BE=D0=BB=D0=B8 =D0=B8=
+ =D0=B2=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82 String</p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">Scanner=
+ sc =3D new Scanner(System.in);
+
+System.out.print("=D0=92=D0=B2=D0=B5=D0=B4=D0=B8=D1=82=D0=B5 =D1=81=D1=82=
+=D1=80=D0=BE=D0=BA=D1=83: ");
+String str;
+  do{
+    str =3D sc.next();
+    System.out.println("=D0=92=D1=8B =D0=B2=D0=B2=D0=B5=D0=BB=D0=B8: " + st=
+r);
+  }while (!str.equals("=D0=9A=D0=BE=D0=BD=D0=B5=D1=86"));</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>=D0=92=D0=B2=D0=B5=D0=B4=D0=B8=D1=82=D0=B5 =D1=81=D1=82=D1=80=D0=BE=D0=
+=BA=D1=83: <span style=3D"color: rgb(54,179,126);">=D0=BC=D0=BE=D1=8F =D1=
+=81=D1=82=D1=80=D0=BE=D0=BA=D0=B0</span><br>=D0=92=D1=8B =D0=B2=D0=B2=D0=B5=
+=D0=BB=D0=B8: <span style=3D"color: rgb(255,153,31);">=D0=BC=D0=BE=D1=8F</s=
+pan><br>=D0=92=D1=8B =D0=B2=D0=B2=D0=B5=D0=BB=D0=B8: <span style=3D"color: =
+rgb(255,153,31);">=D1=81=D1=82=D1=80=D0=BE=D0=BA=D0=B0</span><br><span styl=
+e=3D"color: rgb(54,179,126);">=D0=9A=D0=BE=D0=BD=D0=B5=D1=86</span><br>=D0=
+=92=D1=8B =D0=B2=D0=B2=D0=B5=D0=BB=D0=B8: <span style=3D"color: rgb(255,153=
+,31);">=D0=9A=D0=BE=D0=BD=D0=B5=D1=86</span></p>
+</div>
+</div>
+<div id=3D"expander-1805561810" class=3D"expand-container">
+<div id=3D"expander-control-1805561810" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A1=D0=
+=B8=D0=BC=D0=B2=D0=BE=D0=BB=D1=8C=D0=BD=D0=BE=D0=B5 =D1=87=D1=82=D0=B5=D0=
+=BD=D0=B8=D0=B5 =D0=B8=D0=B7 =D1=84=D0=B0=D0=B9=D0=BB=D0=B0</span>
+</div>
+<div id=3D"expander-content-1805561810" class=3D"expand-content">
+<p>FileInputStream - =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D0=B5=D1=82 =D0=BF=D0=
+=BE=D1=82=D0=BE=D0=BA =D0=B2=D0=B2=D0=BE=D0=B4=D0=B0 =D0=B1=D0=B0=D0=B9=D1=
+=82=D0=BE=D0=B2, =D1=81=D0=B2=D1=8F=D0=B7=D0=B0=D0=BD=D0=BD=D1=8B=D0=B9 =D1=
+=81 =D1=84=D0=B0=D0=B9=D0=BB=D0=BE=D0=BC</p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">try (Fi=
+leInputStream fin =3D new FileInputStream("D:/=D0=A2=D0=B5=D1=81=D1=82=D0=
+=BE=D0=B2=D1=8B=D0=B9 =D1=84=D0=B0=D0=B9=D0=BB.txt")) {
+
+  int counter;
+  do {
+    counter =3D fin.read();
+    if (counter !=3D -1) {
+      System.out.print((char) counter);
+    }
+  } while (counter !=3D -1);
+ =20
+} catch (FileNotFoundException e) {
+  System.err.println("=D0=9D=D0=B5=D0=B2=D0=BE=D0=B7=D0=BC=D0=BE=D0=B6=D0=
+=BD=D0=BE =D0=BE=D1=82=D0=BA=D1=80=D1=8B=D1=82=D1=8C =D1=84=D0=B0=D0=B9=D0=
+=BB.");
+} catch (IOException e) {
+  System.err.println("=D0=9E=D1=88=D0=B8=D0=B1=D0=BA=D0=B0 =D1=87=D1=82=D0=
+=B5=D0=BD=D0=B8=D1=8F =D0=B8=D0=B7 =D1=84=D0=B0=D0=B9=D0=BB=D0=B0.");
+}</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>My text in a text file 1.<br>My text in a text file 2.</p>
+</div>
+</div>
+<div id=3D"expander-1076459506" class=3D"expand-container">
+<div id=3D"expander-control-1076459506" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A1=D0=
+=B8=D0=BC=D0=B2=D0=BE=D0=BB=D1=8C=D0=BD=D0=BE=D0=B5 =D1=87=D1=82=D0=B5=D0=
+=BD=D0=B8=D0=B5 =D0=B8=D0=B7 =D1=84=D0=B0=D0=B9=D0=BB=D0=B0 =D1=87=D0=B5=D1=
+=80=D0=B5=D0=B7 =D0=BA=D0=B0=D0=BD=D0=B0=D0=BB: NIO</span>
+</div>
+<div id=3D"expander-content-1076459506" class=3D"expand-content">
+<p>filePath - =D1=81=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=B8=D1=82 =D0=BF=D1=83=
+=D1=82=D1=8C =D0=BA =D1=84=D0=B0=D0=B9=D0=BB=D1=83</p>
+<p>newByteChannel() - =D0=BE=D1=82=D0=BA=D1=80=D1=8B=D0=B2=D0=B0=D0=B5=D1=
+=82 =D1=84=D0=B0=D0=B9=D0=BB</p>
+<p>fc.size() - =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B0=D0=B5=D0=BC =D1=80=D0=
+=B0=D0=B7=D0=BC=D0=B5=D1=80 =D1=84=D0=B0=D0=B9=D0=BB=D0=B0 (=D0=BA=D0=BE=D0=
+=BB=D0=B8=D1=87=D0=B5=D1=81=D1=82=D0=B2=D0=BE =D1=81=D0=B8=D0=BC=D0=B2=D0=
+=BE=D0=BB=D0=BE=D0=B2)</p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">Path fi=
+lePath =3D Paths.get("D:/=D0=A2=D0=B5=D1=81=D1=82=D0=BE=D0=B2=D1=8B=D0=B9 =
+=D1=84=D0=B0=D0=B9=D0=BB.txt");
+
+try(FileChannel fc =3D (FileChannel) Files.newByteChannel(filePath, Standar=
+dOpenOption.READ)){
+  long fileSize =3D fc.size();
+  MappedByteBuffer mbb =3D fc.map(FileChannel.MapMode.READ_ONLY, 0, fileSiz=
+e);
+
+  for(int i =3D 0; i &lt; fileSize; i++){
+    System.out.print((char) mbb.get());
+  }
+}catch (IOException e){
+  System.err.println("=D0=9E=D1=88=D0=B8=D0=B1=D0=BA=D0=B0 =D1=87=D1=82=D0=
+=B5=D0=BD=D0=B8=D1=8F =D0=B8=D0=B7 =D1=84=D0=B0=D0=B9=D0=BB=D0=B0.");
+}</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>My text in a text file 1.<br>My text in a text file 2.</p>
+</div>
+</div>
+<div id=3D"expander-992474540" class=3D"expand-container">
+<div id=3D"expander-control-992474540" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A1=D0=
+=B8=D0=BC=D0=B2=D0=BE=D0=BB=D1=8C=D0=BD=D0=BE=D0=B5 =D1=87=D1=82=D0=B5=D0=
+=BD=D0=B8=D0=B5 =D0=B8=D0=B7 =D1=84=D0=B0=D0=B9=D0=BB=D0=B0 =D1=87=D0=B5=D1=
+=80=D0=B5=D0=B7 =D0=BF=D0=BE=D1=82=D0=BE=D0=BA: NIO</span>
+</div>
+<div id=3D"expander-content-992474540" class=3D"expand-content">
+<p>filePath - =D1=81=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=B8=D1=82 =D0=BF=D1=83=
+=D1=82=D1=8C =D0=BA =D1=84=D0=B0=D0=B9=D0=BB=D1=83</p>
+<p>newInputStream() - =D0=BE=D1=82=D0=BA=D1=80=D1=8B=D0=B2=D0=B0=D0=B5=D1=
+=82 =D1=84=D0=B0=D0=B9=D0=BB =D0=B8 =D0=B2=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=
+=89=D0=B0=D0=B5=D1=82 =D0=BF=D0=BE=D1=82=D0=BE=D0=BA =D0=B2=D0=B2=D0=BE=D0=
+=B4=D0=B0</p>
+<p>InputStream - =D0=BF=D0=BE=D1=82=D0=BE=D0=BA =D0=B2=D0=B2=D0=BE=D0=B4=D0=
+=B0 =D0=B1=D0=B0=D0=B9=D1=82=D0=BE=D0=B2</p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">Path fi=
+lePath =3D Paths.get("D:/=D0=A2=D0=B5=D1=81=D1=82=D0=BE=D0=B2=D1=8B=D0=B9 =
+=D1=84=D0=B0=D0=B9=D0=BB.txt");
+
+try(InputStream is =3D Files.newInputStream(filePath, StandardOpenOption.RE=
+AD)){
+  int counter =3D 0;
+  do {
+      counter =3D is.read();
+      if(counter !=3D -1){
+        System.out.print((char) counter);
+      }
+  }while (counter !=3D -1);
+}catch (IOException e){
+  System.err.println("=D0=9E=D1=88=D0=B8=D0=B1=D0=BA=D0=B0 =D1=87=D1=82=D0=
+=B5=D0=BD=D0=B8=D1=8F =D0=B8=D0=B7 =D1=84=D0=B0=D0=B9=D0=BB=D0=B0.");
+}</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>My text in a text file 1.<br>My text in a text file 2.</p>
+</div>
+</div>
+<div id=3D"expander-1061455260" class=3D"expand-container">
+<div id=3D"expander-control-1061455260" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A1=D1=
+=82=D1=80=D0=BE=D0=BA=D0=BE=D0=B2=D0=BE=D0=B5 =D1=87=D1=82=D0=B5=D0=BD=D0=
+=B8=D0=B5 =D0=B8=D0=B7 =D1=84=D0=B0=D0=B9=D0=BB=D0=B0: Scanner.next()</span=
+>
+</div>
+<div id=3D"expander-content-1061455260" class=3D"expand-content">
+<p>hasNext() - =D0=BF=D1=80=D0=BE=D0=B2=D0=B5=D1=80=D1=8F=D0=B5=D1=82 =D0=
+=BD=D0=B0 =D0=BD=D0=B0=D0=BB=D0=B8=D1=87=D0=B8=D0=B5 =D1=81=D1=82=D1=80=D0=
+=BE=D0=BA=D0=B8 =D0=B4=D0=BB=D1=8F =D1=87=D1=82=D0=B5=D0=BD=D0=B8=D1=8F</p>
+<p>next() - =D1=87=D0=B8=D1=82=D0=B0=D0=B5=D1=82 =D1=81=D1=82=D1=80=D0=BE=
+=D0=BA=D1=83 =D0=B8=D0=B7 =D1=84=D0=B0=D0=B9=D0=BB=D0=B0 =D0=B8 =D0=B2=D0=
+=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82 String</p>
+<p>=D0=9D=D0=B5 =D0=B2=D1=8B=D0=B2=D0=BE=D0=B4=D0=B8=D1=82 =D0=BF=D0=B5=D1=
+=80=D0=B5=D1=85=D0=BE=D0=B4 =D0=BD=D0=B0 =D0=BD=D0=BE=D0=B2=D1=83=D1=8E =D1=
+=81=D1=82=D1=80=D0=BE=D0=BA=D1=83</p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">try(Fil=
+eReader fr =3D new FileReader("D:/=D0=A2=D0=B5=D1=81=D1=82=D0=BE=D0=B2=D1=
+=8B=D0=B9 =D1=84=D0=B0=D0=B9=D0=BB.txt")){
+  Scanner sc =3D new Scanner(fr);
+
+  while (sc.hasNext()){
+    String str =3D sc.next();
+    System.out.print(str + " ");
+  }
+}catch (FileNotFoundException e) {
+  System.err.println("=D0=9D=D0=B5=D0=B2=D0=BE=D0=B7=D0=BC=D0=BE=D0=B6=D0=
+=BD=D0=BE =D0=BE=D1=82=D0=BA=D1=80=D1=8B=D1=82=D1=8C =D1=84=D0=B0=D0=B9=D0=
+=BB.");
+} catch (IOException e) {
+  System.err.println("=D0=9E=D1=88=D0=B8=D0=B1=D0=BA=D0=B0 =D1=87=D1=82=D0=
+=B5=D0=BD=D0=B8=D1=8F =D0=B8=D0=B7 =D1=84=D0=B0=D0=B9=D0=BB=D0=B0.");
+}</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ My text in a text file 1.My text in a text file 2. </p>
+</div>
+</div>
+<div id=3D"expander-245486158" class=3D"expand-container">
+<div id=3D"expander-control-245486158" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A1=D1=
+=82=D1=80=D0=BE=D0=BA=D0=BE=D0=B2=D0=BE=D0=B5 =D1=87=D1=82=D0=B5=D0=BD=D0=
+=B8=D0=B5 =D0=B8=D0=B7 =D1=84=D0=B0=D0=B9=D0=BB=D0=B0 (=D0=BD=D0=B5=D0=B1=
+=D0=BE=D0=BB=D1=8C=D1=88=D0=BE=D0=B3=D0=BE): Files.readAllLines()</span>
+</div>
+<div id=3D"expander-content-245486158" class=3D"expand-content">
+<p>=D0=97=D0=B0=D0=BF=D0=B8=D1=81=D1=8B=D0=B2=D0=B0=D0=B5=D1=82 =D1=81=D1=
+=82=D1=80=D0=BE=D0=BA=D0=B8 =D0=B2=D1=81=D0=B5=D0=B3=D0=BE =D1=84=D0=B0=D0=
+=B9=D0=BB=D0=B0 =D0=B2 List</p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">Path fi=
+lePath =3D Paths.get("D:/=D0=A2=D0=B5=D1=81=D1=82=D0=BE=D0=B2=D1=8B=D0=B9 =
+=D1=84=D0=B0=D0=B9=D0=BB.txt");
+
+List&lt;String&gt; list =3D Files.readAllLines(filePath);
+
+list.stream().forEach(n -&gt; System.out.println(n));</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>My text in a text file 1.<br>My text in a text file 2.</p>
+</div>
+</div>
+<div id=3D"expander-1724977370" class=3D"expand-container">
+<div id=3D"expander-control-1724977370" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A1=D1=
+=82=D1=80=D0=BE=D0=BA=D0=BE=D0=B2=D0=BE=D0=B5 =D1=87=D1=82=D0=B5=D0=BD=D0=
+=B8=D0=B5 =D0=B8=D0=B7 =D1=84=D0=B0=D0=B9=D0=BB=D0=B0 (=D0=B1=D0=BE=D0=BB=
+=D1=8C=D1=88=D0=BE=D0=B3=D0=BE): Files.readLine()</span>
+</div>
+<div id=3D"expander-content-1724977370" class=3D"expand-content">
+<p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82:</p>
+<ul>
+<li><p>=D0=B5=D1=81=D0=BB=D0=B8 =D0=B5=D1=81=D1=82=D1=8C =D1=81=D1=82=D1=80=
+=D0=BE=D0=BA=D0=B0 =D0=B2 =D1=84=D0=B0=D0=B9=D0=BB=D0=B5 - =D1=81=D1=82=D1=
+=80=D0=BE=D0=BA=D1=83</p></li>
+<li><p>=D0=B5=D1=81=D0=BB=D0=B8 =D0=BD=D0=B5=D1=82 =D1=81=D1=82=D1=80=D0=BE=
+=D0=BA=D0=B8 =D0=B2 =D1=84=D0=B0=D0=B9=D0=BB=D0=B5 - null</p></li>
+</ul>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">Path fi=
+lePath =3D Paths.get("D:/=D0=A2=D0=B5=D1=81=D1=82=D0=BE=D0=B2=D1=8B=D0=B9 =
+=D1=84=D0=B0=D0=B9=D0=BB.txt");
+
+BufferedReader reader =3D Files.newBufferedReader(filePath);
+
+String line =3D "";
+while (line !=3D null) {
+  line =3D reader.readLine();
+  System.out.println(line);
+}</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>My text in a text file 1.<br>My text in a text file 2.<br>null</p>
+</div>
+</div>
+<div id=3D"expander-1392208793" class=3D"expand-container">
+<div id=3D"expander-control-1392208793" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A1=D1=
+=82=D1=80=D0=BE=D0=BA=D0=BE=D0=B2=D0=BE=D0=B5 =D1=87=D1=82=D0=B5=D0=BD=D0=
+=B8=D0=B5 =D0=B8=D0=B7 =D1=84=D0=B0=D0=B9=D0=BB=D0=B0 =D1=87=D0=B5=D1=80=D0=
+=B5=D0=B7 =D0=BF=D0=BE=D1=82=D0=BE=D0=BA: Files.lines()</span>
+</div>
+<div id=3D"expander-content-1392208793" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">Path fi=
+lePath =3D Paths.get("D:/=D0=A2=D0=B5=D1=81=D1=82=D0=BE=D0=B2=D1=8B=D0=B9 =
+=D1=84=D0=B0=D0=B9=D0=BB.txt");
+
+Stream&lt;String&gt; stream =3D Files.lines(filePath);
+stream.forEach(System.out::println);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p>My text in a text file 1.<br>My text in a text file 2.</p>
+</div>
+</div>
+<div id=3D"expander-1675075045" class=3D"expand-container">
+<div id=3D"expander-control-1675075045" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A1=D0=
+=B8=D0=BC=D0=B2=D0=BE=D0=BB=D1=8C=D0=BD=D0=B0=D1=8F =D0=B7=D0=B0=D0=BF=D0=
+=B8=D1=81=D1=8C =D0=B2 =D1=84=D0=B0=D0=B9=D0=BB</span>
+</div>
+<div id=3D"expander-content-1675075045" class=3D"expand-content">
+<p>FileOutputStream - =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D0=B5=D1=82 =D0=BF=D0=
+=BE=D1=82=D0=BE=D0=BA =D0=B2=D1=8B=D0=B2=D0=BE=D0=B4=D0=B0 =D0=B1=D0=B0=D0=
+=B9=D1=82=D0=BE=D0=B2, =D1=81=D0=B2=D1=8F=D0=B7=D0=B0=D0=BD=D0=BD=D1=8B=D0=
+=B9 =D1=81 =D1=84=D0=B0=D0=B9=D0=BB=D0=BE=D0=BC</p>
+<p>=D0=94=D0=BE=D0=B1=D0=B0=D0=B2=D0=BB=D1=8F=D0=B5=D1=82 =D0=B7=D0=B0=D0=
+=BF=D0=B8=D1=81=D0=B8 =D0=B2 =D0=BA=D0=BE=D0=BD=D0=B5=D1=86 =D1=84=D0=B0=D0=
+=B9=D0=BB=D0=B0</p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">try (Fi=
+leOutputStream fout =3D new FileOutputStream("D:/=D0=A2=D0=B5=D1=81=D1=82=
+=D0=BE=D0=B2=D1=8B=D0=B9 =D1=84=D0=B0=D0=B9=D0=BB.txt", true)) {
+ =20
+  char[] one =3D {'M','y',' ','t','e','x','t',' ','t','o',' ','a',' ','t','=
+e','x','t',' ','f','i','l','e',' ','1','.','\n'};
+    for(char x: one){
+      fout.write(x);
+    }
+
+  char[] two =3D {'M','y',' ','t','e','x','t',' ','t','o',' ','a',' ','t','=
+e','x','t',' ','f','i','l','e',' ','2','.'};
+    for(char x: two){
+      fout.write(x);
+    }
+ =20
+} catch (FileNotFoundException e) {
+  System.err.println("=D0=9D=D0=B5=D0=B2=D0=BE=D0=B7=D0=BC=D0=BE=D0=B6=D0=
+=BD=D0=BE =D0=BE=D1=82=D0=BA=D1=80=D1=8B=D1=82=D1=8C =D1=84=D0=B0=D0=B9=D0=
+=BB.");
+} catch (IOException e) {
+  System.err.println("=D0=9E=D1=88=D0=B8=D0=B1=D0=BA=D0=B0 =D1=87=D1=82=D0=
+=B5=D0=BD=D0=B8=D1=8F =D0=B8=D0=B7 =D1=84=D0=B0=D0=B9=D0=BB=D0=B0.");
+}</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p><em>=D0=A4=D0=B0=D0=B9=D0=BB =E2=80=9CD:\=D0=A2=D0=B5=D1=81=D1=82=D0=BE=
+=D0=B2=D1=8B=D0=B9 =D1=84=D0=B0=D0=B9=D0=BB.txt=E2=80=9C =D1=81=D0=BE=D0=B4=
+=D0=B5=D1=80=D0=B6=D0=B8=D1=82 =D1=82=D0=B5=D0=BA=D1=81=D1=82:</em><br><em>=
+My text to a text file 1.</em><br><em>My text to a text file 2.</em></p>
+</div>
+</div>
+<div id=3D"expander-514648349" class=3D"expand-container">
+<div id=3D"expander-control-514648349" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A1=D0=
+=B8=D0=BC=D0=B2=D0=BE=D0=BB=D1=8C=D0=BD=D0=B0=D1=8F =D0=B7=D0=B0=D0=BF=D0=
+=B8=D1=81=D1=8C =D0=B2 =D1=84=D0=B0=D0=B9=D0=BB =D1=87=D0=B5=D1=80=D0=B5=D0=
+=B7 =D0=BA=D0=B0=D0=BD=D0=B0=D0=BB: NIO</span>
+</div>
+<div id=3D"expander-content-514648349" class=3D"expand-content">
+<p>filePath - =D1=81=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=B8=D1=82 =D0=BF=D1=83=
+=D1=82=D1=8C =D0=BA =D1=84=D0=B0=D0=B9=D0=BB=D1=83</p>
+<p>newByteChannel() - =D0=BE=D1=82=D0=BA=D1=80=D1=8B=D0=B2=D0=B0=D0=B5=D1=
+=82 =D1=84=D0=B0=D0=B9=D0=BB</p>
+<p>put() - =D0=B7=D0=B0=D0=BF=D0=B8=D1=81=D1=8C =D0=B2 =D0=B1=D1=83=D1=84=
+=D0=B5=D1=80</p>
+<p>=D0=9F=D0=B5=D1=80=D0=B5=D0=B7=D0=B0=D0=BF=D0=B8=D1=81=D1=8B=D0=B2=D0=B0=
+=D0=B5=D1=82 =D0=B7=D0=B0=D0=BF=D0=B8=D1=81=D0=B8 =D0=B2 =D1=84=D0=B0=D0=B9=
+=D0=BB=D0=B5</p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">Path fi=
+lePath =3D Paths.get("D:/=D0=A2=D0=B5=D1=81=D1=82=D0=BE=D0=B2=D1=8B=D0=B9 =
+=D1=84=D0=B0=D0=B9=D0=BB.txt");
+
+try(FileChannel fc =3D (FileChannel) Files.newByteChannel(filePath,
+                                                        StandardOpenOption.=
+READ,
+                                                        StandardOpenOption.=
+WRITE,
+                                                        StandardOpenOption.=
+CREATE)){
+    String strOne =3D "My text to a text file 1.\n";
+    String strTwo =3D "My text to a text file 2.";
+    byte[] one =3D (strOne + strTwo).getBytes();
+
+    MappedByteBuffer mbb =3D fc.map(FileChannel.MapMode.READ_WRITE, 0, one.=
+length);
+
+    for(int i =3D 0; i &lt; one.length; i++){
+        mbb.put(one[i]);
+    }
+
+}catch (IOException e){
+    System.err.println("=D0=9E=D1=88=D0=B8=D0=B1=D0=BA=D0=B0 =D1=87=D1=82=
+=D0=B5=D0=BD=D0=B8=D1=8F =D0=B8=D0=B7 =D1=84=D0=B0=D0=B9=D0=BB=D0=B0.");
+}</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p><em>=D0=A4=D0=B0=D0=B9=D0=BB =E2=80=9CD:\=D0=A2=D0=B5=D1=81=D1=82=D0=BE=
+=D0=B2=D1=8B=D0=B9 =D1=84=D0=B0=D0=B9=D0=BB.txt=E2=80=9C =D1=81=D0=BE=D0=B4=
+=D0=B5=D1=80=D0=B6=D0=B8=D1=82 =D1=82=D0=B5=D0=BA=D1=81=D1=82:</em><br><em>=
+My text to a text file 1.</em><br><em>My text to a text file 2.</em></p>
+</div>
+</div>
+<div id=3D"expander-1883102505" class=3D"expand-container">
+<div id=3D"expander-control-1883102505" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A1=D0=
+=B8=D0=BC=D0=B2=D0=BE=D0=BB=D1=8C=D0=BD=D0=B0=D1=8F =D0=B7=D0=B0=D0=BF=D0=
+=B8=D1=81=D1=8C =D0=B2 =D1=84=D0=B0=D0=B9=D0=BB =D1=87=D0=B5=D1=80=D0=B5=D0=
+=B7 =D0=BF=D0=BE=D1=82=D0=BE=D0=BA: NIO</span>
+</div>
+<div id=3D"expander-content-1883102505" class=3D"expand-content">
+<p>filePath - =D1=81=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=B8=D1=82 =D0=BF=D1=83=
+=D1=82=D1=8C =D0=BA =D1=84=D0=B0=D0=B9=D0=BB=D1=83</p>
+<p>newOutputStream() - =D0=BE=D1=82=D0=BA=D1=80=D1=8B=D0=B2=D0=B0=D0=B5=D1=
+=82 =D1=84=D0=B0=D0=B9=D0=BB =D0=B8 =D0=B2=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=
+=89=D0=B0=D0=B5=D1=82 =D0=BF=D0=BE=D1=82=D0=BE=D0=BA =D0=B2=D1=8B=D0=B2=D0=
+=BE=D0=B4=D0=B0</p>
+<p>OutputStream - =D0=BF=D0=BE=D1=82=D0=BE=D0=BA =D0=B2=D1=8B=D0=B2=D0=BE=
+=D0=B4=D0=B0 =D0=B1=D0=B0=D0=B9=D1=82=D0=BE=D0=B2</p>
+<p>=D0=94=D0=BE=D0=B1=D0=B0=D0=B2=D0=BB=D1=8F=D0=B5=D1=82 =D0=B7=D0=B0=D0=
+=BF=D0=B8=D1=81=D0=B8 =D0=B2 =D0=BA=D0=BE=D0=BD=D0=B5=D1=86 =D1=84=D0=B0=D0=
+=B9=D0=BB=D0=B0</p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">Path fi=
+lePath =3D Paths.get("D:/=D0=A2=D0=B5=D1=81=D1=82=D0=BE=D0=B2=D1=8B=D0=B9 =
+=D1=84=D0=B0=D0=B9=D0=BB.txt");
+
+try(OutputStream os =3D new BufferedOutputStream(Files.newOutputStream(file=
+Path, StandardOpenOption.APPEND))){
+  String strOne =3D "My text to a text file 1.\n";
+  String strTwo =3D "My text to a text file 2.";
+  byte[] one =3D (strOne + strTwo).getBytes();
+
+  for(int i =3D 0; i &lt; one.length; i++){
+    os.write(one[i]);
+  }
+}catch (InvalidPathException e){
+  System.err.println("=D0=9E=D1=88=D0=B8=D0=B1=D0=BA=D0=B0 =D1=83=D0=BA=D0=
+=B0=D0=B7=D0=B0=D0=BD=D0=B8=D1=8F =D0=BF=D1=83=D1=82=D0=B8 " + e);
+}catch (IOException e){
+  System.err.println("=D0=9E=D1=88=D0=B8=D0=B1=D0=BA=D0=B0 =D1=87=D1=82=D0=
+=B5=D0=BD=D0=B8=D1=8F =D0=B8=D0=B7 =D1=84=D0=B0=D0=B9=D0=BB=D0=B0 " + e);
+}</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p><em>=D0=A4=D0=B0=D0=B9=D0=BB =E2=80=9CD:\=D0=A2=D0=B5=D1=81=D1=82=D0=BE=
+=D0=B2=D1=8B=D0=B9 =D1=84=D0=B0=D0=B9=D0=BB.txt=E2=80=9C =D1=81=D0=BE=D0=B4=
+=D0=B5=D1=80=D0=B6=D0=B8=D1=82 =D1=82=D0=B5=D0=BA=D1=81=D1=82:</em><br><em>=
+My text to a text file 1.</em><br><em>My text to a text file 2.</em></p>
+</div>
+</div>
+<div id=3D"expander-462592778" class=3D"expand-container">
+<div id=3D"expander-control-462592778" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A1=D1=
+=82=D1=80=D0=BE=D0=BA=D0=BE=D0=B2=D0=B0=D1=8F =D0=B7=D0=B0=D0=BF=D0=B8=D1=
+=81=D1=8C =D0=B2 =D1=84=D0=B0=D0=B9=D0=BB: =D0=BE=D0=B1=D1=8A=D0=B5=D0=BA=
+=D1=82 FileWriter</span>
+</div>
+<div id=3D"expander-content-462592778" class=3D"expand-content">
+<p>=D0=94=D0=BE=D0=B1=D0=B0=D0=B2=D0=BB=D1=8F=D0=B5=D1=82 =D0=B7=D0=B0=D0=
+=BF=D0=B8=D1=81=D0=B8 =D0=B2 =D0=BA=D0=BE=D0=BD=D0=B5=D1=86 =D1=84=D0=B0=D0=
+=B9=D0=BB=D0=B0</p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">try (Fi=
+leWriter fw =3D new FileWriter("D:/=D0=A2=D0=B5=D1=81=D1=82=D0=BE=D0=B2=D1=
+=8B=D0=B9 =D1=84=D0=B0=D0=B9=D0=BB.txt", true)) {
+
+  fw.write("My text to a text file 1.\n");
+  fw.write("My text to a text file 2.");
+
+} catch (FileNotFoundException e) {
+  System.err.println("=D0=9D=D0=B5=D0=B2=D0=BE=D0=B7=D0=BC=D0=BE=D0=B6=D0=
+=BD=D0=BE =D0=BE=D1=82=D0=BA=D1=80=D1=8B=D1=82=D1=8C =D1=84=D0=B0=D0=B9=D0=
+=BB.");
+} catch (IOException e) {
+  System.err.println("=D0=9E=D1=88=D0=B8=D0=B1=D0=BA=D0=B0 =D0=B7=D0=B0=D0=
+=BF=D0=B8=D1=81=D0=B8 =D0=B2 =D1=84=D0=B0=D0=B9=D0=BB.");
+}</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p><em>=D0=A4=D0=B0=D0=B9=D0=BB =E2=80=9CD:\=D0=A2=D0=B5=D1=81=D1=82=D0=BE=
+=D0=B2=D1=8B=D0=B9 =D1=84=D0=B0=D0=B9=D0=BB.txt=E2=80=9C =D1=81=D0=BE=D0=B4=
+=D0=B5=D1=80=D0=B6=D0=B8=D1=82 =D1=82=D0=B5=D0=BA=D1=81=D1=82:</em><br><em>=
+My text to a text file 1.</em><br><em>My text to a text file 2.</em></p>
+</div>
+</div>
+<div id=3D"expander-1257374862" class=3D"expand-container">
+<div id=3D"expander-control-1257374862" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A1=D1=
+=82=D1=80=D0=BE=D0=BA=D0=BE=D0=B2=D0=B0=D1=8F =D0=B7=D0=B0=D0=BF=D0=B8=D1=
+=81=D1=8C =D0=B2 =D1=84=D0=B0=D0=B9=D0=BB: =D0=BE=D0=B1=D1=8A=D0=B5=D0=BA=
+=D1=82 Files.write()</span>
+</div>
+<div id=3D"expander-content-1257374862" class=3D"expand-content">
+<p>=D0=94=D0=BE=D0=B1=D0=B0=D0=B2=D0=BB=D1=8F=D0=B5=D1=82 =D0=B7=D0=B0=D0=
+=BF=D0=B8=D1=81=D0=B8 =D0=B2 =D0=BA=D0=BE=D0=BD=D0=B5=D1=86 =D1=84=D0=B0=D0=
+=B9=D0=BB=D0=B0</p>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">Path fi=
+lePath =3D Paths.get("D:/=D0=A2=D0=B5=D1=81=D1=82=D0=BE=D0=B2=D1=8B=D0=B9 =
+=D1=84=D0=B0=D0=B9=D0=BB.txt");
+
+Files.write(filePath, "My text to a text file 1.\n".getBytes(), StandardOpe=
+nOption.APPEND);
+Files.write(filePath, "My text to a text file 2.".getBytes(), StandardOpenO=
+ption.APPEND);</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p><em>=D0=A4=D0=B0=D0=B9=D0=BB =E2=80=9CD:\=D0=A2=D0=B5=D1=81=D1=82=D0=BE=
+=D0=B2=D1=8B=D0=B9 =D1=84=D0=B0=D0=B9=D0=BB.txt=E2=80=9C =D1=81=D0=BE=D0=B4=
+=D0=B5=D1=80=D0=B6=D0=B8=D1=82 =D1=82=D0=B5=D0=BA=D1=81=D1=82:</em><br><em>=
+My text to a text file 1.</em><br><em>My text to a text file 2.</em></p>
+</div>
+</div>
+<div id=3D"expander-369171372" class=3D"expand-container">
+<div id=3D"expander-control-369171372" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A1=D0=
+=BE=D0=B7=D0=B4=D0=B0=D1=82=D1=8C =D0=BA=D0=BE=D0=BF=D0=B8=D1=8E =D1=84=D0=
+=B0=D0=B9=D0=BB=D0=B0: Files.copy()</span>
+</div>
+<div id=3D"expander-content-369171372" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">Path so=
+urcePath =3D Paths.get("D:/=D0=A2=D0=B5=D1=81=D1=82=D0=BE=D0=B2=D1=8B=D0=B9=
+ =D1=84=D0=B0=D0=B9=D0=BB.txt");
+Path copyPath =3D Paths.get("D:/=D0=9A=D0=BE=D0=BF=D0=B8=D1=8F =D1=82=D0=B5=
+=D1=81=D1=82=D0=BE=D0=B2=D0=BE=D0=B3=D0=BE =D1=84=D0=B0=D0=B9=D0=BB=D0=B0.t=
+xt");
+
+try {
+  Files.copy(sourcePath, copyPath, StandardCopyOption.REPLACE_EXISTING);
+} catch (InvalidPathException e) {
+  System.out.println("=D0=9E=D1=88=D0=B8=D0=B1=D0=BA=D0=B0 =D1=83=D0=BA=D0=
+=B0=D0=B7=D0=B0=D0=BD=D0=B8=D1=8F =D0=BF=D1=83=D1=82=D0=B8 " + e);
+} catch (IOException e){
+  System.out.println("=D0=9E=D1=88=D0=B8=D0=B1=D0=BA=D0=B0 =D0=B2=D0=B2=D0=
+=BE=D0=B4=D0=B0-=D0=B2=D1=8B=D0=B2=D0=BE=D0=B4=D0=B0 " + e);
+}</pre>=20
+</div>
+</div>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ </p>
+<p><em>=D0=A4=D0=B0=D0=B9=D0=BB =E2=80=9CD:\=D0=9A=D0=BE=D0=BF=D0=B8=D1=8F =
+=D1=82=D0=B5=D1=81=D1=82=D0=BE=D0=B2=D0=BE=D0=B3=D0=BE =D1=84=D0=B0=D0=B9=
+=D0=BB=D0=B0.txt=E2=80=9C =D1=81=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=B8=D1=82 =
+=D1=82=D0=B5=D0=BA=D1=81=D1=82:</em><br><em>My text to a text file 1.</em><=
+br><em>My text to a text file 2.</em></p>
+</div>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_42_1192797270.1696939708467
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/f3b107dc57c372bed05715c167ece18a
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAA3NCSVQICAjb4U/gAAAAFVBMVEX/
+//9wcHBwcHBwcHBwcHBwcHBwcHA3RenHAAAAB3RSTlMAZoiZzN3/SzZomQAAAAlwSFlzAAALEgAA
+CxIB0t1+/AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNui8sowAAAAUdEVYdENy
+ZWF0aW9uIFRpbWUANi8xLzEzOKlF0AAAACFJREFUCJljYCATsCgwqIAZTMnMyRAhsTABCIMxkVxT
+GQCLcwHyUKXpLgAAAABJRU5ErkJggg==
+------=_Part_42_1192797270.1696939708467--
