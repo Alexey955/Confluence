@@ -1,0 +1,898 @@
+Date: Tue, 10 Oct 2023 12:26:44 +0000 (UTC)
+Message-ID: <108705362.55.1696940804032@31aeec5d5fe7>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_54_1658625124.1696940804032"
+
+------=_Part_54_1658625124.1696940804032
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>csv</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>csv</h1>
+    <div class=3D"Section1">
+        <div id=3D"expander-1889264461" class=3D"expand-container">
+<div id=3D"expander-control-1889264461" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A1=D1=
+=82=D1=80=D0=BE=D0=BA=D0=BE=D0=B2=D0=BE=D0=B5 =D1=87=D1=82=D0=B5=D0=BD=D0=
+=B8=D0=B5 =D0=B8=D0=B7 =D1=84=D0=B0=D0=B9=D0=BB=D0=B0; =D0=BF=D0=BE=D1=81=
+=D1=82=D1=80=D0=BE=D1=87=D0=BD=D0=BE: reader()</span>
+</div>
+<div id=3D"expander-content-1889264461" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: py; gutter: false; theme: Confluence" data-theme=3D"Confluence">import cs=
+v
+
+with open("d://CSV_File.csv", "r", newline=3D"") as csv_file:
+    my_reader =3D csv.reader(csv_file, delimiter=3D",", quotechar=3D"|")
+    for row in my_reader:
+        print(row)</pre>=20
+</div>
+</div><span class=3D"confluence-embedded-file-wrapper image-center-wrapper"=
+><img class=3D"confluence-embedded-image image-center" loading=3D"lazy" src=
+=3D"599b6edd859c6889d1e8eccb53c27b75" data-image-src=3D"https://alekseyvasi=
+ljev.atlassian.net/wiki/download/attachments/90374353/image-20230321-153243=
+.png?version=3D1&amp;modificationDate=3D1679412765003&amp;cacheVersion=3D1&=
+amp;api=3Dv2" data-height=3D"116" data-width=3D"227" data-unresolved-commen=
+t-count=3D"0" data-linked-resource-id=3D"92307459" data-linked-resource-ver=
+sion=3D"1" data-linked-resource-type=3D"attachment" data-linked-resource-de=
+fault-alias=3D"image-20230321-153243.png" data-base-url=3D"https://alekseyv=
+asiljev.atlassian.net/wiki" data-linked-resource-content-type=3D"image/png"=
+ data-linked-resource-container-id=3D"90374353" data-linked-resource-contai=
+ner-version=3D"2" data-media-id=3D"cbd5f0a5-cd26-48d2-9ffa-c59d98cebbe6" da=
+ta-media-type=3D"file" width=3D"284" height=3D"145"></span>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+</p>
+<p>['=D0=A1=D1=82=D0=BE=D0=BB=D0=B1=D0=B5=D1=86 1', '=D0=A1=D1=82=D0=BE=D0=
+=BB=D0=B1=D0=B5=D1=86 2']<br>['=D1=81=D1=82=D1=80=D0=BE=D0=BA=D0=B0 1.1', '=
+=D1=81=D1=82=D1=80=D0=BE=D0=BA=D0=B0 1.2']<br>['=D1=81=D1=82=D1=80=D0=BE=D0=
+=BA=D0=B0 2.1', '=D1=81=D1=82=D1=80=D0=BE=D0=BA=D0=B0 2.2']<br>['=D1=81=D1=
+=82=D1=80=D0=BE=D0=BA=D0=B0 3.1', '=D1=81=D1=82=D1=80=D0=BE=D0=BA=D0=B0 3.2=
+']</p>
+</div>
+</div>
+<div id=3D"expander-1861439324" class=3D"expand-container">
+<div id=3D"expander-control-1861439324" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A1=D1=
+=82=D1=80=D0=BE=D0=BA=D0=BE=D0=B2=D0=BE=D0=B5 =D1=87=D1=82=D0=B5=D0=BD=D0=
+=B8=D0=B5 =D0=B8=D0=B7 =D1=84=D0=B0=D0=B9=D0=BB=D0=B0; =D0=BF=D0=BE=D1=81=
+=D1=82=D1=80=D0=BE=D1=87=D0=BD=D0=BE =D1=83=D0=BA=D0=B0=D0=B7=D0=B0=D0=BD=
+=D0=BD=D1=8B=D0=B5 =D1=81=D1=82=D0=BE=D0=BB=D0=B1=D1=86=D1=8B: DictReader()=
+</span>
+</div>
+<div id=3D"expander-content-1861439324" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 1 </strong>(1 =D1=81=D1=82=
+=D0=BE=D0=BB=D0=B1=D0=B5=D1=86):</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: py; gutter: false; theme: Confluence" data-theme=3D"Confluence">import cs=
+v
+
+with open("d://CSV_File.csv", "r", newline=3D"") as csv_file:
+    my_reader =3D csv.DictReader(csv_file)
+    print("1. =D0=9D=D0=B0=D0=B7=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F =D1=81=D1=82=
+=D0=BE=D0=BB=D0=B1=D1=86=D0=BE=D0=B2:", my_reader.fieldnames)
+    print("2. =D0=A1=D1=82=D1=80=D0=BE=D0=BA=D0=B8 =D1=81=D1=82=D0=BE=D0=BB=
+=D0=B1=D1=86=D0=B0 \"=D0=A1=D1=82=D0=BE=D0=BB=D0=B1=D0=B5=D1=86 1\":")
+    for row in my_reader:
+        print("\t", row["=D0=A1=D1=82=D0=BE=D0=BB=D0=B1=D0=B5=D1=86 1"])</p=
+re>=20
+</div>
+</div><span class=3D"confluence-embedded-file-wrapper image-center-wrapper"=
+><img class=3D"confluence-embedded-image image-center" loading=3D"lazy" src=
+=3D"599b6edd859c6889d1e8eccb53c27b75" data-image-src=3D"https://alekseyvasi=
+ljev.atlassian.net/wiki/download/attachments/90374353/image-20230321-153243=
+.png?version=3D1&amp;modificationDate=3D1679412765003&amp;cacheVersion=3D1&=
+amp;api=3Dv2" data-height=3D"116" data-width=3D"227" data-unresolved-commen=
+t-count=3D"0" data-linked-resource-id=3D"92307459" data-linked-resource-ver=
+sion=3D"1" data-linked-resource-type=3D"attachment" data-linked-resource-de=
+fault-alias=3D"image-20230321-153243.png" data-base-url=3D"https://alekseyv=
+asiljev.atlassian.net/wiki" data-linked-resource-content-type=3D"image/png"=
+ data-linked-resource-container-id=3D"90374353" data-linked-resource-contai=
+ner-version=3D"2" data-media-id=3D"cbd5f0a5-cd26-48d2-9ffa-c59d98cebbe6" da=
+ta-media-type=3D"file" width=3D"284" height=3D"145"></span>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+</p>
+<ol start=3D"1">
+<li><p>=D0=9D=D0=B0=D0=B7=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F =D1=81=D1=82=D0=BE=
+=D0=BB=D0=B1=D1=86=D0=BE=D0=B2:<span style=3D"color: rgb(255,153,31);"> ['=
+=D0=A1=D1=82=D0=BE=D0=BB=D0=B1=D0=B5=D1=86 1', '=D0=A1=D1=82=D0=BE=D0=BB=D0=
+=B1=D0=B5=D1=86 2']</span></p></li>
+<li><p>=D0=A1=D1=82=D1=80=D0=BE=D0=BA=D0=B8 =D1=81=D1=82=D0=BE=D0=BB=D0=B1=
+=D1=86=D0=B0 "=D0=A1=D1=82=D0=BE=D0=BB=D0=B1=D0=B5=D1=86 1":<br> <span styl=
+e=3D"color: rgb(255,153,31);">=D1=81=D1=82=D1=80=D0=BE=D0=BA=D0=B0 1.1</spa=
+n><br><span style=3D"color: rgb(255,153,31);"> =D1=81=D1=82=D1=80=D0=BE=D0=
+=BA=D0=B0 2.1</span><br><span style=3D"color: rgb(255,153,31);"> =D1=81=D1=
+=82=D1=80=D0=BE=D0=BA=D0=B0 3.1</span></p></li>
+</ol>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 2 </strong>(2 =D1=81=D1=82=
+=D0=BE=D0=BB=D0=B1=D1=86=D0=B0):</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: py; gutter: false; theme: Confluence" data-theme=3D"Confluence">import cs=
+v
+
+with open("d://CSV_File.csv", "r", newline=3D"") as csv_file:
+    my_reader =3D csv.DictReader(csv_file)
+    print("1. =D0=9D=D0=B0=D0=B7=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F =D1=81=D1=82=
+=D0=BE=D0=BB=D0=B1=D1=86=D0=BE=D0=B2:", my_reader.fieldnames)
+    print("2. =D0=A1=D1=82=D1=80=D0=BE=D0=BA=D0=B8 =D1=81=D1=82=D0=BE=D0=BB=
+=D0=B1=D1=86=D0=BE=D0=B2 \"=D0=A1=D1=82=D0=BE=D0=BB=D0=B1=D0=B5=D1=86 1\" =
+=D0=B8 \"=D0=A1=D1=82=D0=BE=D0=BB=D0=B1=D0=B5=D1=86 2\":")
+    for row in my_reader:
+        print("\t", row["=D0=A1=D1=82=D0=BE=D0=BB=D0=B1=D0=B5=D1=86 1"], "\=
+t", row["=D0=A1=D1=82=D0=BE=D0=BB=D0=B1=D0=B5=D1=86 2"])</pre>=20
+</div>
+</div><span class=3D"confluence-embedded-file-wrapper image-center-wrapper"=
+><img class=3D"confluence-embedded-image image-center" loading=3D"lazy" src=
+=3D"599b6edd859c6889d1e8eccb53c27b75" data-image-src=3D"https://alekseyvasi=
+ljev.atlassian.net/wiki/download/attachments/90374353/image-20230321-153243=
+.png?version=3D1&amp;modificationDate=3D1679412765003&amp;cacheVersion=3D1&=
+amp;api=3Dv2" data-height=3D"116" data-width=3D"227" data-unresolved-commen=
+t-count=3D"0" data-linked-resource-id=3D"92307459" data-linked-resource-ver=
+sion=3D"1" data-linked-resource-type=3D"attachment" data-linked-resource-de=
+fault-alias=3D"image-20230321-153243.png" data-base-url=3D"https://alekseyv=
+asiljev.atlassian.net/wiki" data-linked-resource-content-type=3D"image/png"=
+ data-linked-resource-container-id=3D"90374353" data-linked-resource-contai=
+ner-version=3D"2" data-media-id=3D"cbd5f0a5-cd26-48d2-9ffa-c59d98cebbe6" da=
+ta-media-type=3D"file" width=3D"284" height=3D"145"></span>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+</p>
+<ol start=3D"1">
+<li><p>=D0=9D=D0=B0=D0=B7=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F =D1=81=D1=82=D0=BE=
+=D0=BB=D0=B1=D1=86=D0=BE=D0=B2: <span style=3D"color: rgb(255,153,31);">['=
+=D0=A1=D1=82=D0=BE=D0=BB=D0=B1=D0=B5=D1=86 1', '=D0=A1=D1=82=D0=BE=D0=BB=D0=
+=B1=D0=B5=D1=86 2']</span></p></li>
+<li><p>=D0=A1=D1=82=D1=80=D0=BE=D0=BA=D0=B8 =D1=81=D1=82=D0=BE=D0=BB=D0=B1=
+=D1=86=D0=BE=D0=B2 "=D0=A1=D1=82=D0=BE=D0=BB=D0=B1=D0=B5=D1=86 1" =D0=B8 "=
+=D0=A1=D1=82=D0=BE=D0=BB=D0=B1=D0=B5=D1=86 2":<br> <span style=3D"color: rg=
+b(255,153,31);">=D1=81=D1=82=D1=80=D0=BE=D0=BA=D0=B0 1.1 =D1=81=D1=82=D1=80=
+=D0=BE=D0=BA=D0=B0 1.2</span><br><span style=3D"color: rgb(255,153,31);"> =
+=D1=81=D1=82=D1=80=D0=BE=D0=BA=D0=B0 2.1 =D1=81=D1=82=D1=80=D0=BE=D0=BA=D0=
+=B0 2.2</span><br><span style=3D"color: rgb(255,153,31);"> =D1=81=D1=82=D1=
+=80=D0=BE=D0=BA=D0=B0 3.1 =D1=81=D1=82=D1=80=D0=BE=D0=BA=D0=B0 3.2</span></=
+p></li>
+</ol>
+</div>
+</div>
+<div id=3D"expander-849274547" class=3D"expand-container">
+<div id=3D"expander-control-849274547" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A1=D1=
+=82=D1=80=D0=BE=D0=BA=D0=BE=D0=B2=D0=B0=D1=8F =D0=B7=D0=B0=D0=BF=D0=B8=D1=
+=81=D1=8C =D0=B2 =D1=84=D0=B0=D0=B9=D0=BB: writerow()</span>
+</div>
+<div id=3D"expander-content-849274547" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80</strong>:</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: py; gutter: false; theme: Confluence" data-theme=3D"Confluence">import cs=
+v
+
+with open("d://CSV_File.csv", "a", newline=3D"") as csv_file:
+    my_writer =3D csv.writer(csv_file, delimiter=3D",", quotechar=3D"|", qu=
+oting=3Dcsv.QUOTE_MINIMAL)
+    my_writer.writerow(["=D1=81=D1=82=D1=80=D0=BE=D0=BA=D0=B0 4.1"] + ["=D1=
+=81=D1=82=D1=80=D0=BE=D0=BA=D0=B0 4.2"])</pre>=20
+</div>
+</div><span class=3D"confluence-embedded-file-wrapper image-center-wrapper"=
+><img class=3D"confluence-embedded-image image-center" loading=3D"lazy" src=
+=3D"599b6edd859c6889d1e8eccb53c27b75" data-image-src=3D"https://alekseyvasi=
+ljev.atlassian.net/wiki/download/attachments/90374353/image-20230321-153243=
+.png?version=3D1&amp;modificationDate=3D1679412765003&amp;cacheVersion=3D1&=
+amp;api=3Dv2" data-height=3D"116" data-width=3D"227" data-unresolved-commen=
+t-count=3D"0" data-linked-resource-id=3D"92307459" data-linked-resource-ver=
+sion=3D"1" data-linked-resource-type=3D"attachment" data-linked-resource-de=
+fault-alias=3D"image-20230321-153243.png" data-base-url=3D"https://alekseyv=
+asiljev.atlassian.net/wiki" data-linked-resource-content-type=3D"image/png"=
+ data-linked-resource-container-id=3D"90374353" data-linked-resource-contai=
+ner-version=3D"2" data-media-id=3D"cbd5f0a5-cd26-48d2-9ffa-c59d98cebbe6" da=
+ta-media-type=3D"file" width=3D"284" height=3D"145"></span>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+</p><span class=3D"confluence-embedded-file-wrapper image-center-wrapper"><=
+img class=3D"confluence-embedded-image image-center" loading=3D"lazy" src=
+=3D"d0fb8b45e76dc8a28de13d18aca368a0" data-image-src=3D"https://alekseyvasi=
+ljev.atlassian.net/wiki/download/attachments/90374353/image-20230322-065730=
+.png?version=3D1&amp;modificationDate=3D1679468250500&amp;cacheVersion=3D1&=
+amp;api=3Dv2" data-height=3D"138" data-width=3D"226" data-unresolved-commen=
+t-count=3D"0" data-linked-resource-id=3D"92569601" data-linked-resource-ver=
+sion=3D"1" data-linked-resource-type=3D"attachment" data-linked-resource-de=
+fault-alias=3D"image-20230322-065730.png" data-base-url=3D"https://alekseyv=
+asiljev.atlassian.net/wiki" data-linked-resource-content-type=3D"image/png"=
+ data-linked-resource-container-id=3D"90374353" data-linked-resource-contai=
+ner-version=3D"2" data-media-id=3D"0c93a6c2-5558-4ca1-a5cf-441e7fc79998" da=
+ta-media-type=3D"file" width=3D"282" height=3D"173"></span>
+</div>
+</div>
+<div id=3D"expander-589098655" class=3D"expand-container">
+<div id=3D"expander-control-589098655" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"f3b107dc57c372bed05715c167ece18a" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">=D0=A1=D1=
+=82=D1=80=D0=BE=D0=BA=D0=BE=D0=B2=D0=B0=D1=8F =D0=B7=D0=B0=D0=BF=D0=B8=D1=
+=81=D1=8C =D0=B2 =D1=84=D0=B0=D0=B9=D0=BB; =D0=BF=D0=BE=D1=81=D1=82=D1=80=
+=D0=BE=D1=87=D0=BD=D0=BE =D1=83=D0=BA=D0=B0=D0=B7=D0=B0=D0=BD=D0=BD=D1=8B=
+=D0=B5 =D1=81=D1=82=D0=BE=D0=BB=D0=B1=D1=86=D1=8B: DictWriter()</span>
+</div>
+<div id=3D"expander-content-589098655" class=3D"expand-content">
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 1 </strong>(1 =D1=81=D1=82=
+=D0=BE=D0=BB=D0=B1=D0=B5=D1=86):</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: py; gutter: false; theme: Confluence" data-theme=3D"Confluence">import cs=
+v
+
+with open("d://CSV_File.csv", "a", newline=3D"") as csv_file:
+    field_names =3D ["=D0=A1=D1=82=D0=BE=D0=BB=D0=B1=D0=B5=D1=86 1", "=D0=
+=A1=D1=82=D0=BE=D0=BB=D0=B1=D0=B5=D1=86 2"]
+    my_writer =3D csv.DictWriter(csv_file, fieldnames=3Dfield_names)
+    print("=D0=9D=D0=B0=D0=B7=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F =D1=81=D1=82=D0=
+=BE=D0=BB=D0=B1=D1=86=D0=BE=D0=B2:", my_writer.fieldnames)
+    my_writer.writerow({"=D0=A1=D1=82=D0=BE=D0=BB=D0=B1=D0=B5=D1=86 1": "=
+=D1=81=D1=82=D1=80=D0=BE=D0=BA=D0=B0 4.1"})</pre>=20
+</div>
+</div><span class=3D"confluence-embedded-file-wrapper image-center-wrapper"=
+><img class=3D"confluence-embedded-image image-center" loading=3D"lazy" src=
+=3D"599b6edd859c6889d1e8eccb53c27b75" data-image-src=3D"https://alekseyvasi=
+ljev.atlassian.net/wiki/download/attachments/90374353/image-20230321-153243=
+.png?version=3D1&amp;modificationDate=3D1679412765003&amp;cacheVersion=3D1&=
+amp;api=3Dv2" data-height=3D"116" data-width=3D"227" data-unresolved-commen=
+t-count=3D"0" data-linked-resource-id=3D"92307459" data-linked-resource-ver=
+sion=3D"1" data-linked-resource-type=3D"attachment" data-linked-resource-de=
+fault-alias=3D"image-20230321-153243.png" data-base-url=3D"https://alekseyv=
+asiljev.atlassian.net/wiki" data-linked-resource-content-type=3D"image/png"=
+ data-linked-resource-container-id=3D"90374353" data-linked-resource-contai=
+ner-version=3D"2" data-media-id=3D"cbd5f0a5-cd26-48d2-9ffa-c59d98cebbe6" da=
+ta-media-type=3D"file" width=3D"284" height=3D"145"></span>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ =D0=9D=D0=B0=D0=B7=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F =D1=81=D1=82=D0=BE=D0=BB=
+=D0=B1=D1=86=D0=BE=D0=B2: <span style=3D"color: rgb(255,153,31);">['=D0=A1=
+=D1=82=D0=BE=D0=BB=D0=B1=D0=B5=D1=86 1', '=D0=A1=D1=82=D0=BE=D0=BB=D0=B1=D0=
+=B5=D1=86 2']</span></p><span class=3D"confluence-embedded-file-wrapper ima=
+ge-center-wrapper"><img class=3D"confluence-embedded-image image-center" lo=
+ading=3D"lazy" src=3D"5b42faa9f4c9833a24b41964d1064e76" data-image-src=3D"h=
+ttps://alekseyvasiljev.atlassian.net/wiki/download/attachments/90374353/ima=
+ge-20230322-075309.png?version=3D1&amp;modificationDate=3D1679471589910&amp=
+;cacheVersion=3D1&amp;api=3Dv2" data-height=3D"136" data-width=3D"229" data=
+-unresolved-comment-count=3D"0" data-linked-resource-id=3D"92733443" data-l=
+inked-resource-version=3D"1" data-linked-resource-type=3D"attachment" data-=
+linked-resource-default-alias=3D"image-20230322-075309.png" data-base-url=
+=3D"https://alekseyvasiljev.atlassian.net/wiki" data-linked-resource-conten=
+t-type=3D"image/png" data-linked-resource-container-id=3D"90374353" data-li=
+nked-resource-container-version=3D"2" data-media-id=3D"b72b7626-f685-4651-a=
+2ab-8e0986fc1940" data-media-type=3D"file" width=3D"286" height=3D"170"></s=
+pan>
+<hr>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 2 </strong>(2 =D1=81=D1=82=
+=D0=BE=D0=BB=D0=B1=D1=86=D0=B0):</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: py; gutter: false; theme: Confluence" data-theme=3D"Confluence">import cs=
+v
+
+with open("d://CSV_File.csv", "a", newline=3D"") as csv_file:
+    field_names =3D ["=D0=A1=D1=82=D0=BE=D0=BB=D0=B1=D0=B5=D1=86 1", "=D0=
+=A1=D1=82=D0=BE=D0=BB=D0=B1=D0=B5=D1=86 2"]
+    my_writer =3D csv.DictWriter(csv_file, fieldnames=3Dfield_names)
+    print("=D0=9D=D0=B0=D0=B7=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F =D1=81=D1=82=D0=
+=BE=D0=BB=D0=B1=D1=86=D0=BE=D0=B2:", my_writer.fieldnames)
+    my_writer.writerow({"=D0=A1=D1=82=D0=BE=D0=BB=D0=B1=D0=B5=D1=86 1": "=
+=D1=81=D1=82=D1=80=D0=BE=D0=BA=D0=B0 4.1", "=D0=A1=D1=82=D0=BE=D0=BB=D0=B1=
+=D0=B5=D1=86 2": "=D1=81=D1=82=D1=80=D0=BE=D0=BA=D0=B0 4.2"})</pre>=20
+</div>
+</div><span class=3D"confluence-embedded-file-wrapper image-center-wrapper"=
+><img class=3D"confluence-embedded-image image-center" loading=3D"lazy" src=
+=3D"599b6edd859c6889d1e8eccb53c27b75" data-image-src=3D"https://alekseyvasi=
+ljev.atlassian.net/wiki/download/attachments/90374353/image-20230321-153243=
+.png?version=3D1&amp;modificationDate=3D1679412765003&amp;cacheVersion=3D1&=
+amp;api=3Dv2" data-height=3D"116" data-width=3D"227" data-unresolved-commen=
+t-count=3D"0" data-linked-resource-id=3D"92307459" data-linked-resource-ver=
+sion=3D"1" data-linked-resource-type=3D"attachment" data-linked-resource-de=
+fault-alias=3D"image-20230321-153243.png" data-base-url=3D"https://alekseyv=
+asiljev.atlassian.net/wiki" data-linked-resource-content-type=3D"image/png"=
+ data-linked-resource-container-id=3D"90374353" data-linked-resource-contai=
+ner-version=3D"2" data-media-id=3D"cbd5f0a5-cd26-48d2-9ffa-c59d98cebbe6" da=
+ta-media-type=3D"file" width=3D"284" height=3D"145"></span>
+<p><strong>=D0=A0=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>:=
+ =D0=9D=D0=B0=D0=B7=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F =D1=81=D1=82=D0=BE=D0=BB=
+=D0=B1=D1=86=D0=BE=D0=B2: <span style=3D"color: rgb(255,153,31);">['=D0=A1=
+=D1=82=D0=BE=D0=BB=D0=B1=D0=B5=D1=86 1', '=D0=A1=D1=82=D0=BE=D0=BB=D0=B1=D0=
+=B5=D1=86 2']</span></p><span class=3D"confluence-embedded-file-wrapper ima=
+ge-center-wrapper"><img class=3D"confluence-embedded-image image-center" lo=
+ading=3D"lazy" src=3D"d51dd0102a9d273e4ad778c98acca2bb" data-image-src=3D"h=
+ttps://alekseyvasiljev.atlassian.net/wiki/download/attachments/90374353/ima=
+ge-20230322-075548.png?version=3D1&amp;modificationDate=3D1679471748412&amp=
+;cacheVersion=3D1&amp;api=3Dv2" data-height=3D"137" data-width=3D"226" data=
+-unresolved-comment-count=3D"0" data-linked-resource-id=3D"92798977" data-l=
+inked-resource-version=3D"1" data-linked-resource-type=3D"attachment" data-=
+linked-resource-default-alias=3D"image-20230322-075548.png" data-base-url=
+=3D"https://alekseyvasiljev.atlassian.net/wiki" data-linked-resource-conten=
+t-type=3D"image/png" data-linked-resource-container-id=3D"90374353" data-li=
+nked-resource-container-version=3D"2" data-media-id=3D"e6a94087-5d58-4dbd-a=
+5a0-cd1957b65a5b" data-media-type=3D"file" width=3D"283" height=3D"171"></s=
+pan>
+</div>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_54_1658625124.1696940804032
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/d0fb8b45e76dc8a28de13d18aca368a0
+
+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
+------=_Part_54_1658625124.1696940804032
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/599b6edd859c6889d1e8eccb53c27b75
+
+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
+------=_Part_54_1658625124.1696940804032
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/5b42faa9f4c9833a24b41964d1064e76
+
+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
+------=_Part_54_1658625124.1696940804032
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/d51dd0102a9d273e4ad778c98acca2bb
+
+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
+rkJggg==
+------=_Part_54_1658625124.1696940804032
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/f3b107dc57c372bed05715c167ece18a
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAA3NCSVQICAjb4U/gAAAAFVBMVEX/
+//9wcHBwcHBwcHBwcHBwcHBwcHA3RenHAAAAB3RSTlMAZoiZzN3/SzZomQAAAAlwSFlzAAALEgAA
+CxIB0t1+/AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNui8sowAAAAUdEVYdENy
+ZWF0aW9uIFRpbWUANi8xLzEzOKlF0AAAACFJREFUCJljYCATsCgwqIAZTMnMyRAhsTABCIMxkVxT
+GQCLcwHyUKXpLgAAAABJRU5ErkJggg==
+------=_Part_54_1658625124.1696940804032--
