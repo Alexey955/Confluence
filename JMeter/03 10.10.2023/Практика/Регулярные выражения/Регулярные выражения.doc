@@ -1,0 +1,521 @@
+Date: Tue, 10 Oct 2023 12:20:37 +0000 (UTC)
+Message-ID: <2064470549.25.1696940437809@376a61b8d5cc>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_24_1582585427.1696940437808"
+
+------=_Part_24_1582585427.1696940437808
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>=D0=A0=D0=B5=D0=B3=D1=83=D0=BB=D1=8F=D1=80=D0=BD=D1=8B=D0=B5 =D0=
+=B2=D1=8B=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>=D0=A0=D0=B5=D0=B3=D1=83=D0=BB=D1=8F=D1=80=D0=BD=D1=8B=D0=B5 =D0=B2=
+=D1=8B=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F</h1>
+    <div class=3D"Section1">
+        <p><strong>=D0=9E=D1=81=D0=BE=D0=B1=D0=B5=D0=BD=D0=BD=D0=BE=D1=81=
+=D1=82=D0=B8</strong>:</p>
+<ul>
+<li><p>=D0=9F=D0=BB=D0=BE=D1=85=D0=BE =D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=B0=
+=D0=B5=D1=82 =D1=81 =D0=BA=D0=B8=D1=80=D0=B8=D0=BB=D0=BB=D0=B8=D1=86=D0=B5=
+=D0=B9</p></li>
+</ul>
+<div class=3D"table-wrap">
+<table data-layout=3D"wide" data-local-id=3D"abcd6645-70a2-4885-8405-74c525=
+71d4b9" class=3D"confluenceTable">
+<colgroup>
+<col style=3D"width: 67.0px;">
+<col style=3D"width: 192.0px;">
+<col style=3D"width: 94.0px;">
+<col style=3D"width: 128.0px;">
+<col style=3D"width: 229.0px;">
+<col style=3D"width: 110.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p><strong>=E2=84=96</strong></p></th>
+<th data-highlight-colour=3D"var(--ds-background-neutral, #F4F5F7)" class=
+=3D"confluenceTh"><p><strong>=D0=9E=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=D0=
+=B5</strong></p></th>
+<th data-highlight-colour=3D"var(--ds-background-neutral, #F4F5F7)" class=
+=3D"confluenceTh"><p><strong>=D0=A0=D0=B5=D0=B3=D1=83=D0=BB=D1=8F=D1=80=D0=
+=BD=D0=BE=D0=B5 =D0=B2=D1=8B=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D0=B5</str=
+ong></p></th>
+<th data-highlight-colour=3D"var(--ds-background-neutral, #F4F5F7)" class=
+=3D"confluenceTh"><p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 =D1=80=D0=
+=B5=D0=B3. =D0=B2=D1=8B=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F</strong><=
+/p></th>
+<th data-highlight-colour=3D"var(--ds-background-neutral, #F4F5F7)" class=
+=3D"confluenceTh"><p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 =D1=81=D1=
+=82=D1=80=D0=BE=D0=BA=D0=B8</strong></p></th>
+<th data-highlight-colour=3D"var(--ds-background-neutral, #F4F5F7)" class=
+=3D"confluenceTh"><p><strong>=D0=A1=D0=BE=D0=B2=D0=BF=D0=B0=D0=B4=D0=B5=D0=
+=BD=D0=B8=D1=8F =D1=81 =D1=88=D0=B0=D0=B1=D0=BB=D0=BE=D0=BD=D0=BE=D0=BC</st=
+rong></p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>1</p></td>
+<td class=3D"confluenceTd"><p>=D0=9B=D1=8E=D0=B1=D0=BE=D0=B9 =D1=81=D0=B8=
+=D0=BC=D0=B2=D0=BE=D0=BB</p></td>
+<td class=3D"confluenceTd"><p>.</p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(255,153,31);">.</sp=
+an>+</p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(255,153,31);">1aA_!=
+@</span></p></td>
+<td class=3D"confluenceTd"><p>1aA_!@</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>2</p></td>
+<td class=3D"confluenceTd"><p>=D0=A6=D0=B8=D1=84=D1=80=D0=B0</p></td>
+<td class=3D"confluenceTd"><p>\d</p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(255,153,31);">\d</s=
+pan></p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(255,153,31);">12 </=
+span>3 4 56 789</p></td>
+<td class=3D"confluenceTd"><p>1: 1</p><p>2: 2</p><p>=E2=80=A6</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>3</p></td>
+<td class=3D"confluenceTd"><p>=D0=9D=D0=B5 =D1=86=D0=B8=D1=84=D1=80=D0=B0</=
+p></td>
+<td class=3D"confluenceTd"><p>\D</p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(255,153,31);">\D</s=
+pan></p></td>
+<td class=3D"confluenceTd"><p>12<span style=3D"color: rgb(255,153,31);">A</=
+span>345<span style=3D"color: rgb(255,153,31);">!</span>6</p></td>
+<td class=3D"confluenceTd"><p>1: A</p><p>2: !</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>4</p></td>
+<td class=3D"confluenceTd"><p>=D0=9F=D1=80=D0=BE=D0=B1=D0=B5=D0=BB</p></td>
+<td class=3D"confluenceTd"><p>\s</p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(255,153,31);">\s</s=
+pan>\d{2}</p></td>
+<td class=3D"confluenceTd"><p>123 <span style=3D"color: rgb(255,153,31);">4=
+5</span>6</p></td>
+<td class=3D"confluenceTd"><p>=E2=80=9C=D0=BF=D1=80=D0=BE=D0=B1=D0=B5=D0=BB=
+=E2=80=9C45</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>5</p></td>
+<td class=3D"confluenceTd"><p>=D0=9D=D0=B5 =D0=BF=D1=80=D0=BE=D0=B1=D0=B5=
+=D0=BB</p></td>
+<td class=3D"confluenceTd"><p>\S</p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(255,153,31);">\S</s=
+pan></p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(255,153,31);">1</sp=
+an> <span style=3D"color: rgb(255,153,31);">2</span></p></td>
+<td class=3D"confluenceTd"><p>1: 1</p><p>2: 2</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>6</p></td>
+<td class=3D"confluenceTd"><p>=D0=91=D1=83=D0=BA=D0=B2=D0=B5=D0=BD=D0=BD=D0=
+=BE-=D1=86=D0=B8=D1=84=D1=80=D0=BE=D0=B2=D0=BE=D0=B9 =D1=81=D0=B8=D0=BC=D0=
+=B2=D0=BE=D0=BB =D0=B8=D0=BB=D0=B8 =D0=BF=D0=BE=D0=B4=D1=87=D0=B5=D1=80=D0=
+=BA=D0=B8=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5</p></td>
+<td class=3D"confluenceTd"><p>\w</p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(255,153,31);">\w</s=
+pan>+</p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(255,153,31);">1_</s=
+pan>!.,<span style=3D"color: rgb(255,153,31);">aA</span>@&amp;-</p></td>
+<td class=3D"confluenceTd"><p>1: 1_</p><p>2: aA</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>7</p></td>
+<td class=3D"confluenceTd"><p>=D0=9B=D1=8E=D0=B1=D0=BE=D0=B9 =D1=81=D0=B8=
+=D0=BC=D0=B2=D0=BE=D0=BB =D0=BA=D1=80=D0=BE=D0=BC=D0=B5 =D0=B1=D1=83=D0=BA=
+=D0=B2=D0=B5=D0=BD=D0=BD=D0=BE-=D1=86=D0=B8=D1=84=D1=80=D0=BE=D0=B2=D0=BE=
+=D0=B3=D0=BE =D0=B8=D0=BB=D0=B8 =D0=BF=D0=BE=D0=B4=D1=87=D0=B5=D1=80=D0=BA=
+=D0=B8=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F</p></td>
+<td class=3D"confluenceTd"><p>\W</p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(255,153,31);">\W</s=
+pan>+</p></td>
+<td class=3D"confluenceTd"><p>1_<span style=3D"color: rgb(255,153,31);">!.,=
+</span>a<span style=3D"color: rgb(255,153,31);">@&amp;-</span>A</p></td>
+<td class=3D"confluenceTd"><p>1: !.,</p><p>2: @&amp;-</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>8</p></td>
+<td class=3D"confluenceTd"><p>=D0=9D=D0=BE=D0=B2=D0=B0=D1=8F =D1=81=D1=82=
+=D1=80=D0=BE=D0=BA=D0=B0</p></td>
+<td class=3D"confluenceTd"><p>\n</p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(255,153,31);">\n</s=
+pan>\d{2}</p></td>
+<td class=3D"confluenceTd"><p>123<span style=3D"color: rgb(255,153,31);">\n=
+45</span>6</p></td>
+<td class=3D"confluenceTd"><p>=E2=80=9C\n=E2=80=9C45</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>9</p></td>
+<td class=3D"confluenceTd"><p>=D0=A2=D0=B0=D0=B1=D1=83=D0=BB=D1=8F=D1=86=D0=
+=B8=D1=8F</p></td>
+<td class=3D"confluenceTd"><p>\t</p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(255,153,31);">\t</s=
+pan>\d{2}</p></td>
+<td class=3D"confluenceTd"><p>123<span style=3D"color: rgb(255,153,31);">\t=
+45</span>6</p></td>
+<td class=3D"confluenceTd"><p>=E2=80=9C\t=E2=80=9D45</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>10</p></td>
+<td class=3D"confluenceTd"><p>=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=82 =
+=D0=BA=D0=B0=D1=80=D0=B5=D1=82=D0=BA=D0=B8</p></td>
+<td class=3D"confluenceTd"><p>\r</p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(255,153,31);">\r</s=
+pan>\d{2}</p></td>
+<td class=3D"confluenceTd"><p>123<span style=3D"color: rgb(255,153,31);">\r=
+45</span>6</p></td>
+<td class=3D"confluenceTd"><p>=E2=80=9C\r=E2=80=9D45</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>11</p></td>
+<td class=3D"confluenceTd"><p>=D0=9A=D0=BE=D0=BB=D0=B8=D1=87=D0=B5=D1=81=D1=
+=82=D0=B2=D0=BE =D1=81=D0=B8=D0=BC=D0=B2=D0=BE=D0=BB=D0=BE=D0=B2: n =D1=80=
+=D0=B0=D0=B7</p></td>
+<td class=3D"confluenceTd"><p>{n}</p></td>
+<td class=3D"confluenceTd"><p>\d<span style=3D"color: rgb(255,153,31);">{</=
+span>3<span style=3D"color: rgb(255,153,31);">}</span></p></td>
+<td class=3D"confluenceTd"><p>1 2 <span style=3D"color: rgb(255,153,31);">3=
+45</span>6 <span style=3D"color: rgb(255,153,31);">789</span></p></td>
+<td class=3D"confluenceTd"><p>1: 345</p><p>2: 789</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>12</p></td>
+<td class=3D"confluenceTd"><p>=D0=9B=D1=8E=D0=B1=D0=BE=D0=B9 =D0=B8=D0=B7 =
+=D0=BF=D0=B5=D1=80=D0=B5=D1=87=D0=B8=D1=81=D0=BB=D0=B5=D0=BD=D0=BD=D1=8B=D1=
+=85</p></td>
+<td class=3D"confluenceTd"><p>[]</p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(255,153,31);">[</sp=
+an>ab<span style=3D"color: rgb(255,153,31);">]</span>+</p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(255,153,31);">aab</=
+span> ss <span style=3D"color: rgb(255,153,31);">bba</span> ss</p></td>
+<td class=3D"confluenceTd"><p>1: aab</p><p>2: bba</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>13</p></td>
+<td class=3D"confluenceTd"><p>=D0=9B=D1=8E=D0=B1=D0=BE=D0=B9 =D0=BA=D1=80=
+=D0=BE=D0=BC=D0=B5 =D0=BF=D0=B5=D1=80=D0=B5=D1=87=D0=B8=D1=81=D0=BB=D0=B5=
+=D0=BD=D0=BD=D1=8B=D1=85</p></td>
+<td class=3D"confluenceTd"><p>[^]</p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(255,153,31);">[^</s=
+pan>ab<span style=3D"color: rgb(255,153,31);"> ]</span>+</p></td>
+<td class=3D"confluenceTd"><p>aab <span style=3D"color: rgb(255,153,31);">c=
+de</span> bba <span style=3D"color: rgb(255,153,31);">fgh</span></p></td>
+<td class=3D"confluenceTd"><p>1: cde</p><p>2: fgh</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>14</p></td>
+<td rowspan=3D"2" class=3D"confluenceTd"><p>=D0=98=D0=B7 =D0=B4=D0=B8=D0=B0=
+=D0=BF=D0=B0=D0=B7=D0=BE=D0=BD=D0=B0</p></td>
+<td rowspan=3D"2" class=3D"confluenceTd"><p>-</p></td>
+<td class=3D"confluenceTd"><p>[m<span style=3D"color: rgb(255,153,31);">-</=
+span>p]+</p></td>
+<td class=3D"confluenceTd"><p>abcdefghijkl<span style=3D"color: rgb(255,153=
+,31);">mnop</span>qrstuvwxyz</p></td>
+<td class=3D"confluenceTd"><p>mnop</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>15</p></td>
+<td class=3D"confluenceTd"><p>[a<span style=3D"color: rgb(255,153,31);">-</=
+span>dm<span style=3D"color: rgb(255,153,31);">-</span>p]+</p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(255,153,31);">abcd<=
+/span>efghijkl<span style=3D"color: rgb(255,153,31);">mnop</span>qrstuvwxyz=
+</p></td>
+<td class=3D"confluenceTd"><p>1: abcd</p><p>2: mnop</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>18</p></td>
+<td class=3D"confluenceTd"><p>=D0=9D=D0=B0=D1=87=D0=B0=D0=BB=D0=BE =D1=81=
+=D1=82=D1=80=D0=BE=D0=BA=D0=B8</p></td>
+<td class=3D"confluenceTd"><p>^</p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(255,153,31);">^</sp=
+an>\d{3}</p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(255,153,31);">123</=
+span>4 567 89</p></td>
+<td class=3D"confluenceTd"><p>123</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>19</p></td>
+<td class=3D"confluenceTd"><p>=D0=9A=D0=BE=D0=BD=D0=B5=D1=86 =D1=81=D1=82=
+=D1=80=D0=BE=D0=BA=D0=B8</p></td>
+<td class=3D"confluenceTd"><p>$</p></td>
+<td class=3D"confluenceTd"><p>\d{3}<span style=3D"color: rgb(255,153,31);">=
+$</span></p></td>
+<td class=3D"confluenceTd"><p>1234 5 6<span style=3D"color: rgb(255,153,31)=
+;">789</span></p></td>
+<td class=3D"confluenceTd"><p>789</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>20</p></td>
+<td class=3D"confluenceTd"><p>=D0=93=D1=80=D0=B0=D0=BD=D0=B8=D1=86=D0=B0 =
+=D1=81=D0=BB=D0=BE=D0=B2=D0=B0</p></td>
+<td class=3D"confluenceTd"><p>\b</p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(255,153,31);">\b</s=
+pan>123<span style=3D"color: rgb(255,153,31);">\b</span></p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(255,153,31);">123</=
+span>. 1234 <span style=3D"color: rgb(255,153,31);">123</span></p></td>
+<td class=3D"confluenceTd"><p>1: 123</p><p>2: 123</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>21</p></td>
+<td class=3D"confluenceTd"><p>=D0=9D=D0=B5 =D0=B3=D1=80=D0=B0=D0=BD=D0=B8=
+=D1=86=D0=B0 =D1=81=D0=BB=D0=BE=D0=B2=D0=B0</p></td>
+<td class=3D"confluenceTd"><p>\B</p></td>
+<td class=3D"confluenceTd"><p>123<span style=3D"color: rgb(255,153,31);">\B=
+</span></p></td>
+<td class=3D"confluenceTd"><p>123 <span style=3D"color: rgb(255,153,31);">1=
+23</span>45 123</p></td>
+<td class=3D"confluenceTd"><p>123</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>22</p></td>
+<td class=3D"confluenceTd"><p>=D0=9B=D0=B5=D0=BD=D0=B8=D0=B2=D1=8B=D0=B9 =
+=D1=80=D0=B5=D0=B6=D0=B8=D0=BC</p></td>
+<td class=3D"confluenceTd"><p>+?</p></td>
+<td class=3D"confluenceTd"><p>A.<span style=3D"color: rgb(255,153,31);">+?<=
+/span>a</p></td>
+<td class=3D"confluenceTd"><p>Egor <span style=3D"color: rgb(255,153,31);">=
+Alla</span> <span style=3D"color: rgb(255,153,31);">Aleksa</span>ndr</p></t=
+d>
+<td class=3D"confluenceTd"><p>1: Alla</p><p>2: Aleksa</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>23</p></td>
+<td class=3D"confluenceTd"><p>=D0=96=D0=B0=D0=B4=D0=BD=D1=8B=D0=B9 =D1=80=
+=D0=B5=D0=B6=D0=B8=D0=BC</p></td>
+<td class=3D"confluenceTd"><p>+</p></td>
+<td class=3D"confluenceTd"><p>=D0=90.<span style=3D"color: rgb(255,153,31);=
+">+</span>=D0=B0</p></td>
+<td class=3D"confluenceTd"><p>Egor <span style=3D"color: rgb(255,153,31);">=
+Alla</span> <span style=3D"color: rgb(255,153,31);">Aleksa</span>ndr</p></t=
+d>
+<td class=3D"confluenceTd"><p>Alla Aleksa</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_24_1582585427.1696940437808--
